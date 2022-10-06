@@ -1,0 +1,21 @@
+{
+  "name": "__qna__zu0sngzaa6_mir_ist_langweilig",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Mir ist langweilig",
+      "Das ist langweilig",
+      "Langeweile",
+      "ich bin gelangweilt",
+      "Das ist so langweilig",
+      "ziemlich langweilig",
+      "ganz schön langweilig",
+      "das ist total langweilig",
+      "richtig langweilig"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c3x46hldo3_wie_kann_ich_die_kita_wechseln",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Du kannst jederzeit einen Wechselwunsch über das <a style=\"color:#b00000\" href= \"https://portal-koeln.little-bird.de/\" target=\"_blank\" rel=\"noopener\">Elternportal</a> stellen. Bitte beachte, dass Wechselwünsche in der Regel nur in den Fällen Berücksichtigung finden können, wenn alle diejenigen Kinder, die noch keinen Betreuungsplatz erhalten haben, eine Reservierung erhalten haben."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie kann ich die KiTa Wechseln",
+        "Wie kann ich die wechseln",
+        "Ist es möglich die Kita zu wechseln",
+        "Wie wechseln Kita",
+        "Andere Kita",
+        "Wie andere Kita",
+        "Wie kann ich die Kita wechseln",
+        "Kitawechsel möglich",
+        "Wie Kitawechsel",
+        "Besteht die Möglichkeit die Kita zu wechseln",
+        "Ist es für mich möglich die Kita zu wechsel",
+        "Umzug Kitawechsel",
+        "Ich möchte die Kita wechseln"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

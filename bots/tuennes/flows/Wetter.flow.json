@@ -1,0 +1,116 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "description": "",
+  "nodes": [
+    {
+      "id": "6d36f3308f",
+      "name": "entry",
+      "onEnter": [
+        "isSlotFilled {\"query\":\"{{session.slots.city.value}}\"}"
+      ],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "true",
+          "node": "If_slot_city_is_filled"
+        }
+      ],
+      "type": "standard"
+    },
+    {
+      "id": "0bc6cf8c1e",
+      "name": "If_slot_city_is_filled",
+      "next": [
+        {
+          "condition": "temp.slotFilled === 'true'",
+          "node": "Get_Location_By_Query"
+        },
+        {
+          "condition": "temp.slotFilled === 'false'",
+          "node": "missunderstood"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "5ee6452e4b",
+      "name": "show_weather",
+      "next": [
+        {
+          "condition": "temp.notFound  === 'true'",
+          "node": "wetter_error"
+        },
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": ""
+        }
+      ],
+      "onEnter": [
+        "weather {}"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "ea77f7896f",
+      "name": "missunderstood",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-Z5LCJT"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "8d267b6f35",
+      "name": "wetter_error",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-SmDGFS"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "skill-338a3c",
+      "type": "skill-call",
+      "skill": "CallAPI",
+      "name": "Get_Location_By_Query",
+      "flow": "skills/CallAPI-338a3c.flow.json",
+      "next": [
+        {
+          "caption": "On success",
+          "condition": "temp.valid",
+          "node": "show_weather"
+        },
+        {
+          "caption": "On failure",
+          "condition": "!temp.valid",
+          "node": "wetter_error"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "38a2a0150e",
+      "name": "node-4167",
+      "next": [
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-W3DvJi"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

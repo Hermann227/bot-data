@@ -1,0 +1,41 @@
+{
+  "id": "aiduzfrvq3_was_muss_ich_nach_der_erfolgten_namens_nderung_bea",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Nach erfolgter Namensänderung ändere bzw. beantrage bitte folgende Dokumente neu:\n<ul>\n<li><a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/meistgesucht/personalausweis\" target=\"_blank\" rel=\"noopener\">Personalausweis</a> </li>\n<li><a style=\"color:#b00000\" href= \"http://www.stadt-koeln.de/service/meistgesucht/reisepass\" target=\"_blank\" rel=\"noopener\">Reisepass</a> (falls vorhanden) </li>\n<li><a style=\"color:#b00000\" href= \"http://www.stadt-koeln.de/service/produkt/kinderreisepass\" target=\"_blank\" rel=\"noopener\">Kinderreisepass</a> (falls vorhanden) </li>\n<li><a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/produkt/namen-fahrzeug-papieren-aendern?schriftgroesse=normal#:~:text=Sollten%20die%20neuen%20Papiere%20bereits,Teil%20II%20ausgetauscht%20werden%20m%C3%BCssen\" target=\"_blank\" rel=\"noopener\">KFZ-Papiere</a> (falls vorhanden)</li>\n<li>Für deinen <a style=\"color:#b00000\" href= \"http://www.stadt-koeln.de/service/produkt/fuehrerschein-aenderung-von-personendaten-1\" target=\"_blank\" rel=\"noopener\">Führerschein</a> gilt, dass Änderungen nicht erforderlich, aber ratsam sind.</li>\n</ul>"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Was muss ich nach der erfolgten Namensänderung beachten",
+        "Was muss ich neu beantragen wenn neuer Nachname",
+        "Namensänderung. Was jetzt",
+        "Namensänderung Dokumente erneuern",
+        "Dokumente ändern nach Namensänderung",
+        "Neuer Perso nach Namensänderung",
+        "Neuer Reisepass nach Namenänderung",
+        "Neuer Nachname neuer Perso",
+        "Neuer Nachname neuer Personalausweis",
+        "Neue KFZ-Papiere nach Namenänderung",
+        "Namenänderung neue Dokumente",
+        "Namenänderung neuer Führerschein",
+        "Bis wann Dokumente ändern nach Namenänderung",
+        "Nachname neu Dokumente neu",
+        "Neue Ausweise nach Namenänderung",
+        "Neuer Ausweis wegen Namensänderung",
+        "Welche Dokumente muss ich nach Namenänderung neu beantragen",
+        "Welche Papiere nach Namensänderung neu beantragen",
+        "Liste neuer Dokumente nach Namensänderung"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

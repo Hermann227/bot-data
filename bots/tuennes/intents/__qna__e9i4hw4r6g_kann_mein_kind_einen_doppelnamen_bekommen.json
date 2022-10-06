@@ -1,0 +1,24 @@
+{
+  "name": "__qna__e9i4hw4r6g_kann_mein_kind_einen_doppelnamen_bekommen",
+  "contexts": [
+    "global",
+    "Corona und Standesamt"
+  ],
+  "utterances": {
+    "de": [
+      "Kann mein Kind einen Doppelnamen bekommen",
+      "Doppelnamen Kinder",
+      "Doppelnamen Kind",
+      "Kinder sollen Doppelnamen bekommen",
+      "Kind soll Doppelnamen bekommen",
+      "Doppelnamen für Kind erlaubt",
+      "Doppelnamen für Kinder erlaubt",
+      "Wie kann ich meinem Kind einen Doppelnamen geben",
+      "Ich möchte einen Doppelnamen für meine Kinder",
+      "Dürfen Kinder Doppelnamen bekommen",
+      "Wie kann mein Kind einen Doppelnamen bekommen",
+      "Wie können meine Kinder einen Doppelnamen bekommen"
+    ]
+  },
+  "slots": []
+}

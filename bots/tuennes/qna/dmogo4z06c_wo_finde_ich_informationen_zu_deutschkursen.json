@@ -1,0 +1,33 @@
+{
+  "id": "dmogo4z06c_wo_finde_ich_informationen_zu_deutschkursen",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "VHS"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Informationen zu den Deutschkursen an der VHS Köln findest du <a style=\"color:#b00000\" href= \"https://vhs-koeln.de/Artikel/titel-Deutsch+als+Fremdsprache/cmx5485898c7c428.html\" target=\"_blank\" rel=\"noopener\">hier</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wo finde ich Informationen zu Deutschkursen",
+        "Brauche ich für den Deutschkurs einen Termin",
+        "Muss ich einen Termin für den Deutschkurs machen",
+        "Wie mache ich einen Deutschkurs",
+        "Wer kann sich zu Deutschkursen anmelden",
+        "Ist der Deutschkurs morgens",
+        "Findet der Deutschkurs morgens statt",
+        "Finden die Deutschkurse nachmittags statt",
+        "Gibt es die Prüfung Deutsch Deutsch für Zuwanderer",
+        "Gibt es die Prüfung Deutsch B1",
+        "Gibt es im Deutschkurs die Prüfung Goethe Zertifikat B2"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

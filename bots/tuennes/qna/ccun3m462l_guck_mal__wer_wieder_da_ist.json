@@ -1,0 +1,32 @@
+{
+  "id": "ccun3m462l_guck_mal__wer_wieder_da_ist",
+  "data": {
+    "answers": {
+      "de": [
+        "freut mich sehr 😁 Was kann ich jetzt für Dich tun?"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Guck mal, wer wieder da ist",
+        "Schau mal wer wieder da ist",
+        "Ich bin wieder da",
+        "Da bin ich wieder",
+        "Hier bin ich wieder",
+        "Da bin ich schon wieder",
+        "Ich bin zurück",
+        "Ich bin wieder hier",
+        "Bin zurück",
+        "Hier bin ich"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

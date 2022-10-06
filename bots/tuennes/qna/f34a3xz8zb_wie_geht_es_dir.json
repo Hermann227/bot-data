@@ -1,0 +1,33 @@
+{
+  "id": "f34a3xz8zb_wie_geht_es_dir",
+  "data": {
+    "answers": {
+      "de": [
+        "Ausgezeichnet. Wenn ich Ihnen helfen kann, geht es mir noch besser."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie geht es dir",
+        "Wie geht's dir",
+        "Geht's dir gut",
+        "Geht es dir gut",
+        "Wie geht's",
+        "Wie geht's dir heute",
+        "Wie geht es dir heute",
+        "Wie gehts",
+        "Wie gehts dir",
+        "Wie gehts dir heute",
+        "Wie isses"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "8160pgg6cu_was_machst_du",
+  "data": {
+    "answers": {
+      "de": [
+        "Ich beantworte Fragen, so wie diese gerade 😂",
+        "Ich beantworte Deine Fragen 😉",
+        "Tausende Fragen beantworten! "
+      ]
+    },
+    "questions": {
+      "de": [
+        "Was machst du",
+        "Was machst du so",
+        "Was machst du gerade",
+        "Was beschäftigt dich",
+        "Was beschäftigt dich gerade",
+        "Was tust du",
+        "Was machst du den ganzen Tag",
+        "Was tust du den ganzen Tag"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

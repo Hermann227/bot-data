@@ -1,0 +1,28 @@
+{
+  "id": "sfgad2c1p9_kann_ich_dich_etwas_fragen",
+  "data": {
+    "answers": {
+      "de": [
+        "Ich weiß nicht, ob Du das kannst 😉 Spaß! Schieß los.\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Kann ich dich etwas fragen",
+        "Kann ich dich was fragen",
+        "Kann ich eine Frage stellen",
+        "Kann ich etwas fragen",
+        "Kann ich was fragen",
+        "Kann ich dir eine frage stellen"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

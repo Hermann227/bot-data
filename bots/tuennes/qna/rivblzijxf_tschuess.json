@@ -1,0 +1,40 @@
+{
+  "id": "rivblzijxf_tschuess",
+  "data": {
+    "answers": {
+      "de": [
+        "Tschüss 👋",
+        "Man schreibt sich!\n",
+        "Bis dann 😄",
+        "Ich wünsche Dir noch einen schönen Tag. ",
+        "Adios 😁",
+        "Das hat Spaß gemacht. Bis bald! 👋"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Tschuess",
+        "Tschüß",
+        "Auf Wiedersehen",
+        "Bye",
+        "Bye Bye",
+        "Bis dann",
+        "Ciao",
+        "Ich verabschiede mich",
+        "Ich gehe jetzt",
+        "Bis bald",
+        "Bis gleich",
+        "Wiedersehen",
+        "Tschüss"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

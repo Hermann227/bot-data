@@ -1,0 +1,30 @@
+{
+  "id": "juak7828aq_sorry",
+  "data": {
+    "answers": {
+      "de": [
+        "Kein Problem.",
+        "Ist schon okay 😄"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Sorry",
+        "Tut mir leid",
+        "Es tut mir leid",
+        "Entschuldige mich",
+        "Verzeih mir",
+        "Verzeihung",
+        "Ich entschuldige mich"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

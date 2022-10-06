@@ -1,0 +1,27 @@
+{
+  "name": "pegelstandauskunft",
+  "utterances": {
+    "de": [
+      "PegelstandAuskunft",
+      "Wie ist der Pegelstand in Köln?",
+      "Brauche ich Gummistiefel?",
+      "Mein Keller steht unter Wasser!",
+      "Wie hoch Wasserstand des Rheins?",
+      "Wie hoch ist der Rhein in Köln?",
+      "Wie hoch ist der Wasserstand des Rhein?",
+      "Wie ist der Wasserstand in Köln?",
+      "Wie ist der Pegelstand?",
+      "Wie ist der Pegelstand heute?",
+      "Wie hoch ist der Rhein",
+      "Wie hoch steht der Rhein?",
+      "Pegel",
+      "Wasserstand",
+      "Pegelstand Köln",
+      "Wasserstand am Rhein"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

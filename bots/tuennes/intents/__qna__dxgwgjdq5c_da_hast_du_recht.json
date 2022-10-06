@@ -1,0 +1,21 @@
+{
+  "name": "__qna__dxgwgjdq5c_da_hast_du_recht",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Da hast du Recht",
+      "Da liegst du richtig",
+      "Das stimmt",
+      "Du hast Recht",
+      "Du hast absolut Recht",
+      "Du hast auf jeden Fall Recht",
+      "Ich bin ganz deiner Meinung",
+      "Du hast allenfalls Recht",
+      "Stimmt"
+    ]
+  },
+  "slots": []
+}

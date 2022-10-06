@@ -1,0 +1,20 @@
+{
+  "name": "__qna__sg3uefxoay_wo_ist_das_standesamt",
+  "contexts": [
+    "global",
+    "Corona und Standesamt"
+  ],
+  "utterances": {
+    "de": [
+      "Wo ist das Standesamt",
+      "Wo finde ich das Standesamt",
+      "Standesamt Haus Neuerburg",
+      "Wo Haus Neuerburg",
+      "Adresse Standesamt",
+      "Standort Standesamt",
+      "Wo Eheschließung Köln",
+      "Wo Hochzeit Köln"
+    ]
+  },
+  "slots": []
+}

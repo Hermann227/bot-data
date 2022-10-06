@@ -1,0 +1,22 @@
+{
+  "name": "__qna__s61edjypap_wie_sind_die_betreuungszeiten_in_der_kita",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wie sind die Betreuungszeiten in der KiTa",
+      "Wie sind die Betreuungszeiten bei der KiTa",
+      "Wo kann ich die Bereuungszeiten der Kita einsehen",
+      "Was Betreuungszeiten Kita",
+      "Wo stehen Betreuungszeiten Kita",
+      "Wann betreut die Kita",
+      "Wann ist Kita offen",
+      "Wie sind die Öffnungszeiten der Kita",
+      "Von wann bis wann kann mein Kind betreut werden",
+      "Wann Kinderbetreuung"
+    ]
+  },
+  "slots": []
+}

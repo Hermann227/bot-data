@@ -1,0 +1,40 @@
+{
+  "id": "y58a4kl1ba_mir_gehts_auch_gut",
+  "data": {
+    "answers": {
+      "de": [
+        "Das freut mich!\n",
+        "Sehr schön 🙂\n",
+        "Super, dann können wir uns gut gelaunt auf Deine Fragen stürzen 😉\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "mir gehts auch gut",
+        "danke mir geht's auch gut",
+        "danke, mir auch",
+        "mir auch",
+        "mir geht es auch gut",
+        "danke, mir geht es auch gut",
+        "mir geht's gut",
+        "mir geht es gut",
+        "Auch gut",
+        "Ebenfalls",
+        "mir geht's auch gut, danke",
+        "danke, auch gut",
+        "danke, mir geht's gut",
+        "danke, gut",
+        "auch gut, danke",
+        "mir geht's auch gut"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

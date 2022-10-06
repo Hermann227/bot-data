@@ -1,0 +1,26 @@
+{
+  "id": "06v64hle3o_was_ist_ein_chatbot",
+  "data": {
+    "answers": {
+      "de": [
+        "Ein Chatbot ist ein textbasiertes Dialogsystem, mit dem Du chatten kannst. So wie mit mir! 😃"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Was ist ein Chatbot",
+        "Was ist ein Bot",
+        "Was ist ein automatischer Assistent",
+        "Was bist du"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

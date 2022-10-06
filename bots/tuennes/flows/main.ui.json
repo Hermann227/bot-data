@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "daa7406b51",
+      "position": {
+        "x": 85,
+        "y": -75
+      }
+    },
+    {
+      "id": "skill-b27e8f",
+      "position": {
+        "x": 360,
+        "y": 85
+      }
+    },
+    {
+      "id": "970b9223df",
+      "position": {
+        "x": 840,
+        "y": 230
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "daa7406b51",
+      "sourcePort": "out0",
+      "target": "skill-b27e8f",
+      "points": [
+        {
+          "x": 285,
+          "y": -31
+        },
+        {
+          "x": 361,
+          "y": 102
+        }
+      ]
+    }
+  ]
+}

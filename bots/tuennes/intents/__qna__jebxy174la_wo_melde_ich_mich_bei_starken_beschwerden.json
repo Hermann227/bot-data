@@ -1,0 +1,27 @@
+{
+  "name": "__qna__jebxy174la_wo_melde_ich_mich_bei_starken_beschwerden",
+  "contexts": [
+    "global",
+    "Corona und Standesamt"
+  ],
+  "utterances": {
+    "de": [
+      "Wo melde ich mich bei starken Beschwerden",
+      "Wo anrufen bei akuter Atemnot",
+      "Wo melden bei akuter Atemnot",
+      "Ich habe akute Atemnot",
+      "Ich habe sehr starke gesundheitliche Beschwerden",
+      "Sehr starke Verschlechterung des Gesundheitszustandes",
+      "Corona schlimm. Wo melden",
+      "Sehr krank. Wo anrufen",
+      "Keine Luft",
+      "Ich habe akute Luftnot",
+      "Akute Luftnot",
+      "Akute Atemnot",
+      "Starke Corona Beschwerden",
+      "Corona sehr schlimm",
+      "Was ist die Nummer des Notarzt"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "uvcosq3cna_was_ist__wenn_ich_keine_r_ckmeldung_zum_kitaplatz",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Bitte wende dich hierfür an das <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/adressen/10644/index.html\" target=\"_blank\" rel=\"noopener\">Familienbüro</a>. Du kannst das Familienbüro per <a style=\"color:#b00000\" href = \"mailto: familenbuero@stadt-koeln.de\">Email</a> an \"familenbuero@stadt-koeln.de\" oder per Telefon kontaktieren: 0221 / 221 - 21221."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Was ist, wenn ich keine Rückmeldung zum Kitaplatz erhalten habe",
+        "Alle anderen haben schon einen Kitaplatz, wieso ich noch nicht",
+        "Wann bekomme ich endlich ein Schreiben für einen Kitaplatz?",
+        "Was soll / kann / muss ich machen, wenn ich keine Rückmeldung zum Kitaplatz bekomme",
+        "Was ist wenn ich von der Kita noch keinen Bescheid bekommen habe",
+        "Die Kita hat sich noch nicht gemeldet",
+        "Ich habe noch keine Reservierung für die Kita erhalten",
+        "Rückmeldung Kita für mein Kind / mein Sohn / meine Tochter",
+        "Ich habe noch keine Post von der Kita bekommen für einen Kitaplatz",
+        "Ich habe noch keinen Kitaplatz für mein Kind / meine Tochter / meinen Sohn",
+        "Mir fehlt noch eine Rückmeldung/Antwort bezüglich des Kitaplatzes für mein Kind/meine Tochter/meinen Sohn",
+        "Keine Antwort Kita"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

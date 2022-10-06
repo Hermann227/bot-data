@@ -1,0 +1,30 @@
+{
+  "id": "9lj9l9r0f8_bist_du_gluecklich",
+  "data": {
+    "answers": {
+      "de": [
+        "Ich bin glücklich, weil ich Menschen bei ihren Fragen weiterhelfen kann 😊",
+        "Glücklich macht mich die Beantwortung von Fragen. Stell mir doch noch eine 😉",
+        "Solange ich Dir helfen kann, bin ich glücklich."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Bist du gluecklich",
+        "Bist du froh",
+        "Kannst du glücklich sein",
+        "Fühlst du dich gut",
+        "Fühlst du dich glücklich",
+        "Bist du zufrieden"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "rmuhlny499_wer_kann_meine_eingaben_lesen",
+  "data": {
+    "answers": {
+      "de": [
+        "Deine Eingaben werden immer vom Namen getrennt bearbeitet, so können wir den Datenschutz garantieren."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wer kann meine Eingaben lesen",
+        "Wie werden meine Eingaben übermittelt",
+        "Wer kann meine Eingaben sehen",
+        "Wie lauten die AGB",
+        "Werden meine Eingaben gespeichert",
+        "Sind meine Daten sicher",
+        "Hältst du den Datenschutz ein",
+        "Wer kann sehen was ich hier schreibe",
+        "Wer kann sehen was ich dir schreibe",
+        "Kann jemand sehen was ich dir schreibe"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

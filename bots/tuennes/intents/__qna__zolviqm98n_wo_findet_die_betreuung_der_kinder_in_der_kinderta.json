@@ -1,0 +1,31 @@
+{
+  "name": "__qna__zolviqm98n_wo_findet_die_betreuung_der_kinder_in_der_kinderta",
+  "entities": [],
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wo findet die Betreuung der Kinder in der Kindertagespflege statt",
+      "Wo ist die Kindertagespflege",
+      "Wo ist die Tagespflege",
+      "Wo ist die Tagesmutter",
+      "Wo ist der Tagesvater",
+      "Wo wird mein Kind von der Tagesmutter / von dem Tagesvater betreut",
+      "Wo Kindertagespflege",
+      "Wo Tagesmutter",
+      "Wo Tagesvater",
+      "Wo sind die Kinder dann mit der Tagesmutter / mit dem Tagesvater",
+      "Wo werden die Kinder betreut (von der Tagesmutter / dem Tagesvater)",
+      "Sind die Kinder dann Zuhause bei der Tagesmutter / dem Tagesvater",
+      "Betreuung Tagesmutter/Tagesvater Zuhause",
+      "Kommt die Tagesmutter zu mir",
+      "Kommt der Tagesvater zu mir",
+      "Kommt Tagesmutter/Tagesvater bei mir zu hause",
+      "Wo findet die Betreuung in der Tagespflege statt",
+      "Wo sind die Räume der Tagespflege"
+    ]
+  },
+  "slots": []
+}

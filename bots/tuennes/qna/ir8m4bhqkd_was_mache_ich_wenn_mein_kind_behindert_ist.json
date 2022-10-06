@@ -1,0 +1,34 @@
+{
+  "id": "ir8m4bhqkd_was_mache_ich_wenn_mein_kind_behindert_ist",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Bitte gib bei der Anmeldung in Little Bird an, dass für dein Kind Förderbedarf besteht. Zusätzlich bitten wir dich, Kontakt zum Landschaftsverband Rheinland aufzunehmen, um eine Personenkreisbestimmung vorzunehmen. Weitere Information findest du auf dieser <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/produkte/00898/index.html\" target=\"_blank\" rel=\"noopener\">Website</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Was mache ich wenn mein Kind behindert ist",
+        "Was mache ich wenn mein Kind krank ist",
+        "Was mache ich wenn mein Kind eine Behinderung hat",
+        "Was mache ich, wenn mein Kind eine körperliche Behinderung hat",
+        "Was mache ich, wenn mein Kind eine geistige Behinderung hat",
+        "Was mache ich, wenn mein Kind eine Lernbehinderung hat",
+        "Was mache ich, wenn mein Kind eine Diagnose hat",
+        "Ich brauche Frühförderung",
+        "Was muss ich machen, wenn ich Frühförderung brauche",
+        "Was muss ich machen, wenn ich einen Integrationshelfer für mein Kind brauche? Was muss ich machen, wenn mein Kind einen Integrationshelfer (in der Kita) braucht",
+        "Was mache ich, wenn mein Kind eine Lernbehinderung hat?  Muss geklärt werden, ob auch LVR",
+        "Was mache ich, wenn mein Kind in eine Integrative Einrichtung/KiTa sollte / muss"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

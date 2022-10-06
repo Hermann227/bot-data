@@ -1,0 +1,35 @@
+{
+  "name": "__qna__7gl19hgiyx_erzaehl_einen_witz",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Erzaehl einen Witz",
+      "Witz",
+      "Kennst du einen Witz",
+      "Erzähl doch mal einen Witz",
+      "Erzähl mal einen Witz",
+      "Erzähl Witz",
+      "Kennst Du einen Witz",
+      "Kannst Du einen Witz erzählen",
+      "Bitte erzähl mir einen Witz",
+      "Bitte erzähl einen Witz",
+      "Erzähl einen Witz",
+      "Erzähl mir einen Witz",
+      "Kannst du Witze erzählen",
+      "Kannst du einen Witz erzählen",
+      "Sag was lustiges",
+      "Witz des Tages",
+      "Erzähle mir einen Witz",
+      "Hau mal einen Witz raus",
+      "Kennst du auch Witze",
+      "Erzähle einen Witz",
+      "Kannst du auch Witze",
+      "Kannst du Witze",
+      "Kennst du WItze"
+    ]
+  },
+  "slots": []
+}

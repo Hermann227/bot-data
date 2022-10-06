@@ -1,0 +1,33 @@
+{
+  "id": "rz7m044ayy_wann_beginnt_das_semester_an_der_vhs_k_ln",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "VHS"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Informationen zum Semesterbeginn an der VHS Köln findest du <a style=\"color:#b00000\" href= \"https://vhs-koeln.de/Suche?cmxelementid=web4e15b88472a&seite=Programm&s=Wann+beginnt+das+Semester&mf_objekt=Programm&f=&p=\" target=\"_blank\" rel=\"noopener\">hier</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wann beginnt das Semester an der VHS Köln",
+        "Wann fängt das neue Semester an",
+        "Wann geht das nächste Semester los",
+        "War schon aktueller Semesterbeginn",
+        "Wann beginnt das Semester bei der Volkshochschule",
+        "Ab wann fängt das nächste Semester bei der Volkshochschule an",
+        "Wann ist Semesterbeginn bei der Volkshochschule",
+        "Hat das Semester bei der Volkshochschule schon angefangen",
+        "Wann startet das nächste Semester bei der VHS",
+        "Wann fängt das aktuelle Semester bei der VHS an",
+        "Ab wann ist der aktuelle Semesterstart bei der VHS"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

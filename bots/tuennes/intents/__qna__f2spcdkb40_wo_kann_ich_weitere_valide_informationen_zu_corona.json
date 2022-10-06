@@ -1,0 +1,24 @@
+{
+  "name": "__qna__f2spcdkb40_wo_kann_ich_weitere_valide_informationen_zu_corona",
+  "contexts": [
+    "global",
+    "Corona und Standesamt"
+  ],
+  "utterances": {
+    "de": [
+      "Wo kann ich weitere valide Informationen zu Corona finden",
+      "Wo finde ich Informationen zu COVID-19",
+      "Wo finde ich Informationen zu Corona",
+      "Wo finde ich Informationen zum Virus",
+      "Wo finde ich Reisehinweise",
+      "Wie lautet die Nummer vom Gesundheitsministerium NRW",
+      "Wie lautet die Nummer vom Gesundheitsministerium Nordrhein Westfalen",
+      "Wo finde ich weiterführende Links",
+      "Wo finde ich weiterführende Kontakt",
+      "Andere wichtige Websites",
+      "Andere Informationen zu Corona",
+      "Andere Informationen rund um Corona"
+    ]
+  },
+  "slots": []
+}

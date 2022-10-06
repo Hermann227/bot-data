@@ -1,0 +1,15 @@
+{
+  "name": "__qna__vwwa0mel0x_ich_liebe_dich",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Ich liebe Dich",
+      "Ich habe dich lieb",
+      "Du bist ein Schatz"
+    ]
+  },
+  "slots": []
+}

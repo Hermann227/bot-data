@@ -1,0 +1,27 @@
+{
+  "id": "96xmrljqch_bist_du_da",
+  "data": {
+    "answers": {
+      "de": [
+        "Natürlich 🙂 Ich bin bereit für Deine nächste Frage"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Bist du da",
+        "Bist du hier",
+        "Bist du noch da",
+        "Bist du dort",
+        "Bist du noch hier"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

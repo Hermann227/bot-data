@@ -1,0 +1,33 @@
+{
+  "id": "38ogxj4ukp_ich_bin_muede",
+  "data": {
+    "answers": {
+      "de": [
+        "Vielleicht ist es Zeit für eine Pause.",
+        "Dann solltest Du dich ausruhen 😉"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Ich bin muede",
+        "müde",
+        "ich bin sehr müde",
+        "ich bin hundemüde",
+        "ich bin totmüde",
+        "ich bin so müde",
+        "so müde",
+        "ich bin total kaputt",
+        "ich bin kaputt",
+        "Ich bin müde"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

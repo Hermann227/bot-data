@@ -1,0 +1,19 @@
+{
+  "name": "__qna__juak7828aq_sorry",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Sorry",
+      "Tut mir leid",
+      "Es tut mir leid",
+      "Entschuldige mich",
+      "Verzeih mir",
+      "Verzeihung",
+      "Ich entschuldige mich"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "nwo1a35h8f_nein",
+  "data": {
+    "answers": {
+      "de": [
+        "Okay, dann nicht 😄",
+        "Na gut 😁"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Nein",
+        "Nein danke",
+        "Danke aber nein",
+        "Das will ich nicht",
+        "Nö",
+        "Ne",
+        "Nein möchte ich nicht"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

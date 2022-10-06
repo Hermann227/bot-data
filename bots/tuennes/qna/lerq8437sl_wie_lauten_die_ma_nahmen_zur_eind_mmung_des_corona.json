@@ -1,0 +1,35 @@
+{
+  "id": "lerq8437sl_wie_lauten_die_ma_nahmen_zur_eind_mmung_des_corona",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Alle Maßnahmen zur Eindämmung des Corona-Virus in der Stadt Köln findest du <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/leben-in-koeln/gesundheit/infektionsschutz/corona-virus/einschraenkungen-im-oeffentlichen-leben\" target=\"_blank\" rel=\"noopener\">hier</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie lauten die Maßnahmen zur Eindämmung des Corona-Virus in Köln",
+        "Regelungen Corona aktuell",
+        "Corona Maßnahmen aktuell",
+        "Welche Einschränkungen gelten in Köln",
+        "Wo finde ich alle Corona Regelungen in Köln",
+        "Köln Corona Maßnahmen",
+        "Übersicht alle Regelungen die in Köln gelten",
+        "Übersicht alle Maßnahmen zur Eindämmung des Corona- Virus",
+        "Lockdown Regeln Köln ",
+        "Corona Lockdown",
+        "Wie kann ich Corona verhindern?",
+        "Regeln Corona",
+        "Corona"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

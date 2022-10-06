@@ -1,0 +1,37 @@
+{
+  "id": "uudlsdrbgr_wo_finde_ich_das_familienb_ro",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Das Familienbüro befindet sich im Kalk Karreé Ottmar-Pohl-Platz 1, 51103 Köln. \nDer Eingang ist links neben dem Haupteingang. Bitte einfach klingeln, dann öffnet Dir das Familienbüro. Zusätzlich ist das Familienbüro zu folgenden Zeiten telefonisch unter 0221 / 221 - 21221 erreichbar (montags, dienstags und donnerstags: 8 - 15 Uhr und freitags 8 - 12 Uhr). Du kannst dem Familienbüro außerdem jederzeit eine <a style=\"color:#b00000\" href = \"mailto: familenbuero@stadt-koeln.de\">Email</a> an \"familenbuero@stadt-koeln.de\" schreiben oder bequem eine Online-Beratung buchen."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wo finde ich das Familienbüro",
+        "Familienbüro, Stadt Köln",
+        "Wo muss ich hin, wenn ich zum Familienbüro (der Stadt Köln) möchte",
+        "Welche Adresse hat das Familienbüro",
+        "Wie ist die Adresse vom Familienbüro",
+        "Wie erreiche ich das Familienbüro",
+        "Wie sind die Kontaktdaten vom Familienbüro",
+        "Wie ist der Kontakt vom Familienbüro",
+        "Wie ist die Telefonnummer vom Familienbüro",
+        "Wie ist die Email(adresse) vom Familienbüro",
+        "Wo muss ich hin, wenn ich zum Familienbüro möchte",
+        "Wo ist das Familienbüro",
+        "wie finde ich das Familienbüro",
+        "Wo ist das Familen Büro",
+        "Wie komme ich zum Familienbüro"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

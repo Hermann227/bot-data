@@ -1,0 +1,19 @@
+{
+  "name": "__qna__pukj515yxw_wollen_wir_ausgehen",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Wollen wir ausgehen",
+      "Willst du mit mir ausgehen",
+      "Willst du mit mir gehen",
+      "Lust auf ein Date",
+      "Willst du ein Date mit mir",
+      "Gehen wir aus",
+      "Gehen wir auf ein Date"
+    ]
+  },
+  "slots": []
+}

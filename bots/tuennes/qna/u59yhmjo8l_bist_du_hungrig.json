@@ -1,0 +1,29 @@
+{
+  "id": "u59yhmjo8l_bist_du_hungrig",
+  "data": {
+    "answers": {
+      "de": [
+        "Essen ist immer gut, brauche ich aber nicht 😊"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Bist du hungrig",
+        "Hast du hunger",
+        "willst du essen",
+        "Brauchst du essen",
+        "Musst du essen",
+        "Kannst du essen",
+        "Willst du etwas essen"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

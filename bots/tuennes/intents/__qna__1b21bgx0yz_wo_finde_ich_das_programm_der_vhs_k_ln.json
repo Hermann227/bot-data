@@ -1,0 +1,24 @@
+{
+  "name": "__qna__1b21bgx0yz_wo_finde_ich_das_programm_der_vhs_k_ln",
+  "contexts": [
+    "global",
+    "VHS"
+  ],
+  "utterances": {
+    "de": [
+      "Wo finde ich das Programm der VHS Köln",
+      "Wann erscheint das aktuelle Programm",
+      "Wo ist das Programm",
+      "Wann ist das Programm da",
+      "Wann kommt das Programm",
+      "Ab wann kommen die nächsten Kurse",
+      "Wo kann ich mir die neuen Kurse anschauen",
+      "Wann erscheinen die nächsten Kurse",
+      "Wo finde ich die neuen Kurse",
+      "Wann scheinen die aktuellen Veranstaltungen",
+      "Ab wann werden die aktuellen Veranstaltungen veröffentlicht",
+      "Ab wann kommen die neuen Veranstaltungen"
+    ]
+  },
+  "slots": []
+}

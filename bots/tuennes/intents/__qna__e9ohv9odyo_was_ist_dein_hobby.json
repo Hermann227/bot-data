@@ -1,0 +1,19 @@
+{
+  "name": "__qna__e9ohv9odyo_was_ist_dein_hobby",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Was ist dein Hobby",
+      "Hast du ein Hobby",
+      "Hast du Hobbies",
+      "Was machst du gerne",
+      "Was magst du",
+      "Was sind deine Hobbies",
+      "Was machst du am liebsten"
+    ]
+  },
+  "slots": []
+}

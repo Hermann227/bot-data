@@ -1,0 +1,42 @@
+{
+  "name": "vsm",
+  "utterances": {
+    "de": [
+      "Ich habe eine Frage zu [xxx](vsmQuery)",
+      "Ich brauche einen neuen [Personalausweis](vsmQuery)",
+      "Ich brauche einen neuen [Reisepass](vsmQuery)",
+      "ich habe meinen [Reisepass verloren](vsmQuery)",
+      "ich habe meinen [Personalausweis verloren](vsmQuery)",
+      "frage zum [Bebauungsplan](vsmQuery)",
+      "ich möchte ein [Gewerbe](vsmQuery) anmelden",
+      "ich brauche ein [Auskunft zu Altlasten](vsmQuery)",
+      "darf ich mit 17 schon Auto [fahren](vsmQuery)",
+      "frage zu [begleitetes fahren](vsmQuery)",
+      "ich möchte meinen [Schwerbehindertenausweis](vsmQuery) verlängern lassen",
+      "ich möchte meinen [Personalausweis](vsmQuery) verlängern lassen",
+      "ich möchte meinen [Reisepass](vsmQuery) verlängern lassen",
+      "Ich bin Schüler und habe eine Frage zu [Ausbildungsförderung](vsmQuery)",
+      "Bekomme ich [Ausbildungsförderung](vsmQuery)",
+      "frage zu [Ausbildungsförderung](vsmQuery)",
+      "frage zu [Elternzeit](vsmQuery)",
+      "frage zu [Elterngeld](vsmQuery)",
+      "wo kann ich ein [Gewerbe](vsmQuery) anmelden",
+      "wo kann ich einen [xxx](vsmQuery) beantragen?",
+      "wo bekomme ich [xxx](vsmQuery)",
+      "ich brauche eine [xxx](vsmQuery)"
+    ]
+  },
+  "slots": [
+    {
+      "id": "hIdqbf0cW899gPQrfBvPF",
+      "name": "vsmQuery",
+      "entities": [
+        "any"
+      ],
+      "color": 1
+    }
+  ],
+  "contexts": [
+    "global"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "__qna__77flyk3fki_wie_hei_t_du",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Wie heißt du",
+      "Was ist dein Name",
+      "Wie ist dein Name",
+      "Wie lautet dein Name",
+      "Wie nennt man dich",
+      "Wie heisst du"
+    ]
+  },
+  "slots": []
+}

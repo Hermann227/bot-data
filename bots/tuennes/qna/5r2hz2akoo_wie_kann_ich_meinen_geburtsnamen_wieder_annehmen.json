@@ -1,0 +1,29 @@
+{
+  "id": "5r2hz2akoo_wie_kann_ich_meinen_geburtsnamen_wieder_annehmen",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Wenn du verwitwet oder rechtskräftig geschieden bist, kannst du deinen Geburtsnamen wieder annehmen. Weiterführende Information zur Wiederannahme deines Geburtsnamens findest du <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/produkt/wiederannahme-des-geburtsnamens-oder-frueheren-familiennamens\" target=\"_blank\" rel=\"noopener\">hier</a>.\nHat die Eheschließung in Köln stattgefunden, so ist es nicht erforderlich, die Ablichtung aus dem Eheregister vorab zu bestellen. Diese kann dann bei der Vorsprache im Standesamt eingesehen werden.\n\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie kann ich meinen Geburtsnamen wieder annehmen",
+        "Vorgehehen Geburtsnamen wiederannehmen",
+        "Vorgehehen Geburtsnamen wieder annehmen",
+        "Wie Geburtsnamen wieder annehmen",
+        "Termin für persönliches Vorgespräch zu Wiederannahme des Geburtsnamen",
+        "Persönliche Vorsprache Wiederannehme Geburtsname",
+        "Termin Wiederannahme des Geburtsnamens"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

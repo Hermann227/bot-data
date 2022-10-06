@@ -1,0 +1,7 @@
+/* EuroPlate */
+@font-face {
+    font-family: 'EuroPlate';
+    font-style: normal;
+    font-weight: 300;
+    src: local('EuroPlate'), url(EuroPlate.ttf) format('truetype');
+  }

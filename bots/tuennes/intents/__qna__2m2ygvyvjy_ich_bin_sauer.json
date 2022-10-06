@@ -1,0 +1,20 @@
+{
+  "name": "__qna__2m2ygvyvjy_ich_bin_sauer",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Ich bin sauer",
+      "Ich könnte ausrasten",
+      "Ich bin schlecht gelaunt",
+      "Ich bin schlecht drauf",
+      "Ich rege mich auf",
+      "Ich bin verärgert",
+      "Ich bin wütend",
+      "Ich bin zornig"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "lzxoakpxow_ehrenpatenschaft_des_bundespr_sidenten_f_r_das_sie",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Der Bundespräsident übernimmt auf Antrag der Eltern die Ehrenpatenschaft für das siebte Kind einer Familie. Diese Ehrenpatenschaft hat in erster Linie symbolischen Charakter. Sie ist mit der Taufpatenschaft nicht zu vergleichen. Weitere Information zur Ehrenpatenschaft erhältst du <a style=\"color:#b00000\" href= \"https://www.bundespraesident.de/DE/Amt-und-Aufgaben/Wirken-im-Inland/Jubilaeen-und-Ehrenpatenschaften/jubilaeen-und-ehrenpatenschaften-node.html\" target=\"_blank\" rel=\"noopener\">hier</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Ehrenpatenschaft des Bundespräsidenten für das siebte Kind",
+        "Patenschaft des Bundespräsidenten",
+        "Bundespräsident als Pate",
+        "Ehrenpatenschaft für Kind",
+        "Siebtes Kind Bundespräsident",
+        "Kann der Bundespräsident Pate für mein Kind werden",
+        "Bundespräsidentin als Patin für mein Kind",
+        "Bundespräsident als Patenonkel",
+        "Bundespräsidentin als Patentante",
+        "Wie viele Kinder für Ehrenpatenschaft"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

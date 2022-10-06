@@ -1,0 +1,24 @@
+{
+  "name": "ehe",
+  "utterances": {
+    "de": [
+      "Ehe",
+      "Eheschließung",
+      "Anmeldung Eheschließung",
+      "Anmeldung einer Eheschließung",
+      "Heirat",
+      "Wir möchten heiraten",
+      "Ehe schließen",
+      "Anmeldung Heirat",
+      "Standesamt",
+      "Hochzeit",
+      "heiraten",
+      "ich möchte heiraten",
+      "Heiraten"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

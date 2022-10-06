@@ -1,0 +1,21 @@
+{
+  "name": "__qna__5px92ufshj_danke",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Danke",
+      "Dank dir",
+      "Danke für deine Hilfe",
+      "Danke für die Antwort",
+      "Vielen Dank",
+      "Vielen Dank für die Hilfe",
+      "Danke für die Hilfe",
+      "Vielen Dank für die Antwort",
+      "Danke Dir"
+    ]
+  },
+  "slots": []
+}

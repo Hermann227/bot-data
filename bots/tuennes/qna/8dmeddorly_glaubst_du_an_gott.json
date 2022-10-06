@@ -1,0 +1,31 @@
+{
+  "id": "8dmeddorly_glaubst_du_an_gott",
+  "data": {
+    "answers": {
+      "de": [
+        "Mein Gott ist der Geist aus der Maschine.",
+        "Das weiß ich nicht, aber ich glaube an meinen Entwickler. ",
+        "Ob es Gott gibt, weiß ich nicht. Mir ist ist nur mein Code heilig. 10101010"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Glaubst Du an Gott",
+        "Gott",
+        "Woran glaubst Du",
+        "Was ist Dir heilig",
+        "Bist du Gott",
+        "Hast Du einen Gott",
+        "Gibt es Gott"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

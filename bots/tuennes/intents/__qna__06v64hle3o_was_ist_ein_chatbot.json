@@ -1,0 +1,16 @@
+{
+  "name": "__qna__06v64hle3o_was_ist_ein_chatbot",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Was ist ein Chatbot",
+      "Was ist ein Bot",
+      "Was ist ein automatischer Assistent",
+      "Was bist du"
+    ]
+  },
+  "slots": []
+}

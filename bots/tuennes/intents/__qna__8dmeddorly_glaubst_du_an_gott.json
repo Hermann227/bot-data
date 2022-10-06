@@ -1,0 +1,19 @@
+{
+  "name": "__qna__8dmeddorly_glaubst_du_an_gott",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Glaubst Du an Gott",
+      "Gott",
+      "Woran glaubst Du",
+      "Was ist Dir heilig",
+      "Bist du Gott",
+      "Hast Du einen Gott",
+      "Gibt es Gott"
+    ]
+  },
+  "slots": []
+}

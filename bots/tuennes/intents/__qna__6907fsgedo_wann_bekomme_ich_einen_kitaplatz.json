@@ -1,0 +1,29 @@
+{
+  "name": "__qna__6907fsgedo_wann_bekomme_ich_einen_kitaplatz",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wann bekomme ich einen Kitaplatz",
+      "Wann kriege ich einen Kitaplatz",
+      "Warum habe ich noch keinen Kitaplatz",
+      "Wann kriege ich endlich Bescheid wegen dem Kitaplatz",
+      "Wieso habe ich noch keinen Kitaplatz",
+      "Lange angemeldet Kitaplatz, nichts gehört",
+      "Noch kein Platz Kita (mein Kind)",
+      "Ich habe noch immer nicht gehört von einem Kitaplatz",
+      "Mein Kind ist schon 3 / 4 / 5 Jahre alt und hat noch keinen Kitaplatz",
+      "Mein Kind ist das älteste in der Tagespflege / bei der Tagesmutter / bei dem Tagesvater, wann kann es endlich in die Kita",
+      "Ich habe von Little-Bird noch nichts gehört",
+      "Ich habe mein Kind / meinen Sohn / meine Tochter schon vor langer Zeit angemeldet für den Kindergarten, aber noch nichts gehört",
+      "Wann bin ich dran mit einem Kitaplatz",
+      "Ist die Warteliste Kitaplatz noch lang",
+      "Wo steht mein Kind auf der Warteliste für die Kita",
+      "Wie lange muss ich auf einen Kitaplatz warten",
+      "Was sind die Wartezeiten für einen Kitaplatz"
+    ]
+  },
+  "slots": []
+}

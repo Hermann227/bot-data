@@ -1,0 +1,31 @@
+{
+  "id": "2m2ygvyvjy_ich_bin_sauer",
+  "data": {
+    "answers": {
+      "de": [
+        "Das tut mir sehr leid. Wie kann ich helfen?",
+        "Ich hoffe, es ist nicht meine Schuld 😮 Kann ich irgendwie helfen?"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Ich bin sauer",
+        "Ich könnte ausrasten",
+        "Ich bin schlecht gelaunt",
+        "Ich bin schlecht drauf",
+        "Ich rege mich auf",
+        "Ich bin verärgert",
+        "Ich bin wütend",
+        "Ich bin zornig"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

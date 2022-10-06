@@ -1,0 +1,121 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": [
+      {
+        "condition": "event.nlu.intent.name === 'start'",
+        "node": "main.flow.json"
+      }
+    ]
+  },
+  "startNode": "Validate_VSM_Slot",
+  "description": "",
+  "nodes": [
+    {
+      "id": "skill-f23161",
+      "type": "skill-call",
+      "skill": "CallAPI",
+      "name": "searchForLeikaCode",
+      "flow": "skills/CallAPI-f23161.flow.json",
+      "next": [
+        {
+          "caption": "On failure",
+          "condition": "!temp.valid",
+          "node": "SearchFailure"
+        },
+        {
+          "caption": "On success",
+          "condition": "temp.valid",
+          "node": "Query_Leika"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "e57d76994f",
+      "name": "Query_Leika",
+      "next": [
+        {
+          "condition": "temp.leikaConfidenceCertainty      === 'moderate'",
+          "node": "Wait_For_User_Choice"
+        },
+        {
+          "condition": "temp.leikaConfidenceCertainty  === 'high'",
+          "node": "Query_VSM"
+        },
+        {
+          "condition": "true",
+          "node": "VSMSearchFailed.flow.json"
+        }
+      ],
+      "onEnter": [
+        "vsm_getLeikaCode {}",
+        "basic-skills/slot_reset {\"slotName\":\"vsmQuery\"}"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "0c7ba8bb49",
+      "name": "SearchFailure",
+      "next": [
+        {
+          "condition": "true",
+          "node": "resetContextAndEndflow.flow.json"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-NbcQlT",
+        "basic-skills/slot_reset {\"slotName\":\"vsmQuery\"}"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "fb7b540a13",
+      "name": "Validate_VSM_Slot",
+      "next": [
+        {
+          "condition": "true",
+          "node": "searchForLeikaCode"
+        }
+      ],
+      "onEnter": [
+        "isSlotFilled {\"query\":\"{{{event.nlu.slots.vsmQuery.value}}}\"}"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "8b9a204b91",
+      "name": "Wait_For_User_Choice",
+      "next": [
+        {
+          "condition": "true",
+          "node": "Query_VSM"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": [],
+      "type": "standard"
+    },
+    {
+      "id": "a0b8c6a88f",
+      "name": "Query_VSM",
+      "next": [
+        {
+          "condition": "temp.noResult    ==='true'",
+          "node": "VSMSearchFailed.flow.json"
+        }
+      ],
+      "onEnter": [
+        "vsm_getVSMText {\"query\":\"{{{event.payload.text}}}\",\"key\":\"{{{event.payload.payload}}}\"}",
+        "basic-skills/slot_reset {\"slotName\":\"vsmQuery\"}"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "__qna__4q8ja5an5k_test",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Test",
+      "Gehst du",
+      "Funktionierst du",
+      "Geht das",
+      "Funktioniert das",
+      "Ich will nur wissen ob du funktionierst",
+      "ich teste dich",
+      "das ist ein Test",
+      "nachts ist es kälter als draußen"
+    ]
+  },
+  "slots": []
+}

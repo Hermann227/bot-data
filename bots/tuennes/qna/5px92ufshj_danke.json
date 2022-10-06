@@ -1,0 +1,36 @@
+{
+  "id": "5px92ufshj_danke",
+  "data": {
+    "answers": {
+      "de": [
+        "Keine Ursache.",
+        "Das ist es, wofür ich hier bin 😄",
+        "Immer wieder gerne 😉",
+        "Kein Problem.",
+        "Frag mich gerne noch etwas 😊",
+        "Ich helfe gerne - das ist mein Job 😉"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Danke",
+        "Dank dir",
+        "Danke für deine Hilfe",
+        "Danke für die Antwort",
+        "Vielen Dank",
+        "Vielen Dank für die Hilfe",
+        "Danke für die Hilfe",
+        "Vielen Dank für die Antwort",
+        "Danke Dir"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "description": "",
+  "nodes": [
+    {
+      "id": "5938b5137b",
+      "name": "entry",
+      "onEnter": [],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "true",
+          "node": "choice-e301e9"
+        }
+      ],
+      "type": "standard"
+    },
+    {
+      "id": "skill-e301e9",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "choice-e301e9",
+      "flow": "skills/choice-e301e9.flow.json",
+      "next": [
+        {
+          "caption": "User picked [BOTPRES...]",
+          "condition": "temp['skill-choice-ret-98kik97z9p'] == \"BOTPRESS.FILE_UPLOAD\"",
+          "node": "node-17a4"
+        },
+        {
+          "caption": "User picked [BOTPRES...]",
+          "condition": "temp['skill-choice-ret-98kik97z9p'] == \"BOTPRESS.IMAGE_UPLOAD\"",
+          "node": "node-17a4"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "node-7b23"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "a93c4246b3",
+      "name": "node-17a4",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "node-b75f"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-HMPlXA"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "708b6b54e9",
+      "name": "node-7b23",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-gI2auK"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "5a40e2e6e8",
+      "name": "node-b75f",
+      "next": [
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "onEnter": [
+        "callActionServer {\"name\":\"action\",\"value\":\"test\"}"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

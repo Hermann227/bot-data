@@ -1,0 +1,19 @@
+{
+  "name": "__qna__nwo1a35h8f_nein",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Nein",
+      "Nein danke",
+      "Danke aber nein",
+      "Das will ich nicht",
+      "Nö",
+      "Ne",
+      "Nein möchte ich nicht"
+    ]
+  },
+  "slots": []
+}

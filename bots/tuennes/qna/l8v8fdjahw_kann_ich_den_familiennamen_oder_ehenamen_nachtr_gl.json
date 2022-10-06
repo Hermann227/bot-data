@@ -1,0 +1,40 @@
+{
+  "id": "l8v8fdjahw_kann_ich_den_familiennamen_oder_ehenamen_nachtr_gl",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Wenn bei der Eheschließung oder Verpartnerung noch kein gemeinsamer Familienname bestimmt wurde, so kann dies jederzeit nachgeholt werden.\nWeitere Informationen zur Bestimmung eines Ehenamens findest du <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/produkt/bestimmung-eines-ehenamens\" target=\"_blank\" rel=\"noopener\">hier</a>.\nWeitere Informationen zur Bestimmung eines Lebenspartnerschaftsnamens findest du <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/produkt/bestimmung-eines-lebenspartnerschaftsnamens\" target=\"_blank\" rel=\"noopener\">hier</a>.\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Kann ich den Familiennamen oder Ehenamen nachträglich erklären",
+        "Ehenamen nach Hochzeit klären ",
+        "Familiennamen nach Hochzeit klären",
+        "Ehenamen nach Hochzeit erklären",
+        "Familiennamen nach Hochzeit erklären",
+        "Nach Eheschließung gemeinsamen Familiennamen bestimmen",
+        "Gemeinsamer Nachname nach Hochzeit",
+        "Gemeinsamer Familienname nach Hochzeit",
+        "Gemeinsamer Ehename nach Hochzeit",
+        "Bestimmung eines Ehenamens",
+        "Bestimmung eines Lebenspartnerschaftsnamens",
+        "Hochzeit im Ausland Familienname bestimmen",
+        "Hochzeit im Ausland Ehenamen bestimmen",
+        "Hochzeit nicht in Deutschland Ehenamen",
+        "Hochzeit nicht in Deutschland Familienname",
+        "Hochzeit nicht in Deutschland Nachname",
+        "Eheschließung im Ausland Nachname",
+        "Eheschließung im Ausland Familienname klären"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

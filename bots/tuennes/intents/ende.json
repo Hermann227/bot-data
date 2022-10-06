@@ -1,0 +1,23 @@
+{
+  "name": "ende",
+  "utterances": {
+    "de": [
+      "ende",
+      "Abbruch",
+      "beenden",
+      "stop",
+      "Reset",
+      "end",
+      "finish",
+      "break",
+      "unterbrechen",
+      "anhalten",
+      "abbrechen",
+      "zurück"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "__qna__96xmrljqch_bist_du_da",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Bist du da",
+      "Bist du hier",
+      "Bist du noch da",
+      "Bist du dort",
+      "Bist du noch hier"
+    ]
+  },
+  "slots": []
+}

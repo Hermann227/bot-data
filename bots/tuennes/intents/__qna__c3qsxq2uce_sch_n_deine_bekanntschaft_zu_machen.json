@@ -1,0 +1,23 @@
+{
+  "name": "__qna__c3qsxq2uce_sch_n_deine_bekanntschaft_zu_machen",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "schoen deine Bekanntschaft zu machen",
+      "schön dich kennen zu lernen",
+      "schön dass wir uns kennen lernen",
+      "freut mich dich kennen zu lernen",
+      "freut mich",
+      "schön dich zu kennen",
+      "freut mich deine Bekanntschaft zu machen",
+      "nett dich kennen zu lernen",
+      "schön dich kennenzulernen",
+      "nett dich kennenzulernen",
+      "freut mich dich kennenzulernen"
+    ]
+  },
+  "slots": []
+}

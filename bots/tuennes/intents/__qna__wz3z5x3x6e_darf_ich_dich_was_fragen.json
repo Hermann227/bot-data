@@ -1,0 +1,28 @@
+{
+  "name": "__qna__wz3z5x3x6e_darf_ich_dich_was_fragen",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Darf ich dich was fragen",
+      "Darf ich eine Frage stellen",
+      "Ich habe eine Frage",
+      "Ich hätte eine Frage",
+      "Ich möchte eine Frage stellen",
+      "Ich stelle eine Frage",
+      "Ich würde gerne eine Frage stellen",
+      "Ich habe eine Frage an dich",
+      "Ich will dich etwas fragen",
+      "Frage",
+      "Ich habe noch eine Frage",
+      "Ich will noch etwas fragen",
+      "Beantworte mir eine Frage",
+      "Kannst du mir eine Frage beantworten",
+      "Kannst du mir ein paar Fragen beantworten",
+      "Ich stelle dir eine Frage"
+    ]
+  },
+  "slots": []
+}

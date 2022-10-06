@@ -1,0 +1,28 @@
+{
+  "id": "77flyk3fki_wie_hei_t_du",
+  "data": {
+    "answers": {
+      "de": [
+        "Mein Name steht oben in der Menüleiste."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie heißt du",
+        "Was ist dein Name",
+        "Wie ist dein Name",
+        "Wie lautet dein Name",
+        "Wie nennt man dich",
+        "Wie heisst du"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

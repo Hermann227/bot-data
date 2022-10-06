@@ -1,0 +1,39 @@
+{
+  "id": "i8i2qi2xp5_kann_die_namens_nderung_auch_direkt_durch_eine_erk",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Alle Infos zur Änderung deines Vor- oder Familiennamens findest du <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/produkt/aenderung-des-vor-oder-familiennamens-1?kontrast=schwarz\" target=\"_blank\" rel=\"noopener\">hier</a>.\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Kann die Namensänderung auch direkt durch eine Erklärung beim Standesamt vonstattengehen",
+        "Namensänderung Standesamt",
+        "Namenänderungen bei Annahme eines Doppelnamens",
+        "Namensänderung bei Doppelnahmen",
+        "Namensänderung bei Annahme vom Doppelnamen",
+        "Doppelnamen annehmen",
+        "Doppelnamen aufgeben",
+        "Namensänderung bei Aufgabe eines Doppelnamens",
+        "Namenserteilung für ein Kind",
+        "Kind Nachname",
+        "Nachname Spätaussiedler",
+        "Wegfall des Vaternamens bei Spätaussiedlern",
+        "Vatername Spätaussiedler",
+        "Vatername weg",
+        "Nachname ändern Spätaussiedler",
+        "Nachname ändern im Standesamt",
+        "Wann Namensänderung im Standesamt"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

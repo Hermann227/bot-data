@@ -1,0 +1,19 @@
+{
+  "name": "__qna__bjrgk7z1fp_ich_hasse_dich",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "ich hasse Dich",
+      "du bist blöd",
+      "du bist scheiße",
+      "du kannst nichts",
+      "du kannst nix",
+      "ich finde dich doof",
+      "du bist doof"
+    ]
+  },
+  "slots": []
+}

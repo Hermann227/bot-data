@@ -1,0 +1,27 @@
+{
+  "name": "__qna__uudlsdrbgr_wo_finde_ich_das_familienb_ro",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wo finde ich das Familienbüro",
+      "Familienbüro, Stadt Köln",
+      "Wo muss ich hin, wenn ich zum Familienbüro (der Stadt Köln) möchte",
+      "Welche Adresse hat das Familienbüro",
+      "Wie ist die Adresse vom Familienbüro",
+      "Wie erreiche ich das Familienbüro",
+      "Wie sind die Kontaktdaten vom Familienbüro",
+      "Wie ist der Kontakt vom Familienbüro",
+      "Wie ist die Telefonnummer vom Familienbüro",
+      "Wie ist die Email(adresse) vom Familienbüro",
+      "Wo muss ich hin, wenn ich zum Familienbüro möchte",
+      "Wo ist das Familienbüro",
+      "wie finde ich das Familienbüro",
+      "Wo ist das Familen Büro",
+      "Wie komme ich zum Familienbüro"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "zu0sngzaa6_mir_ist_langweilig",
+  "data": {
+    "answers": {
+      "de": [
+        "Das tut mir leid. Vielleicht kann ich Dir ja etwas Interessantes beantworten?"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Mir ist langweilig",
+        "Das ist langweilig",
+        "Langeweile",
+        "ich bin gelangweilt",
+        "Das ist so langweilig",
+        "ziemlich langweilig",
+        "ganz schön langweilig",
+        "das ist total langweilig",
+        "richtig langweilig"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "__qna__nu2vgvvycq_wann_wurdest_du_entwickelt",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Wann wurdest du entwickelt",
+      "Wie alt bist du?",
+      "Seit wann gibt es dich",
+      "Wie lange gibt es dich schon",
+      "Wie lange gibt es dich",
+      "Gibt es dich schon lange",
+      "Was ist dein Alter",
+      "Alter von dir",
+      "Wann wurdest du gemacht",
+      "Wie viele Jahre gibt es dich schon"
+    ]
+  },
+  "slots": []
+}

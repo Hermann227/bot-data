@@ -1,0 +1,36 @@
+{
+  "id": "mh25rymcgl_du_bist_super",
+  "data": {
+    "answers": {
+      "de": [
+        "Vielen Dank! 😊",
+        "Das freut mich zu hören.",
+        "Ich gebe mein Bestes 😃",
+        "Freut mich, dass ich dir gefalle! "
+      ]
+    },
+    "questions": {
+      "de": [
+        "Du bist super",
+        "Du bist toll",
+        "Du bist richtig gut",
+        "Du bist gut",
+        "Du bist klasse",
+        "Ich mag dich",
+        "Du funktionierst richtig gut",
+        "Du funktionierst gut",
+        "Du funktionierst sehr gut",
+        "Du bist echt gut",
+        "Du funktionierst echt gut"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

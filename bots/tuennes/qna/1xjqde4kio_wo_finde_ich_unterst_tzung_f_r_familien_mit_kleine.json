@@ -1,0 +1,34 @@
+{
+  "id": "1xjqde4kio_wo_finde_ich_unterst_tzung_f_r_familien_mit_kleine",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Für Unterstützung rund um das Thema Familie kannst du dich entweder direkt an eine der Stellen aus dem Netzwerk <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/leben-in-koeln/familie-kinder/geburt/koeln-fuer-kinder-netzwerk-fruehe-hilfen\" target=\"_blank\" rel=\"noopener\">Frühe Hilfen</a> ​oder für einen Erstkontakt an das <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/adressen/10644/index.html\" target=\"_blank\" rel=\"noopener\">Familienbüro Köln</a> wenden. Weitere Informationen findest du <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/produkt/kinderbetreuungsangebote-bis-zum-sechsten-lebensjahr\" target=\"_blank\" rel=\"noopener\">hier</a>.\nIn Fällen einer unmittelbaren Gefährdung oder Bedrohung melde dich bitte umgehend beim\n<a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/artikel/01185/index.html\" target=\"_blank\" rel=\"noopener\">Gefährdungs-Sofort-Dienst (GSD)</a>"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wo finde ich Unterstützung für Familien mit kleinen Kindern",
+        "Ich habe Schwierigkeiten mit meinem Kind",
+        "Ich habe Probleme mit meinem Kind",
+        "Wo bekomme ich Hilfe bei der Erziehung meines Kindes",
+        "Ich schlage mein Kind und möchte mich melden",
+        "Mein Kind wurde geschlagen, wo kann ich mich melden",
+        "Wo kann ich mich für mein Kind beraten lassen",
+        "Meine Tochter macht Probleme, was kann ich tun",
+        "Mein Sohn macht Probleme, was kann ich tun",
+        "Ich bekomme ein Kind, was muss ich alles beachten",
+        "Ich bin schwanger, auf was muss ich achten",
+        "Mein Kind schreit immer"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "__qna__rivblzijxf_tschuess",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Tschuess",
+      "Tschüß",
+      "Auf Wiedersehen",
+      "Bye",
+      "Bye Bye",
+      "Bis dann",
+      "Ciao",
+      "Ich verabschiede mich",
+      "Ich gehe jetzt",
+      "Bis bald",
+      "Bis gleich",
+      "Wiedersehen",
+      "Tschüss"
+    ]
+  },
+  "slots": []
+}

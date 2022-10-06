@@ -1,0 +1,28 @@
+{
+  "name": "__qna__7n2867ov1a_termine_online_kundenzentrum",
+  "contexts": [
+    "global",
+    "Corona und Standesamt"
+  ],
+  "utterances": {
+    "de": [
+      "Termine online Kundenzentrum",
+      "Wo bekomme ich einen Termin um mich anzumelden",
+      "Wo bekomme ich einen Termin für einen Personalausweis",
+      "Ich brauche einen Termin für einen Reisepass",
+      "Ich brauche einen Termin für einen Personalausweis",
+      "Ich will einen Temin um mich umzumelden",
+      "wann kann ich mich ummelden",
+      "Wann ist der nächste Termin, um mich umzumelden",
+      "Wie bekomme ich schnell einen Termin für einen Reisepass",
+      "Ich möchte einen Termin für Beglaubigungen",
+      "Ich benötige einen Termin um ein Führungszeugnis zu beantragen",
+      "Ich brauche einen Termin für eine Meldebescheinigung",
+      "Ich benötige einen Termin für einen Untersuchungsberechtigungsschein",
+      "Ich benötige einen Termin um eine Auskunftssperre zu beantragen",
+      "Ich brauche einen Termin um einen Auszug aus dem Gewerbezentralregister zu beantragen",
+      "termin stadt köln"
+    ]
+  },
+  "slots": []
+}

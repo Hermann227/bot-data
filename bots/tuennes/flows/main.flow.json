@@ -1,0 +1,115 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": [
+      {
+        "condition": "event.nlu.intent.name === 'ehe'",
+        "node": "WeddingExpert.flow.json"
+      },
+      {
+        "condition": "event.nlu.intent.name === 'weather'",
+        "node": "Wetter.flow.json"
+      },
+      {
+        "condition": "event.nlu.intent.name === 'pegelstandauskunft'",
+        "node": "Pegel-Experte.flow.json"
+      },
+      {
+        "condition": "event.nlu.intent.name === 'start'",
+        "conditionType": "intent",
+        "node": "entry"
+      },
+      {
+        "condition": "event.nlu.intent.name === 'fuehrerschein'",
+        "conditionType": "intent",
+        "node": "Fuehrerschein.flow.json"
+      },
+      {
+        "condition": "event.nlu.intent.name === 'bauen'",
+        "conditionType": "intent",
+        "node": "Bauen.flow.json"
+      },
+      {
+        "condition": "event.nlu.intent.name === 'gewerbe'",
+        "conditionType": "intent",
+        "node": "Gewerbe.flow.json"
+      },
+      {
+        "condition": "event.nlu.intent.name === 'fileupload'",
+        "conditionType": "intent",
+        "node": "fileupload.flow.json"
+      }
+    ]
+  },
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "daa7406b51",
+      "name": "entry",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "start"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "skill-b27e8f",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "start",
+      "flow": "skills/choice-b27e8f.flow.json",
+      "next": [
+        {
+          "caption": "User picked [choice1]",
+          "condition": "temp['skill-choice-ret-zph3s92gbp'] == \"choice1\"",
+          "node": "WeddingExpert.flow.json"
+        },
+        {
+          "caption": "User picked [choice2]",
+          "condition": "temp['skill-choice-ret-zph3s92gbp'] == \"choice2\"",
+          "node": "Pegel-Experte.flow.json"
+        },
+        {
+          "caption": "User picked [choice3]",
+          "condition": "temp['skill-choice-ret-zph3s92gbp'] == \"choice3\"",
+          "node": "Wetter.flow.json"
+        },
+        {
+          "caption": "User picked [choice4]",
+          "condition": "temp['skill-choice-ret-zph3s92gbp'] == \"choice4\"",
+          "node": "Upload.flow.json"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "resetContextAndEndflow.flow.json"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "970b9223df",
+      "name": "node-d8b8",
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "getUserAttributes {\"name\":\"\",\"value\":\"\"}",
+        "say #!builtin_text-m8TZqd"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

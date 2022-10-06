@@ -1,0 +1,29 @@
+{
+  "id": "vgoc15nkj1_bist_du_bereit",
+  "data": {
+    "answers": {
+      "de": [
+        "Na klar, los geht's",
+        "Absolut, leg los 😄"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Bist du bereit",
+        "Bist du so weit",
+        "Ich denke, du bist so weit",
+        "Kanns losgehen",
+        "Kann es losgehen",
+        "Kann's losgehen"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

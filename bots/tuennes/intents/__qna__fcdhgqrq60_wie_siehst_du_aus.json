@@ -1,0 +1,18 @@
+{
+  "name": "__qna__fcdhgqrq60_wie_siehst_du_aus",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Wie siehst du aus",
+      "Wie ist dein Aussehen",
+      "Wonach siehst du aus",
+      "Wie kann ich mir dein Aussehen vorstellen?",
+      "Hast du ein Aussehen?",
+      "Ich würde gerne wissen, wie du aussiehst"
+    ]
+  },
+  "slots": []
+}

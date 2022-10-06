@@ -1,0 +1,32 @@
+{
+  "id": "4q8ja5an5k_test",
+  "data": {
+    "answers": {
+      "de": [
+        "Ja, ich funktioniere 😄 Wie wäre es mit einer Frage",
+        "Ich funktioniere. Dann leg mal los 😉"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Test",
+        "Gehst du",
+        "Funktionierst du",
+        "Geht das",
+        "Funktioniert das",
+        "Ich will nur wissen ob du funktionierst",
+        "ich teste dich",
+        "das ist ein Test",
+        "nachts ist es kälter als draußen"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "yg5oex9r54_wo_finde_ich_informationen_zu_einb_rgerungstests",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "VHS"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Informationen zum Einbürgerungstest findest du <a style=\"color:#b00000\" href= \"https://vhs-koeln.de/Artikel/cmx54859f23489f6.html\" target=\"_blank\" rel=\"noopener\">hier</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wo finde ich Informationen zu Einbürgerungstests",
+        "Brauche ich für den Einbürgerungstest einen Termin",
+        "Wie mache ich einen Termin für den Einbürgerungstest",
+        "Wie kann ich einen Einbürgerungstest machen",
+        "Wer kann sich zu einem Einbürgerungstest anmelden",
+        "Wo melde ich mich zu einem Einbürgerungstest an",
+        "Was mache ich beim Einbürgerungstest",
+        "Wann finden die Einbürgerungstests statt",
+        "Findet der Einbürgerungstest vormittags statt",
+        "Wie teuer ist ein Einbürgerungstest",
+        "Wo kann ich mich zu Einbürgerungstests beraten lassen",
+        "Wie lange dauert es, bis ich das Ergebnis von meinem Einbürgerungstest erhalte"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

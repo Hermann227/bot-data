@@ -1,0 +1,25 @@
+{
+  "name": "__qna__lerq8437sl_wie_lauten_die_ma_nahmen_zur_eind_mmung_des_corona",
+  "contexts": [
+    "global",
+    "Corona und Standesamt"
+  ],
+  "utterances": {
+    "de": [
+      "Wie lauten die Maßnahmen zur Eindämmung des Corona-Virus in Köln",
+      "Regelungen Corona aktuell",
+      "Corona Maßnahmen aktuell",
+      "Welche Einschränkungen gelten in Köln",
+      "Wo finde ich alle Corona Regelungen in Köln",
+      "Köln Corona Maßnahmen",
+      "Übersicht alle Regelungen die in Köln gelten",
+      "Übersicht alle Maßnahmen zur Eindämmung des Corona- Virus",
+      "Lockdown Regeln Köln",
+      "Corona Lockdown",
+      "Wie kann ich Corona verhindern?",
+      "Regeln Corona",
+      "Corona"
+    ]
+  },
+  "slots": []
+}

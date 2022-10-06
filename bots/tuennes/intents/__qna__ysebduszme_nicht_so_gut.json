@@ -1,0 +1,26 @@
+{
+  "name": "__qna__ysebduszme_nicht_so_gut",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Nicht so gut",
+      "Nicht gut",
+      "Schlecht",
+      "Mir geht's nicht so gut",
+      "Mir geht es nicht so gut",
+      "Mir nicht",
+      "Mir geht's nicht gut",
+      "Mir geht es nicht gut",
+      "Mir geht's schlecht",
+      "Ich fühle mich nicht gut",
+      "Ich fühle mich schlecht",
+      "mir gehts nicht so gut",
+      "mir gehts schlecht",
+      "mir gehts nicht gut"
+    ]
+  },
+  "slots": []
+}

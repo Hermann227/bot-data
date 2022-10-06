@@ -1,0 +1,20 @@
+{
+  "name": "__qna__g2avkosmm7_wann_kann_mein_kind_in_der_kita_aufgenommen_werden",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wann kann mein Kind in der KiTa aufgenommen werden",
+      "Was sind die Voraussetzungen, damit mein Kind in der Kita aufgenommen werden kann",
+      "Ab wann kann mein Kind in die Kita",
+      "Wann kann Kind in Kita",
+      "Ab wann darf mein Kind in Kita",
+      "Wie alt muss mein Kind sein, um in die Kita zu dürfen",
+      "Was ist das Mindestalter, damit mein Kind in die Kita kann",
+      "Kind Kita ab wann"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "fileupload",
+  "utterances": {
+    "de": [
+      "upload",
+      "h﻿ochladen",
+      "D﻿atei hochladen",
+      "B﻿ild hochladen",
+      "D﻿okument hochladen",
+      "D﻿atei senden",
+      "D﻿atei schicken",
+      "upload file",
+      "u﻿pload image",
+      "u﻿pload document"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

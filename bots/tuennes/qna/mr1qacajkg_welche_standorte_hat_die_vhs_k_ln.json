@@ -1,0 +1,33 @@
+{
+  "id": "mr1qacajkg_welche_standorte_hat_die_vhs_k_ln",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "VHS"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Informationen zu den einzelnen Standorten der VHS Köln findest du <a style=\"color:#b00000\" href= \"https://vhs-koeln.de/Artikel/cmx5f43744b67931.html\" target=\"_blank\" rel=\"noopener\">hier</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Welche Standorte hat die VHS Köln",
+        "Wo ist die VHS am Mediapark",
+        "Wie kann ich die Volkshochschule finden am Mediapark",
+        "Wohin muss ich, um zur Volkshochschule am Mediapark zu kommen",
+        "Um wie viel Uhr öffnet die Volkshochschule am Mediapark",
+        "Wann ist die Niederlassung der VHS in Lindenthal geöffnet",
+        "Wann hat die Volkshochschule in Lindenthal geöffnet",
+        "Wie komme ich zur Niederlassung der Volkshochschule in Lindenthal",
+        "Zu welchen Zeiten hat die Niederlassung der VHS in Nippes geöffnet",
+        "Wann hat die VHS in Nippes geöffnet",
+        "Wo befindet sich die Niederlassung der Volkshochschule in Nippes"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

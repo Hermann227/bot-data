@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cgn_accordion-UY0RfW",
+    "formData": {
+      "title$de": "Beschreibung",
+      "text$de": "Baugenehmigung Erteilung im vereinfachten BaugenehmigungsverfahrenRegelverfahren für die Mehrheit der BauvorhabenVoraussetzungen:Genehmigungspflichtiges BauvorhabenDem Bauvorhaben stehen keine öffentlich-rechtlichen Vorschriften entgegenNur eingeschränkte Überprüfung der Übereinstimmung des Bauvorhabens mit den öffentlich-rechtlichen VorschriftenKein Baubeginn ohne GenehmigungZuständig für die Erteilung ist die untere Bauaufsicht.Weitere Infos"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-19T08:43:11.126Z",
+    "modifiedOn": "2022-01-19T13:21:35.082Z"
+  },
+  {
+    "id": "cgn_accordion-z2zel1",
+    "formData": {
+      "title$de": "{{session.formattedCompetences.0.details.title}}",
+      "text$de": "{{session.formattedCompetences.0.details.data.elements.0.html}}<br/><br/>{{session.formattedCompetences.0.details.data.elements.1.html}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-20T13:23:39.889Z",
+    "modifiedOn": "2022-01-20T13:34:03.307Z"
+  }
+]

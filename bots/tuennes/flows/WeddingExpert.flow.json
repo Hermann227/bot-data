@@ -1,0 +1,333 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": [
+      {
+        "condition": "event.nlu.intent.name === 'start'",
+        "node": "main.flow.json"
+      },
+      {
+        "condition": "event.nlu.intent.name === 'ende'",
+        "conditionType": "intent",
+        "node": "main.flow.json"
+      }
+    ]
+  },
+  "startNode": "entry",
+  "description": "",
+  "nodes": [
+    {
+      "id": "fa0c9d7aa7",
+      "name": "entry",
+      "onEnter": [
+        "builtin/appendContext {\"contexts\":\"wedding\",\"ttl\":\"10\"}"
+      ],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "true",
+          "node": "in_Deutschland_heiraten_one"
+        }
+      ],
+      "type": "standard"
+    },
+    {
+      "id": "skill-49dc4c",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "in_Deutschland_heiraten_one",
+      "flow": "skills/choice-49dc4c.flow.json",
+      "next": [
+        {
+          "caption": "User picked [ja]",
+          "condition": "temp['skill-choice-ret-7goi0u5t85'] == \"ja\"",
+          "node": "Aelter_als_18_two"
+        },
+        {
+          "caption": "User picked [nein]",
+          "condition": "temp['skill-choice-ret-7goi0u5t85'] == \"nein\"",
+          "node": "Antwort_1"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "WeddingCatchAllErrors.flow.json"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "skill-acf16c",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "Aelter_als_18_two",
+      "flow": "skills/choice-acf16c.flow.json",
+      "next": [
+        {
+          "caption": "User picked [ja]",
+          "condition": "temp['skill-choice-ret-mu2vx4huej'] == \"ja\"",
+          "node": "deutsche_staatsbuerger_three"
+        },
+        {
+          "caption": "User picked [nein]",
+          "condition": "temp['skill-choice-ret-mu2vx4huej'] == \"nein\"",
+          "node": "nicht_18"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "WeddingCatchAllErrors.flow.json"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "13876a68c0",
+      "name": "Antwort_1",
+      "next": [
+        {
+          "condition": "true",
+          "node": "resetContextAndEndflow.flow.json"
+        }
+      ],
+      "onEnter": [
+        "say #!cgn_htmltext-hn7_Vi"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "skill-82201e",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "deutsche_staatsbuerger_three",
+      "flow": "skills/choice-82201e.flow.json",
+      "next": [
+        {
+          "caption": "User picked [ja]",
+          "condition": "temp['skill-choice-ret-quzppaivxf'] == \"ja\"",
+          "node": "beide_in_deutschland_geboren_four"
+        },
+        {
+          "caption": "User picked [nein]",
+          "condition": "temp['skill-choice-ret-quzppaivxf'] == \"nein\"",
+          "node": "Beratung"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "WeddingCatchAllErrors.flow.json"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "cfc49029ec",
+      "name": "Beratung",
+      "next": [
+        {
+          "condition": "true",
+          "node": "beide_in_deutschland_geboren_four"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-tR0YRk"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "1f8cf5b73b",
+      "name": "nicht_18",
+      "next": [
+        {
+          "condition": "true",
+          "node": "resetContextAndEndflow.flow.json"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-jw_FBH"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "skill-aa9b1b",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "beide_in_deutschland_geboren_four",
+      "flow": "skills/choice-aa9b1b.flow.json",
+      "next": [
+        {
+          "caption": "User picked [ja]",
+          "condition": "temp['skill-choice-ret-tzqmtppme1'] == \"ja\"",
+          "node": "breits_verheiratet_five"
+        },
+        {
+          "caption": "User picked [nein]",
+          "condition": "temp['skill-choice-ret-tzqmtppme1'] == \"nein\"",
+          "node": "im_Ausland_geboren"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "WeddingCatchAllErrors.flow.json"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "520a17370f",
+      "name": "im_Ausland_geboren",
+      "next": [
+        {
+          "condition": "true",
+          "node": "breits_verheiratet_five"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-mAGyHO"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "skill-d20951",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "wohnsitz_koeln_six",
+      "flow": "skills/choice-d20951.flow.json",
+      "next": [
+        {
+          "caption": "User picked [ja]",
+          "condition": "temp['skill-choice-ret-k50ambkplt'] == \"ja\"",
+          "node": "gemeinsame_Kinder_seven"
+        },
+        {
+          "caption": "User picked [jaeiner]",
+          "condition": "temp['skill-choice-ret-k50ambkplt'] == \"jaeiner\"",
+          "node": "gemeinsame_Kinder_seven"
+        },
+        {
+          "caption": "User picked [nein]",
+          "condition": "temp['skill-choice-ret-k50ambkplt'] == \"nein\"",
+          "node": "keiner"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "WeddingCatchAllErrors.flow.json"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "c6543c3ae9",
+      "name": "keiner",
+      "next": [
+        {
+          "condition": "true",
+          "node": "resetContextAndEndflow.flow.json"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-nRBY5e"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "skill-e66aeb",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "gemeinsame_Kinder_seven",
+      "flow": "skills/choice-e66aeb.flow.json",
+      "next": [
+        {
+          "caption": "User picked [ja]",
+          "condition": "temp['skill-choice-ret-wdtmvcukd9'] == \"ja\"",
+          "node": "Auswertung"
+        },
+        {
+          "caption": "User picked [nein]",
+          "condition": "temp['skill-choice-ret-wdtmvcukd9'] == \"nein\"",
+          "node": "Auswertung"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "WeddingCatchAllErrors.flow.json"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "a704e3c1d4",
+      "name": "Auswertung",
+      "next": [
+        {
+          "condition": "true",
+          "node": "resetContextAndEndflow.flow.json"
+        }
+      ],
+      "onEnter": [
+        "wedding_result {}"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "skill-20c972",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "breits_verheiratet_five",
+      "flow": "skills/choice-20c972.flow.json",
+      "next": [
+        {
+          "caption": "User picked [nein]",
+          "condition": "temp['skill-choice-ret-12muzd59vz'] == \"nein\"",
+          "node": "wohnsitz_koeln_six"
+        },
+        {
+          "caption": "User picked [jaDeuts...]",
+          "condition": "temp['skill-choice-ret-12muzd59vz'] == \"jaDeutschland\"",
+          "node": "wohnsitz_koeln_six"
+        },
+        {
+          "caption": "User picked [jaAusla...]",
+          "condition": "temp['skill-choice-ret-12muzd59vz'] == \"jaAusland\"",
+          "node": "bereits_im_Ausland_verheiratet"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "WeddingCatchAllErrors.flow.json"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "2b353fb91c",
+      "name": "bereits_im_Ausland_verheiratet",
+      "next": [
+        {
+          "condition": "true",
+          "node": "wohnsitz_koeln_six"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-GkZbFl"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

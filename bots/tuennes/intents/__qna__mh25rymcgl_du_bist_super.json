@@ -1,0 +1,23 @@
+{
+  "name": "__qna__mh25rymcgl_du_bist_super",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Du bist super",
+      "Du bist toll",
+      "Du bist richtig gut",
+      "Du bist gut",
+      "Du bist klasse",
+      "Ich mag dich",
+      "Du funktionierst richtig gut",
+      "Du funktionierst gut",
+      "Du funktionierst sehr gut",
+      "Du bist echt gut",
+      "Du funktionierst echt gut"
+    ]
+  },
+  "slots": []
+}

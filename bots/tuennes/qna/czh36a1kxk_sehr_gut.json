@@ -1,0 +1,24 @@
+{
+  "id": "czh36a1kxk_sehr_gut",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Danke, Lob nehme ich gern entgegen.😃"
+      ]
+    },
+    "questions": {
+      "de": [
+        "sehr gut",
+        "Super",
+        "Klasse"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

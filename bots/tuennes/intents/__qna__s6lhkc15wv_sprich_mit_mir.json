@@ -1,0 +1,22 @@
+{
+  "name": "__qna__s6lhkc15wv_sprich_mit_mir",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Sprich mit mir",
+      "Sprich",
+      "Sag etwas",
+      "Unterhalte dich mit mir",
+      "Unterhältst du dich gerne mit Menschen?",
+      "Sprichst du gerne mit Menschen?",
+      "Sprichst du gerne mit mir?",
+      "Unterhältst du dich gerne mit mir?",
+      "Sag doch was",
+      "Sag mal was"
+    ]
+  },
+  "slots": []
+}

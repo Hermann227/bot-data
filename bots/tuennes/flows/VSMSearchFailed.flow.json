@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "description": "",
+  "nodes": [
+    {
+      "id": "eba168ca69",
+      "name": "entry",
+      "next": [
+        {
+          "condition": "true",
+          "node": "resetContextAndEndflow.flow.json"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-NBhrgf"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

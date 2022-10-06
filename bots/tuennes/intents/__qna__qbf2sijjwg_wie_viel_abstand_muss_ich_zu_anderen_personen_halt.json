@@ -1,0 +1,24 @@
+{
+  "name": "__qna__qbf2sijjwg_wie_viel_abstand_muss_ich_zu_anderen_personen_halt",
+  "contexts": [
+    "global",
+    "Corona und Standesamt"
+  ],
+  "utterances": {
+    "de": [
+      "Wie viel Abstand muss ich zu anderen Personen halten",
+      "Abstand andere Menschen",
+      "Meter zu anderen Menschen",
+      "Raum zu anderen Menschen",
+      "Entfernung zu anderen Menschen",
+      "Abstand im eigenen Haus",
+      "Corona Abstand",
+      "AHA Abstandsregelung",
+      "Abstand draußen",
+      "Wie viele Personen dürfen sich ohne Abstand treffen",
+      "Wie viele Menschen dürfen sich ohne Abstand treffen",
+      "Familie treffen ohne Abstand"
+    ]
+  },
+  "slots": []
+}

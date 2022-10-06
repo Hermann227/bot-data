@@ -1,0 +1,28 @@
+{
+  "name": "__qna__mmf9nza141_wie_kann_ich_eine_vormerkung_machen",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wie kann ich eine Vormerkung machen",
+      "Wie melde ich mich im Kindergarten an",
+      "Wie melde ich mein Kind im Kindergarten an",
+      "Wie kann ich mich in der Kita anmelden",
+      "Wie kann ich mein Kind in der Kita anmelden",
+      "Wie finde ich Kindertagesstätten/Kindergärten/Kitas in Köln",
+      "Brauche Kindergarten",
+      "Brauche Kindergartenplatz",
+      "Brauche Kitaplatz",
+      "Suche Betreuung",
+      "Wie kann ich mich bei Little Bird registrieren",
+      "Kann ich mein Kind ohne Little Bird bei Einrichtungen anmelden",
+      "Wohne noch nicht in Köln kann ich trotzdem anmelden/vormerken",
+      "Mein Kind ist noch nicht geboren, wann kann ich es anmelden",
+      "Wie bekomme ich einen Kita-Platz/Kita Platz/Kindergarten-Platz/Kindergarten Platz",
+      "Wie kann ich nach einem Kita-Platz/Kindergarten-Platz bzw. nach einer Kindertagesstätte suchen"
+    ]
+  },
+  "slots": []
+}

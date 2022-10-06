@@ -1,0 +1,20 @@
+{
+  "name": "__qna__iy2cwbm6po_wo_wohnst_du",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Wo wohnst du",
+      "In welcher Stadt wohnst du",
+      "Wo ist dein Zuhause",
+      "Was ist dein Zuhause",
+      "Wo bist du zu Hause",
+      "Wo ist dein Wohnort",
+      "Was ist dein Wohnort",
+      "Wo lebst du"
+    ]
+  },
+  "slots": []
+}

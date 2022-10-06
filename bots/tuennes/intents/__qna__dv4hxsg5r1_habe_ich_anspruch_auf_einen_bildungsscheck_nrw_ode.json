@@ -1,0 +1,22 @@
+{
+  "name": "__qna__dv4hxsg5r1_habe_ich_anspruch_auf_einen_bildungsscheck_nrw_ode",
+  "contexts": [
+    "global",
+    "VHS"
+  ],
+  "utterances": {
+    "de": [
+      "Habe ich Anspruch auf einen Bildungsscheck NRW oder eine Bildungsprämie",
+      "Wo erhalte ich einen Bildungsscheck/Bildungsprämie",
+      "Ist meine Weiterbildung förderfähig",
+      "Wo bekommt man einen Bildungsscheck",
+      "Habe ich Anspruch auf einen Bildungsscheck",
+      "Bildungsprämie, wie funktioniert das",
+      "Ich möchte mich über einem Bildungsscheck erkundigen",
+      "Wie erhalte ich einen Termin für eine Bildungsprämie",
+      "Wie macht man einen Termin für den Bildungsscheck",
+      "Kann ich einen Termin für eine Bildungsprämie kriegen"
+    ]
+  },
+  "slots": []
+}

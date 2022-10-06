@@ -1,0 +1,29 @@
+{
+  "name": "__qna__kbd6spg83m_kann_ich_meinen_vor__oder_familienname__ndern",
+  "contexts": [
+    "global",
+    "Corona und Standesamt"
+  ],
+  "utterances": {
+    "de": [
+      "Kann ich meinen Vor- oder Familienname ändern",
+      "Ich will meinen Nachnamen ändern",
+      "Ich will meinen Vornamen ändern",
+      "Neuer Vorname",
+      "Neuer Nachname",
+      "Neuer Familienname",
+      "Öffentlich-rechtliche Namensänderung",
+      "Kann ich meinen Nachnamen ändern",
+      "Kann ich meinen Familiennamen ändern",
+      "Kann ich meinen Namen ändern",
+      "Kann ich meinen Vornamen ändern",
+      "Namen Änderung",
+      "Vorname Änderung",
+      "Nachname Änderung",
+      "Wo Änderung des Namens",
+      "Wo Änderung des Nachnamens",
+      "Wo Änderung des Familiennamens"
+    ]
+  },
+  "slots": []
+}

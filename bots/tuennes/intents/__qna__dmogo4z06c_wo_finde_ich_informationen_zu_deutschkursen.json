@@ -1,0 +1,23 @@
+{
+  "name": "__qna__dmogo4z06c_wo_finde_ich_informationen_zu_deutschkursen",
+  "contexts": [
+    "global",
+    "VHS"
+  ],
+  "utterances": {
+    "de": [
+      "Wo finde ich Informationen zu Deutschkursen",
+      "Brauche ich für den Deutschkurs einen Termin",
+      "Muss ich einen Termin für den Deutschkurs machen",
+      "Wie mache ich einen Deutschkurs",
+      "Wer kann sich zu Deutschkursen anmelden",
+      "Ist der Deutschkurs morgens",
+      "Findet der Deutschkurs morgens statt",
+      "Finden die Deutschkurse nachmittags statt",
+      "Gibt es die Prüfung Deutsch Deutsch für Zuwanderer",
+      "Gibt es die Prüfung Deutsch B1",
+      "Gibt es im Deutschkurs die Prüfung Goethe Zertifikat B2"
+    ]
+  },
+  "slots": []
+}

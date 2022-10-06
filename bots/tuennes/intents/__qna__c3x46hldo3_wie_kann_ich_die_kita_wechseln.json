@@ -1,0 +1,25 @@
+{
+  "name": "__qna__c3x46hldo3_wie_kann_ich_die_kita_wechseln",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wie kann ich die KiTa Wechseln",
+      "Wie kann ich die wechseln",
+      "Ist es möglich die Kita zu wechseln",
+      "Wie wechseln Kita",
+      "Andere Kita",
+      "Wie andere Kita",
+      "Wie kann ich die Kita wechseln",
+      "Kitawechsel möglich",
+      "Wie Kitawechsel",
+      "Besteht die Möglichkeit die Kita zu wechseln",
+      "Ist es für mich möglich die Kita zu wechsel",
+      "Umzug Kitawechsel",
+      "Ich möchte die Kita wechseln"
+    ]
+  },
+  "slots": []
+}

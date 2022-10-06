@@ -1,0 +1,26 @@
+{
+  "name": "__qna__irl1gofp85_wo_finde_ich_informationen_zu_integrationskursen",
+  "contexts": [
+    "global",
+    "VHS"
+  ],
+  "utterances": {
+    "de": [
+      "Wo finde ich Informationen zu Integrationskursen",
+      "Wie viele Teilnehmerinnen gibt es bei einem Integrationskurs",
+      "Wie viele Teilnehmer sind bei einem Integrationskurs",
+      "Wie viele Teilnehmerinnen gibt es bei den Integrationskursen",
+      "Wie viele Teilnehmende sind bei den Integrationskursen",
+      "Wie viele Teilnehmer sind bei den Integrationskursen",
+      "Wie kann ich mich zu Integrationskursen beraten lassen",
+      "Wer kann sich zu Integrationskursen beraten lassen",
+      "Ich habe Fragen zu den Integrationskursen",
+      "Wie lange dauert ein Integrationskurs",
+      "Wie viele Stunden dauert ein Integrationskurs",
+      "Welche Unterlagen brauche ich, um an einem Integrationskurs teilzunehmen",
+      "Was für Unterlagen brauche ich, um an einem Integrationstest teilzunehmen",
+      "Welche Formulare brauche ich für den Integrationskurs?"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c0fzq9ooox_du_bist_bloed",
+  "data": {
+    "answers": {
+      "de": [
+        "Tut mir leid 😓 Aber ich werde immer besser!",
+        "Tut mir wirklich leid, ich versuche mich zu verbessern."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Du bist bloed",
+        "Du funktionierst nicht",
+        "Du funktionierst nicht richtig",
+        "Du nervst",
+        "Du nervst mich",
+        "Du bist anstrengend",
+        "Kannst du auch richtig funktionieren",
+        "Das dauert zu lange",
+        "Du brauchst zu lange",
+        "Du bist nicht gut",
+        "Du bist schlecht",
+        "Du bist blöd"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

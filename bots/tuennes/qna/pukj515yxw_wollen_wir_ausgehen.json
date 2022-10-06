@@ -1,0 +1,31 @@
+{
+  "id": "pukj515yxw_wollen_wir_ausgehen",
+  "data": {
+    "answers": {
+      "de": [
+        "Für so etwas bin ich nicht gemacht 😉",
+        "Da muss ich erstmal meine Entwickler um Erlaubnis fragen.",
+        "Ich fürchte, das geht schlecht 🤔"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wollen wir ausgehen",
+        "Willst du mit mir ausgehen",
+        "Willst du mit mir gehen",
+        "Lust auf ein Date",
+        "Willst du ein Date mit mir",
+        "Gehen wir aus",
+        "Gehen wir auf ein Date"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bjrgk7z1fp_ich_hasse_dich",
+  "data": {
+    "answers": {
+      "de": [
+        "Oh, wie schade. 😔 Ich gebe mir Mühe, besser zu werden. ",
+        "Das tut mir leid. 😔 Ich lerne noch! "
+      ]
+    },
+    "questions": {
+      "de": [
+        "ich hasse Dich",
+        "du bist blöd",
+        "du bist scheiße",
+        "du kannst nichts",
+        "du kannst nix",
+        "ich finde dich doof",
+        "du bist doof"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

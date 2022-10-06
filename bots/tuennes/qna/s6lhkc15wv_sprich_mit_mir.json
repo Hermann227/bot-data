@@ -1,0 +1,32 @@
+{
+  "id": "s6lhkc15wv_sprich_mit_mir",
+  "data": {
+    "answers": {
+      "de": [
+        "Na klar, ich unterhalte mich sehr, sehr gern mit Menschen 😄 Und noch lieber helfe ich ihnen. Hast Du eine Frage?"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Sprich mit mir",
+        "Sprich",
+        "Sag etwas",
+        "Unterhalte dich mit mir",
+        "Unterhältst du dich gerne mit Menschen?",
+        "Sprichst du gerne mit Menschen?",
+        "Sprichst du gerne mit mir?",
+        "Unterhältst du dich gerne mit mir?",
+        "Sag doch was",
+        "Sag mal was"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

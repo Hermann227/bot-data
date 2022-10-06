@@ -1,0 +1,30 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "method": "get",
+    "memory": "temp",
+    "randomId": "",
+    "url": "https://api.mapbox.com/geocoding/v5/mapbox.places/{{{temp.slotValue}}}.json?access_token=pk.eyJ1IjoicmF3bGFuZCIsImEiOiJjamdzMzh1eXMwdjB6MzNqcXN4NG82dnE4In0.SoJkorZL3t1dPnzKogxqaA",
+    "variable": "places",
+    "invalidJson": false
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "basic-skills/call_api {\"randomId\":\"\",\"url\":\"https://api.mapbox.com/geocoding/v5/mapbox.places/{{{temp.slotValue}}}.json?access_token=pk.eyJ1IjoicmF3bGFuZCIsImEiOiJjamdzMzh1eXMwdjB6MzNqcXN4NG82dnE4In0.SoJkorZL3t1dPnzKogxqaA\",\"method\":\"get\",\"memory\":\"temp\",\"variable\":\"places\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "#"
+        }
+      ],
+      "id": "490656"
+    }
+  ]
+}

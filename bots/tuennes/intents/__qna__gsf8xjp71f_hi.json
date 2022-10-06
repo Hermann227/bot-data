@@ -1,0 +1,29 @@
+{
+  "name": "__qna__gsf8xjp71f_hi",
+  "entities": [],
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Hi",
+      "Hallo",
+      "Hey",
+      "Guten Morgen",
+      "Guten Tag",
+      "Guten Abend",
+      "Huhu",
+      "Na",
+      "Na du",
+      "Moin",
+      "Servus",
+      "hey du",
+      "Tach",
+      "Hallo Bot",
+      "hoi",
+      "hi"
+    ]
+  },
+  "slots": []
+}

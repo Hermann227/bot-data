@@ -1,0 +1,31 @@
+{
+  "id": "73apvg1bze_bist_du_real",
+  "data": {
+    "answers": {
+      "de": [
+        "Klar, sonst würde ich ja nicht antworten 😉",
+        "Voll und ganz.",
+        "Ja, hier bin ich doch 😄"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Bist du real",
+        "Gibt es dich wirklich",
+        "Existierst du",
+        "Bist du echt",
+        "Lebst du",
+        "Bist du am leben",
+        "Gibt es dich"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

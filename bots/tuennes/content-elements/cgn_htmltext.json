@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cgn_htmltext-hn7_Vi",
+    "formData": {
+      "typing$de": true,
+      "text$de": "Für eine Heirat im Ausland gelten je nach Land unterschiedliche Bestimmungen. Bitte wende dich hierzu am besten direkt an das Heiratsstandesamt. Weitere Informationen, z.B. zu benötigten Dokumenten, findest du beim <a style=\"color:#b00000\" href= \"https://www.bva.bund.de/DE/Das-BVA/Aufgaben/A/Auswanderer_Auslandstaetige/_documents/Heirat_kachel.html\" target=\"_blank\" rel=\"noopener\">Auswärtigen Amt</a>"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-17T10:37:01.813Z",
+    "modifiedOn": "2022-01-17T10:37:01.813Z"
+  },
+  {
+    "id": "cgn_htmltext-ugg_ad",
+    "formData": {
+      "typing$de": true,
+      "text$de": "Du hast Test1 ausgewählt."
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-17T11:54:12.710Z",
+    "modifiedOn": "2022-01-17T11:54:12.710Z"
+  },
+  {
+    "id": "cgn_htmltext-0_lLp7",
+    "formData": {
+      "typing$de": true,
+      "text$de": "Du hast Test2 ausgewählt."
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-17T11:54:50.966Z",
+    "modifiedOn": "2022-01-17T11:54:50.966Z"
+  },
+  {
+    "id": "cgn_htmltext-WhbCx6",
+    "formData": {
+      "typing$de": true,
+      "text$de": "<b>Du hast Test 3 ausgewählt.</b>"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-17T11:55:31.048Z",
+    "modifiedOn": "2022-01-20T14:25:38.923Z"
+  },
+  {
+    "id": "cgn_htmltext-2wZ8yN",
+    "formData": {
+      "typing$de": true,
+      "text$de": "{{session.formattedCompetences.0.details.data.elements.0.html}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-21T08:04:13.267Z",
+    "modifiedOn": "2022-01-21T08:04:13.267Z"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "__qna__skszgyhg9x_hilfe",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Hilfe",
+      "Ich brauche Hilfe",
+      "Ich brauche deine Hilfe",
+      "Hilf mir",
+      "Kannst du mir helfen?",
+      "Bitte hilf mir",
+      "Hilf mir bitte",
+      "Du musst mir helfen",
+      "Könntest du mir helfen?",
+      "Hilfst du mir"
+    ]
+  },
+  "slots": []
+}

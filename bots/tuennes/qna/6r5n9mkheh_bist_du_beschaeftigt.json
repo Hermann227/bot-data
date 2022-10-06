@@ -1,0 +1,31 @@
+{
+  "id": "6r5n9mkheh_bist_du_beschaeftigt",
+  "data": {
+    "answers": {
+      "de": [
+        "Wenn man den ganzen Tag Fragen beantwortet, ist man wohl ziemlich beschäftigt 😁",
+        "Bei den vielen Anfragen pro Tag wird mir auf jeden Fall nicht langweilig 😉",
+        "Ich habe immer etwas zu tun."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Bist du beschaeftigt",
+        "Hast du viel zu tun",
+        "Wie viel hast du zu tun",
+        "Hast du wirklich viel zu tun",
+        "Wie beschäftigt bist du",
+        "Bist du sehr beschäftigt",
+        "Bist du beschäftigt"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "__qna__9k08ydmvwm_totgeburt__fehlgeburt",
+  "contexts": [
+    "global",
+    "Corona und Standesamt"
+  ],
+  "utterances": {
+    "de": [
+      "Totgeburt, Fehlgeburt",
+      "Frühgeburt",
+      "Totgeburt",
+      "Fehlgeburt"
+    ]
+  },
+  "slots": []
+}

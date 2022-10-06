@@ -1,0 +1,33 @@
+{
+  "id": "fkx9n6i6gh_wie_kann_ich_eine_sprachberatung_machen",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "VHS"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Informationen zur Sprachberatung an der VHS Köln findest du <a style=\"color:#b00000\" href= \"https://vhs-koeln.de/Artikel/titel-Sprachenberatung/cmx54819f63b0c59.html\" target=\"_blank\" rel=\"noopener\">hier</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie kann ich eine Sprachberatung machen",
+        "Wie bekomme ich einen Termin für eine Sprachberatung",
+        "Wie kriege ich einen Termin für die Sprachberatung",
+        "Wo erhalte ich einen Termin für die Sprachberatung",
+        "Wo mache ich einen Termin für eine Sprachberatung",
+        "Woher kriege ich einen Termin für eine Sprachberatung",
+        "Wie kriegt man einen Termin für eine Sprachberatung",
+        "Wo kann man einen Termin für die Sprachberatung machen",
+        "Kann ich einen Termin für die Sprachberatung bekommen",
+        "Ich will einen Termin für die Sprachberatung",
+        "Wo kann man einen Termin für eine Sprachberatung machen"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

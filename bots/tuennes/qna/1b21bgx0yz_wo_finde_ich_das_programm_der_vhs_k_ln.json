@@ -1,0 +1,34 @@
+{
+  "id": "1b21bgx0yz_wo_finde_ich_das_programm_der_vhs_k_ln",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "VHS"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "In Papierform findest du das Programm an allen VHS-Standorten, in Bürgerämtern, in Buchhandlungen und in der Zentral- und den Stadtteilbibliotheken. Alle Angebote findest du auch <a style=\"color:#b00000\" href= \"https://vhs-koeln.de/\" target=\"_blank\" rel=\"noopener\">online</a>. Auszüge stehen auch zum <a style=\"color:#b00000\" href= \"https://vhs-koeln.de/Artikel/titel-Downloadservice/cmx5485b64664410.html\" target=\"_blank\" rel=\"noopener\">Download</a> bereit."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wo finde ich das Programm der VHS Köln",
+        "Wann erscheint das aktuelle Programm",
+        "Wo ist das Programm",
+        "Wann ist das Programm da",
+        "Wann kommt das Programm",
+        "Ab wann kommen die nächsten Kurse",
+        "Wo kann ich mir die neuen Kurse anschauen",
+        "Wann erscheinen die nächsten Kurse",
+        "Wo finde ich die neuen Kurse",
+        "Wann scheinen die aktuellen Veranstaltungen",
+        "Ab wann werden die aktuellen Veranstaltungen veröffentlicht",
+        "Ab wann kommen die neuen Veranstaltungen"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

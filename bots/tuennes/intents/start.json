@@ -1,0 +1,23 @@
+{
+  "name": "start",
+  "utterances": {
+    "de": [
+      "::INITBOT::",
+      "neustart",
+      "restart",
+      "Restart",
+      "start",
+      "Beginn",
+      "beginnen",
+      "init",
+      "neu",
+      "anfangen",
+      "Anfang",
+      "Von vorne"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

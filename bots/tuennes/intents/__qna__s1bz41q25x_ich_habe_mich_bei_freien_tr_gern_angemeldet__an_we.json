@@ -1,0 +1,25 @@
+{
+  "name": "__qna__s1bz41q25x_ich_habe_mich_bei_freien_tr_gern_angemeldet__an_we",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Ich habe mich bei freien Trägern angemeldet, an wen muss ich mich wenden",
+      "Bei den Fröbel-Kindergärten sind noch Plätze frei. Warum bekomme ich keine Zuweisung",
+      "Warum bekomme ich keinen Platz von KölnKita",
+      "Sind alle Kindergärten Stadt Köln",
+      "Soll ich nur städtische Kindergärten anmelden",
+      "Soll ich nur städtische Kitas anmelden",
+      "Reicht es wenn ich nur städtische Kitas anmelde",
+      "Ist es sinnvoll, auch bei freien Trägern anzumelden",
+      "Ist es sinnvoll, auch bei privaten Kitas anzumelden",
+      "Wie läuft das mit der Vergabe bei freien Trägern",
+      "Wie läuft das mit der Vergabe bei privaten Kitas",
+      "Wie sind die Kriterien bei der Vergabe bei privaten Kitas",
+      "Wie sind die Kriterien bei der Vergabe bei freien Trägern"
+    ]
+  },
+  "slots": []
+}

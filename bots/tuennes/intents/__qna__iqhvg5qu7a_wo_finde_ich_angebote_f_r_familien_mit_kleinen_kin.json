@@ -1,0 +1,25 @@
+{
+  "name": "__qna__iqhvg5qu7a_wo_finde_ich_angebote_f_r_familien_mit_kleinen_kin",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wo finde ich Angebote für Familien mit kleinen Kindern",
+      "Wo finde ich Angebote für mein Kind",
+      "Welche Angebote gibt es für mich und mein Kind",
+      "Wo finde ich Vereine und Spielgruppen",
+      "Wo finde ich Spielplätze",
+      "Wo ist der nächste Spielplatz",
+      "Welche Freizeitmöglichkeiten gibt es für mein Kind",
+      "Wo finde ich Geburtsunterstützung",
+      "Wo sind Schwangerschaftskurse",
+      "Was kann mein Kind in den Ferien machen",
+      "Gibt es was für mein Kind nach der Schule",
+      "Gibt es Angebote für meinen Sohn nach der Schule",
+      "Gibt es Angebote für meine Tochter nach der Schule"
+    ]
+  },
+  "slots": []
+}

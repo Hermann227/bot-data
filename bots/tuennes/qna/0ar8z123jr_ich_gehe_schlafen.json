@@ -1,0 +1,33 @@
+{
+  "id": "0ar8z123jr_ich_gehe_schlafen",
+  "data": {
+    "answers": {
+      "de": [
+        "Gute Nacht 💤",
+        "Schlaf schön!\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Ich gehe schlafen",
+        "Gute Nacht",
+        "Nachti",
+        "Schlaf gut",
+        "Träum schön",
+        "Träum was schönes",
+        "Nacht",
+        "Ich gehe ins Bett",
+        "Ich gehe jetzt ins Bett",
+        "Schlaf schön"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "triggers": [],
+  "description": "",
+  "nodes": [
+    {
+      "id": "e47a4876d5",
+      "name": "entry",
+      "next": [
+        {
+          "condition": "true",
+          "node": "resetContextAndEndflow.flow.json"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-4bWSp5"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}

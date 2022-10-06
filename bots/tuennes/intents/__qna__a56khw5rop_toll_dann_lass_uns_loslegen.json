@@ -1,0 +1,15 @@
+{
+  "name": "__qna__a56khw5rop_toll_dann_lass_uns_loslegen",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "toll dann lass uns loslegen",
+      "Lass uns loslegen",
+      "toll dann lass uns anfangen"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "fcdhgqrq60_wie_siehst_du_aus",
+  "data": {
+    "answers": {
+      "de": [
+        "Ich hoffe, ich sehe gut aus 😉"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie siehst du aus",
+        "Wie ist dein Aussehen",
+        "Wonach siehst du aus",
+        "Wie kann ich mir dein Aussehen vorstellen?",
+        "Hast du ein Aussehen?",
+        "Ich würde gerne wissen, wie du aussiehst"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

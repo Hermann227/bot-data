@@ -1,0 +1,30 @@
+{
+  "name": "__qna__l8v8fdjahw_kann_ich_den_familiennamen_oder_ehenamen_nachtr_gl",
+  "contexts": [
+    "global",
+    "Corona und Standesamt"
+  ],
+  "utterances": {
+    "de": [
+      "Kann ich den Familiennamen oder Ehenamen nachträglich erklären",
+      "Ehenamen nach Hochzeit klären",
+      "Familiennamen nach Hochzeit klären",
+      "Ehenamen nach Hochzeit erklären",
+      "Familiennamen nach Hochzeit erklären",
+      "Nach Eheschließung gemeinsamen Familiennamen bestimmen",
+      "Gemeinsamer Nachname nach Hochzeit",
+      "Gemeinsamer Familienname nach Hochzeit",
+      "Gemeinsamer Ehename nach Hochzeit",
+      "Bestimmung eines Ehenamens",
+      "Bestimmung eines Lebenspartnerschaftsnamens",
+      "Hochzeit im Ausland Familienname bestimmen",
+      "Hochzeit im Ausland Ehenamen bestimmen",
+      "Hochzeit nicht in Deutschland Ehenamen",
+      "Hochzeit nicht in Deutschland Familienname",
+      "Hochzeit nicht in Deutschland Nachname",
+      "Eheschließung im Ausland Nachname",
+      "Eheschließung im Ausland Familienname klären"
+    ]
+  },
+  "slots": []
+}

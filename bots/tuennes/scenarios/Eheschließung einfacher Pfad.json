@@ -1,0 +1,125 @@
+{
+  "steps": [
+    {
+      "userMessage": "eheschließung",
+      "botReplies": [
+        {
+          "botResponse": "#!builtin_single-choice-097S05",
+          "replySource": "dialogManager"
+        }
+      ]
+    },
+    {
+      "userMessage": "ja",
+      "botReplies": [
+        {
+          "botResponse": "#!builtin_single-choice-nlMMoF",
+          "replySource": "dialogManager"
+        }
+      ]
+    },
+    {
+      "userMessage": "ja",
+      "botReplies": [
+        {
+          "botResponse": "#!builtin_single-choice-gyoryg",
+          "replySource": "dialogManager"
+        }
+      ]
+    },
+    {
+      "userMessage": "ja",
+      "botReplies": [
+        {
+          "botResponse": "#!builtin_single-choice-hx9NLN",
+          "replySource": "dialogManager"
+        }
+      ]
+    },
+    {
+      "userMessage": "ja",
+      "botReplies": [
+        {
+          "botResponse": "#!builtin_single-choice-jWQEhi",
+          "replySource": "dialogManager"
+        }
+      ]
+    },
+    {
+      "userMessage": "nein",
+      "botReplies": [
+        {
+          "botResponse": "#!builtin_single-choice-UHtmJP",
+          "replySource": "dialogManager"
+        }
+      ]
+    },
+    {
+      "userMessage": "ja",
+      "botReplies": [
+        {
+          "botResponse": "#!builtin_single-choice-94_Kbg",
+          "replySource": "dialogManager"
+        }
+      ]
+    }
+  ],
+  "initialState": {
+    "__stacktrace": [],
+    "user": {
+      "timezone": 2,
+      "language": "en"
+    },
+    "context": {},
+    "session": {
+      "workflows": {}
+    },
+    "temp": {}
+  },
+  "finalState": {
+    "__stacktrace": [
+      {
+        "flow": "WeddingExpert.flow.json",
+        "node": "wohnsitz_koeln_six"
+      },
+      {
+        "flow": "WeddingExpert.flow.json",
+        "node": "gemeinsame_Kinder_seven"
+      }
+    ],
+    "user": {
+      "timezone": 2,
+      "language": "en"
+    },
+    "context": {
+      "currentFlow": "skills/choice-e66aeb.flow.json",
+      "currentNode": "parse",
+      "previousFlow": "WeddingExpert.flow.json",
+      "previousNode": "gemeinsame_Kinder_seven"
+    },
+    "session": {
+      "workflows": {},
+      "slots": {},
+      "nluContexts": [
+        {
+          "context": "wedding",
+          "ttl": 4
+        }
+      ]
+    },
+    "temp": {
+      "skill-choice-valid-7goi0u5t85": true,
+      "skill-choice-ret-7goi0u5t85": "ja",
+      "skill-choice-valid-mu2vx4huej": true,
+      "skill-choice-ret-mu2vx4huej": "ja",
+      "skill-choice-valid-quzppaivxf": true,
+      "skill-choice-ret-quzppaivxf": "ja",
+      "skill-choice-valid-tzqmtppme1": true,
+      "skill-choice-ret-tzqmtppme1": "ja",
+      "skill-choice-valid-12muzd59vz": true,
+      "skill-choice-ret-12muzd59vz": "nein",
+      "skill-choice-valid-k50ambkplt": true,
+      "skill-choice-ret-k50ambkplt": "ja"
+    }
+  }
+}

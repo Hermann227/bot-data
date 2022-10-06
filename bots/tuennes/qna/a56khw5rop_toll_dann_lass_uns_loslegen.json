@@ -1,0 +1,25 @@
+{
+  "id": "a56khw5rop_toll_dann_lass_uns_loslegen",
+  "data": {
+    "answers": {
+      "de": [
+        "Gerne, was möchtest du denn tun?"
+      ]
+    },
+    "questions": {
+      "de": [
+        "toll dann lass uns loslegen",
+        "Lass uns loslegen",
+        "toll dann lass uns anfangen"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

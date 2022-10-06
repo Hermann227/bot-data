@@ -1,0 +1,23 @@
+{
+  "name": "__qna__yd2unlh0wp_wie_teuer_ist_ein_kita_platz",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wie teuer ist ein KiTa-Platz",
+      "Was kostet ein Kitaplatz",
+      "Was muss ich bezahlen für einen Kitaplatz",
+      "Muss ich was bezahlen für einen/den Kitaplatz",
+      "Wie hoch ist der Elternbeitrag für den Kitaplatz",
+      "Wie teuer ist die Betreuung im Kindergarten",
+      "Wie viel Geld muss ich bezahlen für den Kindergartenplatz? Wie viel Geld muss ich bezahlen für meine Tochter / mein Sohn / mein Kind?",
+      "Wie viel Geld für Kita / Kitaplatz",
+      "Wie hoch sind die Kosten für die Kita? Wie hoch sind die Kosten für die Betreuung in der Kita?",
+      "Wie hoch sind die Kosten, damit mein Kind / meine Tochter / mein Sohn in die Kita gehen können",
+      "Kosten Kita"
+    ]
+  },
+  "slots": []
+}

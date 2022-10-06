@@ -1,0 +1,24 @@
+{
+  "name": "__qna__bbsxneyoy6_welche_betriebe_d_rfen_ge_ffnet_bleiben",
+  "contexts": [
+    "global",
+    "Corona und Standesamt"
+  ],
+  "utterances": {
+    "de": [
+      "Welche Betriebe dürfen geöffnet bleiben",
+      "Welche betriebe sind währen corona geöffnet",
+      "Corona / Restaurant",
+      "Corona / Sport",
+      "Corona / Amt",
+      "Corona / Schwimm",
+      "Corona / Kino",
+      "Corona / Praxis",
+      "Corona / Museen / Museum",
+      "Corona / Konzert",
+      "Corona / öffentlich",
+      "Corona / Öffnung"
+    ]
+  },
+  "slots": []
+}

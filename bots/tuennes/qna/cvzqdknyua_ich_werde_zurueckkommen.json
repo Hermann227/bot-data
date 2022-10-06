@@ -1,0 +1,31 @@
+{
+  "id": "cvzqdknyua_ich_werde_zurueckkommen",
+  "data": {
+    "answers": {
+      "de": [
+        "Ich freue mich auf Dich 😄"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Ich werde zurueckkommen",
+        "ich werde wiederkommen",
+        "Ich werde nochmal schreiben",
+        "Ich werde dir bald wieder schreiben",
+        "Ich werde dir wieder schreiben",
+        "Ich schreibe dir wieder",
+        "Dir schreibe ich öfter",
+        "Wir sehen uns bald wieder",
+        "Ich komme wieder"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "hr9fdywqm8_wie_kann_ich_meine_daten_in_little_bird__ndern",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Sofern die Anfrage den Status \"\"übertragen\"\" hat, kannst du Daten wie z.B. Betreuungsbeginn und -ende im <a style=\"color:#b00000\" href= \"https://portal-koeln.little-bird.de/\" target=\"_blank\" rel=\"noopener\">Elternportal</a> anpassen. Sofern die Anfrage den Status \"\"aktiv\"\" hat, können darüber hinaus Daten deines Kindes angepasst werden. Nutze hierfür bitte den Änderungsservice (Stiftsymbol hinter den Betreuungsplatzanfragen) unter \"\"Betreuung\"\".\nBitte beachte, dass hierzu zunächst ein Datenimport notwendig ist. Über \"Mein Profil\" \"Persönliche Daten ändern\" kannst du dem Import zustimmen, indem du \"\"ja\"\" wählst und über \"\"Profil ändern\"\" bestätigst.\nZudem können nur solche Anfragen bearbeitet werden, bei denen der gewünschte Betreuungsbeginn in der Zukunft liegt. In den übrigen Fällen wende dich bitte an die jeweilige Einrichtungsleitung. \nFür weitere Informationen besuche bitte die <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/adressen/10644/index.html\" target=\"_blank\" rel=\"noopener\">Homepage des Familienbüros</a>. Du kannst das Familienbüro per <a style=\"color:#b00000\" href = \"mailto: familenbuero@stadt-koeln.de\">Email</a> an \"familenbuero@stadt-koeln.de\" oder Telefon kontaktieren: 0221 / 221 - 21221."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie kann ich meine Daten in LITTLE BIRD ändern",
+        "Ich habe neue Anschrift",
+        "Ich bin umgezogen, was mache ich",
+        "Wie kann ich meine neue Adresse eingeben/mitteilen",
+        "Ich habe eine neue Wohnung wo muss ich das melden",
+        "Ich habe einen neuen Namen",
+        "Mein Kind hat einen neuen Nachnamen",
+        "Mein Kind hat den Nachnamen des Vaters angenommen",
+        "Ich habe den zweiten Vornamen nicht angegeben",
+        "Wie verschiebe ich den Betreuungsbeginn",
+        "Mein Kind ist bei einer Tagesmutter und soll später betreut werden",
+        "Möchte den Kindergarten später, wie änder ich das",
+        "Nachträglicher Wechselwunsch",
+        "Die Anfrage soll wieder aktiv sein",
+        "Ich habe das falsche Datum angegeben",
+        "Ich habe mich/wir haben uns getrennt. Wie gebe ich das an"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

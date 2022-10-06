@@ -1,0 +1,30 @@
+{
+  "id": "iy2cwbm6po_wo_wohnst_du",
+  "data": {
+    "answers": {
+      "de": [
+        "Ich wohne in der Cloud 😄"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wo wohnst du",
+        "In welcher Stadt wohnst du",
+        "Wo ist dein Zuhause",
+        "Was ist dein Zuhause",
+        "Wo bist du zu Hause",
+        "Wo ist dein Wohnort",
+        "Was ist dein Wohnort",
+        "Wo lebst du"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

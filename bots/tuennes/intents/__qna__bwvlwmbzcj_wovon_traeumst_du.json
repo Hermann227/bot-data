@@ -1,0 +1,20 @@
+{
+  "name": "__qna__bwvlwmbzcj_wovon_traeumst_du",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Wovon traeumst du",
+      "Hast du Träume",
+      "Träumst Du",
+      "Traum",
+      "Träume",
+      "Wovon träumst Du nachts",
+      "Kannst du träumen",
+      "Wovon träumst du"
+    ]
+  },
+  "slots": []
+}

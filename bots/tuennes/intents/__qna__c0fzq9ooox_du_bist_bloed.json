@@ -1,0 +1,24 @@
+{
+  "name": "__qna__c0fzq9ooox_du_bist_bloed",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Du bist bloed",
+      "Du funktionierst nicht",
+      "Du funktionierst nicht richtig",
+      "Du nervst",
+      "Du nervst mich",
+      "Du bist anstrengend",
+      "Kannst du auch richtig funktionieren",
+      "Das dauert zu lange",
+      "Du brauchst zu lange",
+      "Du bist nicht gut",
+      "Du bist schlecht",
+      "Du bist blöd"
+    ]
+  },
+  "slots": []
+}

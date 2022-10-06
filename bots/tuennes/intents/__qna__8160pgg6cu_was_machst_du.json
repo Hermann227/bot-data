@@ -1,0 +1,20 @@
+{
+  "name": "__qna__8160pgg6cu_was_machst_du",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Was machst du",
+      "Was machst du so",
+      "Was machst du gerade",
+      "Was beschäftigt dich",
+      "Was beschäftigt dich gerade",
+      "Was tust du",
+      "Was machst du den ganzen Tag",
+      "Was tust du den ganzen Tag"
+    ]
+  },
+  "slots": []
+}

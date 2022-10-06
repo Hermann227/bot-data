@@ -1,0 +1,61 @@
+{
+  "locked": false,
+  "disabled": false,
+  "private": false,
+  "details": {
+    "website": "",
+    "phoneNumber": "",
+    "emailAddress": "",
+    "termsConditions": "",
+    "privacyPolicy": "",
+    "avatarUrl": "/api/v1/bots/tuennes/media/z8qu1cz0kokhpdm49xe8-9ocd0k2wfx52cjhn3fwz-avatar_koeln.png",
+    "coverPictureUrl": ""
+  },
+  "$schema": "../../bot.config.schema.json",
+  "description": "",
+  "active": true,
+  "version": "12.27.0",
+  "author": "Botpress, Inc.",
+  "license": "AGPL-3.0",
+  "imports": {
+    "modules": [],
+    "incomingMiddleware": [],
+    "outgoingMiddleware": [],
+    "contentTypes": [
+      "builtin_action-button",
+      "builtin_card",
+      "builtin_carousel",
+      "builtin_image",
+      "builtin_single-choice",
+      "builtin_text",
+      "dropdown",
+      "builtin_video",
+      "builtin_audio",
+      "builtin_file",
+      "builtin_location",
+      "cgn_htmltext",
+      "cgn_simplecard",
+      "cgn_accordion"
+    ]
+  },
+  "dialog": {
+    "timeoutInterval": "5m"
+  },
+  "logs": {
+    "expiration": "1 week"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de"
+  ],
+  "id": "tuennes",
+  "name": "Tünnes",
+  "pipeline_status": {
+    "current_stage": {
+      "id": "prod",
+      "promoted_by": "system",
+      "promoted_on": "2022-04-27T11:44:43.444Z"
+    }
+  },
+  "messaging": {}
+}

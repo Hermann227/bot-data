@@ -1,0 +1,35 @@
+{
+  "id": "2b85d224jb_wie_melde_ich_ein_geschwisterkind_bei_little_bird",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Du kannst über dein Benutzerprofil mehrere Kinder vormerken. Melde dich bitte wie gewohnt mit deinem Account im <a style=\"color:#b00000\" href= \"https://portal-koeln.little-bird.de/\" target=\"_blank\" rel=\"noopener\">Elternportal</a> an und starte eine neue Betreuungsplatzsuche. Sollte eines deiner Kinder bereits einen Vertrag in einer KiTa haben, kannst du dort weitere Geschwisterkinder anmelden. Bitte starte hierzu eine neue Suche und filtere nach dem Namen der Einrichtung. In Schritt 4 gibst du bitte den Namen des bereits betreuten Kindes ein und schließt die Platzanfrage ab.\nFür weitere Informationen besuche bitte die <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/adressen/10644/index.html\" target=\"_blank\" rel=\"noopener\">Familienbüro</a>. Du kannst das Familienbüro per <a style=\"color:#b00000\" href = \"mailto: familenbuero@stadt-koeln.de\">Email</a> an \"familenbuero@stadt-koeln.de\" oder Telefon kontaktieren: 0221 / 221 - 21221.\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie melde ich ein Geschwisterkind bei LITTLE BIRD an",
+        "Wie melde ich den Brudner/ die Schwester an",
+        "Ich habe noch mehr Kinder wie melde ich diese an",
+        "Wie melde ich Mehrlinge an",
+        "Wie bekomme ich zwei Kinder in einer Einrichtung unter",
+        "Wann zählt der Geschwisterbonus",
+        "Was machen mit Geschwister",
+        "Was machen mit anderes Kind",
+        "Was mache ich mit neuem Kind",
+        "Was mache ich mit zweitem Kind",
+        "Wie melde ich mehrere Kinder an",
+        "Wie melde ich zweiten Sohn/ zweite Tochter an",
+        "Zweites Kind soll in dieselbe Kita"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

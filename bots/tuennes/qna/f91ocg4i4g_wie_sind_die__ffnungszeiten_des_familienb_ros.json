@@ -1,0 +1,35 @@
+{
+  "id": "f91ocg4i4g_wie_sind_die__ffnungszeiten_des_familienb_ros",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Das Familienbüro hat montags, dienstags und freitags von 8 - 12 Uhr sowie donnerstags von 8 - 12 Uhr und von 14 - 16 Uhr geöffnet. Aufgrund der Corona-Pandemie ist eine Vorsprache nur mit Termin möglich. Bitte vereinbare einen Kontakt per <a style=\"color:#b00000\" href = \"mailto: familenbuero@stadt-koeln.de\">Email</a> an \"familenbuero@stadt-koeln.de\"."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie sind die Öffnungszeiten des Familienbüros",
+        "Wann kann ich zum Familienbüro",
+        "Wann finde ich jemanden im Familienbüro",
+        "Wann hat das Familienbüro offen",
+        "Wann hat das Familienbüro geöffnet",
+        "Wie hat das Familienbüro offen",
+        "Wie hat das Familienbüro geöffnet",
+        "Wann kann ich zum Familienbüro gehen (,um Hilfe zu bekommen)",
+        "Öffnungszeiten Familienbüro",
+        "Das Familienbüro war nicht geöffnet, warum",
+        "Türe Familienbüro offen",
+        "Es war keiner da im Familienbüro",
+        "Brauche ich Termin für Familienbüro"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

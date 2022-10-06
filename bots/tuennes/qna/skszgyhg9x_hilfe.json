@@ -1,0 +1,34 @@
+{
+  "id": "skszgyhg9x_hilfe",
+  "data": {
+    "answers": {
+      "de": [
+        "Wobei kann ich behilflich sein?",
+        "Wie kann ich Dir helfen?",
+        "Na klar, frag mich einfach etwas 😊"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Hilfe",
+        "Ich brauche Hilfe",
+        "Ich brauche deine Hilfe",
+        "Hilf mir",
+        "Kannst du mir helfen?",
+        "Bitte hilf mir",
+        "Hilf mir bitte",
+        "Du musst mir helfen",
+        "Könntest du mir helfen?",
+        "Hilfst du mir"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

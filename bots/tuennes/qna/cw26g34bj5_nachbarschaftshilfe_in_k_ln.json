@@ -1,0 +1,37 @@
+{
+  "id": "cw26g34bj5_nachbarschaftshilfe_in_k_ln",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Wenn du anderen Menschen helfen möchtest, kannst du dich auf dieser <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/politik-und-verwaltung/presse/vermittlung-von-nachbarschaftlichen-hilfen\" target=\"_blank\" rel=\"noopener\">Website</a> informieren."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Nachbarschaftshilfe in Köln",
+        "Ich will in Zeiten von Corona helfen",
+        "Wo kann ich mich bezüglich Nachbarschaftsprogrammen melden",
+        "Welche Nachbarschaftsprogramme gibt es",
+        "Was für Nachbarschaftsprogramme gibt es",
+        "Welche nachbarschaftlichen Unterstützungs-Angebote gibt es",
+        "Wie kann ich Risikogruppen helfen",
+        "Ich will Risikogruppen helfen",
+        "Wie kann ich alten Menschen helfen",
+        "Ich will Risikopatienten helfen",
+        "Wie kann ich Risikopatienten helfen",
+        "Einkaufen für alte Menschen",
+        "Einkaufen für Risikogruppe",
+        "Einkaufshilfen wo",
+        "Gibt es Nachbarschaftshilfe"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

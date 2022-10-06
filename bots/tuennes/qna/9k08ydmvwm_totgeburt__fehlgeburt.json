@@ -1,0 +1,26 @@
+{
+  "id": "9k08ydmvwm_totgeburt__fehlgeburt",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Ganz in Ruhe kannst du auf dieser <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/artikel/06238/index.html\" target=\"_blank\" rel=\"noopener\">Seite</a> Informationen rund um Tot- und Fehlgeborene finden.\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Totgeburt, Fehlgeburt",
+        "Frühgeburt",
+        "Totgeburt",
+        "Fehlgeburt"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

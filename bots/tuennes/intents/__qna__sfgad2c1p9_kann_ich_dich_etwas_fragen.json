@@ -1,0 +1,18 @@
+{
+  "name": "__qna__sfgad2c1p9_kann_ich_dich_etwas_fragen",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Kann ich dich etwas fragen",
+      "Kann ich dich was fragen",
+      "Kann ich eine Frage stellen",
+      "Kann ich etwas fragen",
+      "Kann ich was fragen",
+      "Kann ich dir eine frage stellen"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,47 @@
+{
+  "name": "weather",
+  "utterances": {
+    "de": [
+      "Wetter",
+      "Wie ist das Wetter?",
+      "Brauch ich einen Regenschirm?",
+      "Regnet es heute?",
+      "Wird es heute in [München](city) regnen?",
+      "Wie ist das Wetter in [xxx](city)",
+      "Wie ist das Wetter in [Darmstadt](city)",
+      "Regnet es in [Darmstadt](city)",
+      "werde ich heute nass",
+      "wetter in [xxx](city)",
+      "wetter [xxx](city)",
+      "wie wird das Wetter",
+      "schneit es heute",
+      "wetter morgen",
+      "wetter in [xxx](city) am 18.04",
+      "wetterbericht",
+      "gewitter",
+      "Wetter am Wochenende",
+      "Wetter am Montag",
+      "wie wird morgen das wetter in [Regensburg](city)",
+      "wie wird das Wetter in [Darmstadt](city)",
+      "das aktuelle Wetter in [xxx](city)",
+      "Wie ist das Wetter in [New York](city)",
+      "Wie ist das Wetter in [Frankfurt Main](city)",
+      "wie wird morgen das wetter in [New York](city)",
+      "wie wird morgen das wetter in [Frankfurt Main](city)",
+      "wie ist das Wetter in [xxx](city)?"
+    ]
+  },
+  "slots": [
+    {
+      "id": "ywFpRU6JggyfxU7A3FUK4",
+      "name": "city",
+      "entities": [
+        "any"
+      ],
+      "color": 1
+    }
+  ],
+  "contexts": [
+    "global"
+  ]
+}

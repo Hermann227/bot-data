@@ -1,0 +1,32 @@
+{
+  "id": "59romhv5vo_hast_du_gefuehle",
+  "data": {
+    "answers": {
+      "de": [
+        "Ausgezeichnet. Wenn ich Ihnen helfen kann, geht es mir noch besser."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Hast du Gefuehle",
+        "Kannst du fühlen",
+        "Kannst du etwas fühlen",
+        "Was fühlst du",
+        "Wie ist es ein Chatbot zu sein",
+        "Wie fühlt es sich an ein Chatbot zu sein",
+        "Fühlst du was",
+        "Fühlst du etwas",
+        "Fühlst du dich gut?",
+        "Hast du menschliche Gefühle"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "randomId": "zph3s92gbp",
+    "contentId": "builtin_single-choice-ZNii7r",
+    "invalidContentId": "",
+    "keywords": {
+      "choice1": [
+        "choice1",
+        "Anmeldung einer Eheschließung"
+      ],
+      "choice2": [
+        "choice2",
+        "Wie ist der Pegelstand in Köln?"
+      ],
+      "choice3": [
+        "choice3",
+        "Wie ist das Wetter in Köln?"
+      ],
+      "choice4": [
+        "choice4",
+        "Upload"
+      ],
+      "choice5": [
+        "choice5",
+        "Wer bin ich?"
+      ]
+    },
+    "config": {
+      "nbMaxRetries": 0,
+      "repeatChoicesOnInvalid": false,
+      "variableName": ""
+    }
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-ZNii7r {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "101778"
+    },
+    {
+      "name": "parse",
+      "onReceive": [
+        "basic-skills/choice_parse_answer {\"randomId\":\"zph3s92gbp\",\"contentId\":\"builtin_single-choice-ZNii7r\",\"invalidContentId\":\"\",\"keywords\":{\"choice1\":[\"choice1\",\"Anmeldung einer Eheschließung\"],\"choice2\":[\"choice2\",\"Wie ist der Pegelstand in Köln?\"],\"choice3\":[\"choice3\",\"Wie ist das Wetter in Köln?\"],\"choice4\":[\"choice4\",\"Upload\"],\"choice5\":[\"choice5\",\"Wer bin ich?\"]},\"config\":{\"nbMaxRetries\":0,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
+      ],
+      "next": [
+        {
+          "condition": "temp['skill-choice-valid-zph3s92gbp'] === true",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "invalid"
+        }
+      ],
+      "triggers": [
+        {
+          "conditions": [
+            {
+              "id": "always"
+            }
+          ]
+        }
+      ],
+      "onEnter": [],
+      "id": "756876"
+    },
+    {
+      "name": "invalid",
+      "onEnter": [
+        "basic-skills/choice_invalid_answer {\"randomId\":\"zph3s92gbp\"}"
+      ],
+      "next": [
+        {
+          "condition": "Number(temp['skill-choice-invalid-count-zph3s92gbp']) > Number(0)",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "sorry"
+        }
+      ],
+      "id": "478799"
+    },
+    {
+      "name": "sorry",
+      "onEnter": [],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "271433"
+    }
+  ]
+}

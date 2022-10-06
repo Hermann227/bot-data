@@ -1,0 +1,32 @@
+{
+  "id": "xux18csxsx_erwerb_der_deutschen_staatsangeh_rigkeit_durch_geb",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Eine Vorsprache beim Standesamt ist nicht erforderlich. Die Prüfung auf Erwerb der deutschen Staatsangehörigkeit erfolgt von Amts wegen. Wenn dein Kind die deutsche Staatsangehörigkeit erworben hat, wirst du unaufgefordert darüber informiert.\nWeitere Informationen zum Erwerb der deutschen Staatsangehörigkeit durch Geburt in Deutschland findest du <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/produkt/erwerb-der-deutschen-staatsangehoerigkeit-durch-geburt-deutschland\" target=\"_blank\" rel=\"noopener\">hier</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Erwerb der deutschen Staatsangehörigkeit durch Geburt in Deutschland",
+        "Deutsche Staatsangehörigkeit durch Geburt",
+        "Baby in Deutschland geboren",
+        "Baby in Deutschland geboren Deutsche",
+        "Deutsche Staatsangehörigkeit durch Geburt in Deutschland",
+        "Deutschland Geburt deutsche Staatsangehörigkeit",
+        "Deutsche Staatsangehörigkeit Geburt in Köln",
+        "Wie deutsche Staatsangehörigkeit bei Geburt",
+        "Wie deutsche Staatsgehörigkeit bei Geburt",
+        "Baby in Köln geboren. Deutsch"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

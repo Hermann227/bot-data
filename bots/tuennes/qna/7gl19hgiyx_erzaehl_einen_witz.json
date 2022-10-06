@@ -1,0 +1,55 @@
+{
+  "id": "7gl19hgiyx_erzaehl_einen_witz",
+  "data": {
+    "answers": {
+      "de": [
+        "Witze sind nicht mein Spezialgebiet. Aber na gut... Heißen Teigwaren Teigwaren, weil sie vorher aus Teig waren? 😄",
+        "Witze sind nicht mein Spezialgebiet. Aber na gut... Ich konnte es nicht fassen. Mein Nachbar hat tatsächlich noch um 3 Uhr nachts bei uns geklingelt.   Mir wäre fast die Bohrmaschine aus der Hand gefallen! 😄",
+        "Witze sind nicht mein Spezialgebiet. Aber na gut... Chuck Norris hat seine Führerscheinprüfung bestanden, zu Fuß. ✌",
+        "Witze sind nicht mein Spezialgebiet. Aber na gut... Was sagt ein Hai, nachdem er einen Surfer gefressen hat? 🐬 - \"Nett serviert, so mit Frühstücksbrettchen!\" ",
+        "Witze sind nicht mein Spezialgebiet. Aber na gut... Treffen sich zwei Roboter sagt der eine zu anderen: Hast du eine Schraube locker? 🔧 ",
+        "Witze sind nicht mein Spezialgebiet. Aber na gut... Was sitzt auf einem Baum und schreit \"Aha\"? - Ein Uhu mit Sprachfehler.",
+        "Witze sind nicht mein Spezialgebiet. Aber na gut... Ich habe gestern ein Brötchen angerufen, aber es war belegt.",
+        "Witze sind nicht mein Spezialgebiet. Aber na gut... Was macht ein Pirat an einem Computer? Er drückt die Enter-Taste",
+        "Witze sind nicht mein Spezialgebiet. Aber na gut... Was sagt ein Gen, wenn es ein anderes trifft? — Halogen.",
+        "Witze sind nicht mein Spezialgebiet. Aber na gut... Ich habe gehört, Kerzen halten sich länger wenn man sie nicht anzündet.",
+        "Witze sind nicht mein Spezialgebiet. Aber na gut... Wie nennt man Mobbing im Weltraum? - Allgemeinheiten"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Erzaehl einen Witz",
+        "Witz",
+        "Kennst du einen Witz",
+        "Erzähl doch mal einen Witz",
+        "Erzähl mal einen Witz",
+        "Erzähl Witz",
+        "Kennst Du einen Witz",
+        "Kannst Du einen Witz erzählen",
+        "Bitte erzähl mir einen Witz",
+        "Bitte erzähl einen Witz",
+        "Erzähl einen Witz",
+        "Erzähl mir einen Witz",
+        "Kannst du Witze erzählen",
+        "Kannst du einen Witz erzählen",
+        "Sag was lustiges",
+        "Witz des Tages",
+        "Erzähle mir einen Witz",
+        "Hau mal einen Witz raus",
+        "Kennst du auch Witze",
+        "Erzähle einen Witz",
+        "Kannst du auch Witze",
+        "Kannst du Witze",
+        "Kennst du WItze"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

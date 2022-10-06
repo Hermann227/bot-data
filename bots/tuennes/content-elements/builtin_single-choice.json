@@ -1,0 +1,248 @@
+[
+  {
+    "id": "builtin_single-choice-097S05",
+    "formData": {
+      "choices$de": [
+        {
+          "title": "ja",
+          "value": "ja"
+        },
+        {
+          "title": "nein",
+          "value": "nein"
+        }
+      ],
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Möchtet ihr in Deutschland heiraten?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T17:32:00.801Z",
+    "modifiedOn": "2020-08-24T17:32:00.801Z"
+  },
+  {
+    "id": "builtin_single-choice-nlMMoF",
+    "formData": {
+      "choices$de": [
+        {
+          "title": "ja",
+          "value": "ja"
+        },
+        {
+          "title": "nein",
+          "value": "nein"
+        }
+      ],
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Seid ihr beide älter als 18?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T17:33:47.372Z",
+    "modifiedOn": "2020-08-24T17:33:47.372Z"
+  },
+  {
+    "id": "builtin_single-choice-p1Hkkz",
+    "formData": {
+      "choices$de": [
+        {
+          "title": "Anmeldung Eheschließung",
+          "value": "wedding"
+        },
+        {
+          "title": "Pegelstand",
+          "value": "water_level"
+        },
+        {
+          "title": "Wie ist das Wetter in Köln?",
+          "value": "weather"
+        },
+        {
+          "title": "Behördendienstleistungen",
+          "value": "vsm"
+        }
+      ],
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Ich kann dir dabei helfen, herauszufinden welche Unterlagen für eine Eheschließung benötigt werden, und dir Auskunft zu den Themen Bürgerdienste, KiTa-Platz-Vergabe und Erwachsenenbildung geben.",
+      "dropdownPlaceholder$de": "Select...",
+      "disableFreeText$de": false
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T17:38:17.999Z",
+    "modifiedOn": "2021-08-06T12:50:48.905Z"
+  },
+  {
+    "id": "builtin_single-choice-gyoryg",
+    "formData": {
+      "choices$de": [
+        {
+          "title": "ja",
+          "value": "ja"
+        },
+        {
+          "title": "nein",
+          "value": "nein"
+        }
+      ],
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Seid ihr beide deutsche Staatsbürger?",
+      "dropdownPlaceholder$de": "Select...",
+      "disableFreeText$de": false
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T18:32:02.366Z",
+    "modifiedOn": "2021-09-08T12:19:07.638Z"
+  },
+  {
+    "id": "builtin_single-choice-hx9NLN",
+    "formData": {
+      "choices$de": [
+        {
+          "title": "ja",
+          "value": "ja"
+        },
+        {
+          "title": "nein",
+          "value": "nein"
+        }
+      ],
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Seid ihr beide in Deutschland geboren?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T18:38:32.246Z",
+    "modifiedOn": "2020-08-24T18:38:32.246Z"
+  },
+  {
+    "id": "builtin_single-choice-UHtmJP",
+    "formData": {
+      "choices$de": [
+        {
+          "title": "ja",
+          "value": "ja"
+        },
+        {
+          "title": "ja einer von uns",
+          "value": "jaeiner"
+        },
+        {
+          "title": "nein",
+          "value": "nein"
+        }
+      ],
+      "markdown$de": false,
+      "typing$de": true,
+      "text$de": "Hat einer von euch beiden den Wohnsitz in Köln?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T18:48:04.540Z",
+    "modifiedOn": "2020-08-24T18:48:04.540Z"
+  },
+  {
+    "id": "builtin_single-choice-94_Kbg",
+    "formData": {
+      "choices$de": [
+        {
+          "title": "ja",
+          "value": "ja"
+        },
+        {
+          "title": "nein",
+          "value": "nein"
+        }
+      ],
+      "markdown$de": false,
+      "typing$de": true,
+      "text$de": "Habt ihr gemeinsame Kinder?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T18:51:07.387Z",
+    "modifiedOn": "2020-08-24T18:51:07.387Z"
+  },
+  {
+    "id": "builtin_single-choice-jWQEhi",
+    "formData": {
+      "choices$de": [
+        {
+          "title": "nein",
+          "value": "nein"
+        },
+        {
+          "title": "ja in Deutschland",
+          "value": "jaDeutschland"
+        },
+        {
+          "title": "ja nicht in Deutschland",
+          "value": "jaAusland"
+        }
+      ],
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "War einer von euch bereits verheiratet bzw. verpartnert?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T19:07:50.728Z",
+    "modifiedOn": "2020-08-24T19:07:50.728Z"
+  },
+  {
+    "id": "builtin_single-choice-ZNii7r",
+    "formData": {
+      "dropdownPlaceholder$de": "Select...",
+      "choices$de": [
+        {
+          "title": "Anmeldung einer Eheschließung",
+          "value": "choice1"
+        },
+        {
+          "title": "Wie ist der Pegelstand in Köln?",
+          "value": "choice2"
+        },
+        {
+          "title": "Wie ist das Wetter in Köln?",
+          "value": "choice3"
+        },
+        {
+          "title": "Upload",
+          "value": "choice4"
+        },
+        {
+          "title": "Wer bin ich?",
+          "value": "choice5"
+        }
+      ],
+      "markdown$de": true,
+      "disableFreeText$de": false,
+      "typing$de": true,
+      "text$de": "Willkommen beim KölnBot. Ich werde versuchen deine Fragen zu beantworten."
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-12T12:50:55.548Z",
+    "modifiedOn": "2022-05-06T07:06:03.386Z"
+  },
+  {
+    "id": "builtin_single-choice-j6EP1r",
+    "formData": {
+      "dropdownPlaceholder$de": "Select...",
+      "choices$de": [
+        {
+          "title": "File Upload",
+          "value": "BOTPRESS.FILE_UPLOAD"
+        },
+        {
+          "title": "Image Upload",
+          "value": "BOTPRESS.IMAGE_UPLOAD"
+        }
+      ],
+      "markdown$de": true,
+      "disableFreeText$de": false,
+      "typing$de": true,
+      "text$de": "Upload"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-28T07:11:30.615Z",
+    "modifiedOn": "2022-04-28T07:11:30.615Z"
+  }
+]

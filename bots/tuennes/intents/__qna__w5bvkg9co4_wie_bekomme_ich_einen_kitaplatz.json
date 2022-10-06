@@ -1,0 +1,30 @@
+{
+  "name": "__qna__w5bvkg9co4_wie_bekomme_ich_einen_kitaplatz",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wie bekomme ich einen Kitaplatz",
+      "Wie melde ich mein Kind für einen Kitaplatz an",
+      "Wie melde ich mein Kind in einer Kita an",
+      "Was muss ich machen um einen Kitaplatz zu bekommen",
+      "Kitaplatz für mein Sohn? Kitaplatz, mein Sohn",
+      "Kitaplatz für meine Tochter? Kitaplatz, meine Tochter",
+      "Kitaplatz für mein Kind? Kitaplatz, mein Kind",
+      "Kein Platz Kita",
+      "Ich brauche einen Kitaplatz",
+      "Ich benötige einen Kitaplatz",
+      "Wie erhalte ich einen Kitaplatz",
+      "Wie Kindergarten",
+      "Wie bekomme Kita",
+      "Was ist mit Kitaplatz",
+      "Was ist mit Platz für Kita",
+      "Ich brauche Platz für Kindergarten",
+      "Ich brauche Platz für Kita",
+      "Wie Anmeldung Kitaplatz"
+    ]
+  },
+  "slots": []
+}

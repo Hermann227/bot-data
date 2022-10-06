@@ -1,0 +1,30 @@
+{
+  "id": "g2avkosmm7_wann_kann_mein_kind_in_der_kita_aufgenommen_werden",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Die Aufnahme ist ganzjährig möglich, also auch im laufenden KiTa-Jahr. Bitte beachte, dass zu Beginn eines KiTa-Jahres die Chance auf einen Betreuungsplatz in einer deiner bevorzugten Einrichtungen erheblich höher ist. Weitere Informationen zu den Aufnahmekriterien in städtischen KiTas findest du <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/leben-in-koeln/familie-kinder/betreuung/haeufig-gestellte-fragen-zum-vormerk-anmeldeverfahren-little-bird\" target=\"_blank\" rel=\"noopener\">hier</a>.\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wann kann mein Kind in der KiTa aufgenommen werden",
+        "Was sind die Voraussetzungen, damit mein Kind in der Kita aufgenommen werden kann",
+        "Ab wann kann mein Kind in die Kita",
+        "Wann kann Kind in Kita",
+        "Ab wann darf mein Kind in Kita",
+        "Wie alt muss mein Kind sein, um in die Kita zu dürfen",
+        "Was ist das Mindestalter, damit mein Kind in die Kita kann",
+        "Kind Kita ab wann"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

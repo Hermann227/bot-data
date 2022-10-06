@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cgn_simplecard-LT8ioN",
+    "formData": {
+      "title$de": "Test 1",
+      "text$de": "<b>Dies ist ein Test</b><br/>Informationen und noch mehr Informationen, Informationen"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-18T09:11:14.533Z",
+    "modifiedOn": "2022-01-18T11:09:00.834Z"
+  }
+]

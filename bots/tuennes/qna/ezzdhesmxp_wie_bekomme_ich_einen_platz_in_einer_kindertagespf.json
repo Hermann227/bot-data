@@ -1,0 +1,36 @@
+{
+  "id": "ezzdhesmxp_wie_bekomme_ich_einen_platz_in_einer_kindertagespf",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Um einen Platz in einer Kindertagespflege zu bekommen, meldest du dich bitte bei der <a style=\"color:#b00000\" href= \"https://www.kindertagespflege-koeln.de/eltern/anmeldung-vermittlung\" target=\"_blank\" rel=\"noopener\">Kontaktstelle Kindertagespflege</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie bekomme ich einen Platz in einer Kindertagespflege",
+        "Wie bekomme ich einen Tagespflegeplatz",
+        "Wie bekomme ich einen Platz bei einer Tagesmutter oder einem Tagesvater",
+        "Wie bekomme ich einen Platz bei einer Tagesmutter",
+        "Wie bekomme ich einen Platz bei einem Tagesvater",
+        "Wie bekomme ich eine Tagesmutter? Wie bekomme ich einen Tagesvater",
+        "Was muss ich machen um einen Kindertagespflegeplatz zu bekommen",
+        "Wie melde ich mein Kind für einen Kindertagespflegeplatz an",
+        "Wo melde ich mein Kind für einen Kindertagespflegeplatz an",
+        "Wie funktioniert die Anmeldung für einen (Kinder-)tagespflegeplatz/ für einen Platz bei einer Tagesmutter/ für einen Platz bei einem Tagesvater",
+        "Wie Platz bei Kindertagespflege? Wie Platz bei Tagesmutter? Wie Platz bei Tagesvater",
+        "Wo bekomme ich einen Platz für einen Kindertagespflegeplatz",
+        "Wie Platz Tagesmutter? Wie Platz Tagesvater",
+        "Muss ich die Teilablehnung / den Bescheid abwarten, um einen Kindertagespflegeplatz anzumelden"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "randomId": "wdtmvcukd9",
+    "contentId": "builtin_single-choice-94_Kbg",
+    "invalidContentId": "builtin_text-s0FXc8",
+    "keywords": {
+      "ja": [
+        "ja"
+      ],
+      "nein": [
+        "nein"
+      ]
+    },
+    "config": {
+      "nbMaxRetries": 2,
+      "repeatChoicesOnInvalid": true
+    }
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-94_Kbg {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "529022"
+    },
+    {
+      "name": "parse",
+      "onReceive": [
+        "basic-skills/choice_parse_answer {\"randomId\":\"wdtmvcukd9\",\"contentId\":\"builtin_single-choice-94_Kbg\",\"invalidContentId\":\"builtin_text-s0FXc8\",\"keywords\":{\"ja\":[\"ja\"],\"nein\":[\"nein\"]},\"config\":{\"nbMaxRetries\":2,\"repeatChoicesOnInvalid\":true}}"
+      ],
+      "next": [
+        {
+          "condition": "temp['skill-choice-valid-wdtmvcukd9'] === true",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "invalid"
+        }
+      ],
+      "triggers": [
+        {
+          "conditions": [
+            {
+              "id": "always"
+            }
+          ]
+        }
+      ],
+      "onEnter": [],
+      "id": "683355"
+    },
+    {
+      "name": "invalid",
+      "onEnter": [
+        "basic-skills/choice_invalid_answer {\"randomId\":\"wdtmvcukd9\"}"
+      ],
+      "next": [
+        {
+          "condition": "Number(temp['skill-choice-invalid-count-wdtmvcukd9']) > Number(2)",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "sorry"
+        }
+      ],
+      "id": "829156"
+    },
+    {
+      "name": "sorry",
+      "onEnter": [
+        "say #!builtin_text-s0FXc8 {}",
+        "say #!builtin_single-choice-94_Kbg {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "740555"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e9i4hw4r6g_kann_mein_kind_einen_doppelnamen_bekommen",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Doppelnamen für Kinder gibt es nur in bestimmten Einzelfällen. Hierzu sollte vorab eine Klärung über das Standesamt erfolgen."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Kann mein Kind einen Doppelnamen bekommen",
+        "Doppelnamen Kinder",
+        "Doppelnamen Kind",
+        "Kinder sollen Doppelnamen bekommen",
+        "Kind soll Doppelnamen bekommen",
+        "Doppelnamen für Kind erlaubt",
+        "Doppelnamen für Kinder erlaubt",
+        "Wie kann ich meinem Kind einen Doppelnamen geben",
+        "Ich möchte einen Doppelnamen für meine Kinder",
+        "Dürfen Kinder Doppelnamen bekommen",
+        "Wie kann mein Kind einen Doppelnamen bekommen",
+        "Wie können meine Kinder einen Doppelnamen bekommen"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

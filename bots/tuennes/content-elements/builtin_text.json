@@ -1,0 +1,487 @@
+[
+  {
+    "id": "builtin_text-2j6zSt",
+    "formData": {
+      "markdown$de": false,
+      "typing$de": true,
+      "text$de": "Für eine Heirat im Ausland gelten je nach Land unterschiedliche Bestimmungen. Bitte wende dich hierzu am besten direkt an das Heiratsstandesamt. Weitere Informationen, z.B. zu benötigten Dokumenten, findest du beim <a style=\"color:#b00000\" href= \"https://www.bva.bund.de/DE/Das-BVA/Aufgaben/A/Auswanderer_Auslandstaetige/_documents/Heirat_kachel.html\" target=\"_blank\" rel=\"noopener\">Auswärtigen Amt</a>"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T17:35:23.420Z",
+    "modifiedOn": "2020-08-24T17:35:23.420Z"
+  },
+  {
+    "id": "builtin_text-X2_RaM",
+    "formData": {
+      "markdown$de": false,
+      "typing$de": true,
+      "text$de": "Ich hoffe, dass ich dir weiterhelfen konnte. Ich wünsche dir alles Gute!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T17:36:14.692Z",
+    "modifiedOn": "2020-08-24T17:36:14.692Z"
+  },
+  {
+    "id": "builtin_text-tR0YRk",
+    "formData": {
+      "markdown$de": false,
+      "typing$de": true,
+      "text$de": "In Ordnung. Für diesen Fall wirst du einen Beratungstermin brauchen. Lass uns jetzt aber noch versuchen, die restlichen benötigten Unterlagen zu bestimmen."
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T18:34:10.636Z",
+    "modifiedOn": "2020-08-24T18:34:10.636Z"
+  },
+  {
+    "id": "builtin_text-jw_FBH",
+    "formData": {
+      "markdown$de": false,
+      "typing$de": true,
+      "text$de": "Oh... tut mir leid. Heiraten könnt ihr erst wenn ihr beide volljährig seid. Vielleicht sprechen wir uns ja bald wieder. Bis dahin alles Gute."
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T18:36:42.711Z",
+    "modifiedOn": "2020-08-24T18:36:42.711Z"
+  },
+  {
+    "id": "builtin_text-4bWSp5",
+    "formData": {
+      "markdown$de": false,
+      "typing$de": true,
+      "text$de": "Das hab ich leider nicht verstanden. Hast du die Antwort aus der Liste gewählt? Bitte starte den Prozess erneut.",
+      "variations$de": [
+        "Entschuldige bitte aber ich habe dich nicht verstanden. Hast du dich vertippt?"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T18:40:31.660Z",
+    "modifiedOn": "2021-09-06T14:21:26.193Z"
+  },
+  {
+    "id": "builtin_text-mAGyHO",
+    "formData": {
+      "markdown$de": false,
+      "typing$de": true,
+      "text$de": "Ich habe mir deine Antwort in meiner Checkliste gemerkt. Für diesen Fall wirst du einen Beratungstermin brauchen. Lass uns jetzt aber noch versuchen, die restlichen benötigten Unterlagen zu bestimmen."
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T18:43:29.098Z",
+    "modifiedOn": "2020-08-24T18:43:29.098Z"
+  },
+  {
+    "id": "builtin_text-nRBY5e",
+    "formData": {
+      "markdown$de": false,
+      "typing$de": true,
+      "text$de": "Die Anmeldung der Ehe muss am Wohnsitz vorgenommen werden. Wenden Sie sich hierzu bitte an Ihr zuständiges Standesamt. \n\nIch hoffe, dass ich Ihnen weiterhelfen konnte. Gerne stehe ich Ihnen weiterhin für Fragen zur Eheschließung zur Verfügung!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T18:50:16.511Z",
+    "modifiedOn": "2020-08-24T18:50:16.511Z"
+  },
+  {
+    "id": "builtin_text-GkZbFl",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Dieser Fall ist etwas komplizierter. Für diesen Fall wirst du einen Beratungstermin brauchen. Lass uns jetzt aber noch versuchen, die restlichen benötigten Unterlagen zu bestimmen."
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-24T19:15:48.205Z",
+    "modifiedOn": "2020-08-24T19:15:48.205Z"
+  },
+  {
+    "id": "builtin_text-EMC4F9",
+    "formData": {
+      "markdown$de": false,
+      "typing$de": false,
+      "text$de": "Willkommen im Köln Bot."
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-25T07:29:25.245Z",
+    "modifiedOn": "2020-08-25T07:29:25.245Z"
+  },
+  {
+    "id": "builtin_text-E_wDFs",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "VSM Suche"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-26T07:24:24.497Z",
+    "modifiedOn": "2020-08-26T07:24:24.497Z"
+  },
+  {
+    "id": "builtin_text-tlg6kZ",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Starte Suche..."
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-26T08:58:47.462Z",
+    "modifiedOn": "2020-08-26T10:50:02.405Z"
+  },
+  {
+    "id": "builtin_text-U-zzib",
+    "formData": {
+      "markdown$de": false,
+      "typing$de": true,
+      "text$de": "Zu welcher Dienstleistung möchtest du Informationen?",
+      "variations$de": []
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-26T10:47:35.506Z",
+    "modifiedOn": "2020-08-26T10:56:26.420Z"
+  },
+  {
+    "id": "builtin_text-HhVQqu",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "{{JSON.parse(temp.response)}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-26T11:03:03.058Z",
+    "modifiedOn": "2020-08-26T11:05:44.371Z"
+  },
+  {
+    "id": "builtin_text-NbcQlT",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Unbekannter Fehler. Evtl. ist die Datenquelle gerade nicht erreichbar."
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-26T19:20:34.009Z",
+    "modifiedOn": "2020-08-26T19:20:34.009Z"
+  },
+  {
+    "id": "builtin_text-vedlT5",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Dazu habe ich folgende Infos:"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-09-04T12:16:57.576Z",
+    "modifiedOn": "2020-09-06T16:31:50.082Z"
+  },
+  {
+    "id": "builtin_text-VP3tJB",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "du hast nach {{event.payload.text}} oder {{session.slot.vsmQuery}} gefragt"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-09-07T17:03:25.634Z",
+    "modifiedOn": "2020-09-07T17:03:25.634Z"
+  },
+  {
+    "id": "builtin_text-24TA_I",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Nach was genau suchst du?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-09-07T17:07:39.043Z",
+    "modifiedOn": "2020-09-07T17:07:39.043Z"
+  },
+  {
+    "id": "builtin_text-Z5LCJT",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Das habe ich leider nicht verstanden"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-09-07T17:07:54.264Z",
+    "modifiedOn": "2020-09-07T17:07:54.264Z"
+  },
+  {
+    "id": "builtin_text--B6kkH",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "slot debug {{{session.slots.vsmQuery.value}}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-09-07T17:48:44.715Z",
+    "modifiedOn": "2020-09-07T17:49:57.258Z"
+  },
+  {
+    "id": "builtin_text-oQQB5K",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "slot filled {{temp.slotFilled}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-09-07T19:46:09.267Z",
+    "modifiedOn": "2020-09-07T19:46:09.267Z"
+  },
+  {
+    "id": "builtin_text-SmDGFS",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Das Wetter für diesen Ort konnte leider nicht ermittelt werden.",
+      "variations$de": [
+        "Den Ort konnte ich leider nicht finden."
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-12-01T17:02:07.595Z",
+    "modifiedOn": "2020-12-23T07:59:08.609Z"
+  },
+  {
+    "id": "builtin_text-ErtT3K",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "{{{temp.alternativeText}}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-12-01T17:03:00.142Z",
+    "modifiedOn": "2020-12-01T17:03:00.142Z"
+  },
+  {
+    "id": "builtin_text-cEGIDs",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "{{temp.alternativeText}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-12-22T09:00:52.953Z",
+    "modifiedOn": "2020-12-22T09:00:52.953Z"
+  },
+  {
+    "id": "builtin_text-tfrRLl",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "{{temp.alternativeText}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-12-23T08:00:23.011Z",
+    "modifiedOn": "2020-12-23T08:00:23.011Z"
+  },
+  {
+    "id": "builtin_text-2_FXx2",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Ok! Ich erstelle für dich eine Checkliste mit den Unterlagen, die du für deine Eheschließung benötigst. Dafür stelle ich einige Fragen.",
+      "variations$de": []
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-12-30T10:41:51.846Z",
+    "modifiedOn": "2020-12-30T10:44:21.881Z"
+  },
+  {
+    "id": "builtin_text-RcuDrc",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "hallo"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-25T13:23:50.247Z",
+    "modifiedOn": "2021-05-25T13:23:50.247Z"
+  },
+  {
+    "id": "builtin_text-a6Jzwk",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Ich kann dir dabei helfen, herauszufinden welche Unterlagen für eine Eheschließung benötigt werden, und dir Auskunft zu den Themen Bürgerdienste, KiTa-Platz-Vergabe und Erwachsenenbildung geben."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-05-25T13:25:32.791Z",
+    "modifiedOn": "2021-10-14T08:36:25.970Z"
+  },
+  {
+    "id": "builtin_text-s0FXc8",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Das habe ich leider nicht verstanden. Bitte wähle eine Option aus der Antwortliste."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-08T12:21:34.181Z",
+    "modifiedOn": "2021-09-08T12:21:34.181Z"
+  },
+  {
+    "id": "builtin_text-NBhrgf",
+    "formData": {
+      "markdown$de": true,
+      "typing$de": true,
+      "text$de": "Ich habe dich leider nicht verstanden. Hast du dich vielleicht vertippt?",
+      "variations$de": [
+        "Leider habe ich keine passende Antwort gefunden. Prüfe deine Eingabe und versuche es noch mal.",
+        "Das habe ich jetzt nicht richtig verstanden. Könntest du deine Frage umformulieren?"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-10T05:50:36.084Z",
+    "modifiedOn": "2021-09-10T10:19:33.053Z"
+  },
+  {
+    "id": "builtin_text-W3DvJi",
+    "formData": {
+      "text$de": "{{temp.alternativeText}}",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-12T13:58:34.772Z",
+    "modifiedOn": "2022-01-12T14:00:05.964Z"
+  },
+  {
+    "id": "builtin_text-_VbA8F",
+    "formData": {
+      "text$de": "{{session.pegelstandCard.actions.0.data.trend}}",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-12T14:27:10.923Z",
+    "modifiedOn": "2022-01-12T15:15:57.643Z"
+  },
+  {
+    "id": "builtin_text-Wh7re4",
+    "formData": {
+      "text$de": "HalliHallo!",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-14T08:56:29.981Z",
+    "modifiedOn": "2022-01-14T08:56:29.981Z"
+  },
+  {
+    "id": "builtin_text-juQChA",
+    "formData": {
+      "text$de": "Du hast die Wetterauskunft ausgewählt.",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-14T09:13:14.563Z",
+    "modifiedOn": "2022-01-14T09:13:14.563Z"
+  },
+  {
+    "id": "builtin_text-e8ek5z",
+    "formData": {
+      "text$de": "Test: {{session.formattedCompetences.0.index}}",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-20T10:35:43.226Z",
+    "modifiedOn": "2022-01-20T13:05:20.946Z"
+  },
+  {
+    "id": "builtin_text-V9qZAD",
+    "formData": {
+      "text$de": "{{session.formattedCompetences.0.details.data.elements.0.html}}<br/>{{session.formattedCompetences.0.details.data.elements.1.html}}",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-20T13:31:47.347Z",
+    "modifiedOn": "2022-01-20T13:31:47.347Z"
+  },
+  {
+    "id": "builtin_text-6cTgGJ",
+    "formData": {
+      "text$de": "Test",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-02-21T12:34:22.100Z",
+    "modifiedOn": "2022-02-21T12:34:22.100Z"
+  },
+  {
+    "id": "builtin_text-x8c3cj",
+    "formData": {
+      "text$de": "Informationen rund um das Thema Führerschein, findest du  <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/leben-in-koeln/verkehr/fuehrerschein/index.html\" target=\"_blank\" rel=\"noopener\">hier</a>.",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-02-22T11:05:50.559Z",
+    "modifiedOn": "2022-02-22T11:11:47.690Z"
+  },
+  {
+    "id": "builtin_text-eio5Sa",
+    "formData": {
+      "text$de": "Informationen rund um das Thema Bauen, findest du  <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/leben-in-koeln/planen-bauen/index.html\" target=\"_blank\" rel=\"noopener\">hier</a>.",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-02-23T12:58:27.817Z",
+    "modifiedOn": "2022-02-23T13:35:30.827Z"
+  },
+  {
+    "id": "builtin_text-SGCIx0",
+    "formData": {
+      "text$de": "Informationen rund um das Thema Gewerbe, findest du  <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/wirtschaft/gewerbe/index.html\" target=\"_blank\" rel=\"noopener\">hier</a>.",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-02-23T13:59:23.998Z",
+    "modifiedOn": "2022-02-23T13:59:23.998Z"
+  },
+  {
+    "id": "builtin_text-HMPlXA",
+    "formData": {
+      "text$de": "Die Datei wurde hochgeladen.",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-28T07:20:24.294Z",
+    "modifiedOn": "2022-04-28T07:20:24.294Z"
+  },
+  {
+    "id": "builtin_text-gI2auK",
+    "formData": {
+      "text$de": "Das Hochladen der Datei hat leider nicht geklappt.",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-28T07:21:28.554Z",
+    "modifiedOn": "2022-04-28T07:21:28.554Z"
+  },
+  {
+    "id": "builtin_text-m8TZqd",
+    "formData": {
+      "text$de": "Hallo {{ user.webchatCustomId  }}!<br />\nDein Name ist {{user.attributes.user_vorname}} {{user.attributes.user_nachname}}<br />\nDeine Telefonnummer ist die {{user.attributes.user_telefon}}<br />\nDeine Email-Adresse lautet: {{user.attributes.user_mail}}",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-05-05T07:32:26.510Z",
+    "modifiedOn": "2022-05-09T09:49:13.531Z"
+  },
+  {
+    "id": "builtin_text-Hs31xJ",
+    "formData": {
+      "text$de": "{{weatherdata.location}}",
+      "markdown$de": true,
+      "typing$de": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-07-29T09:26:18.286Z",
+    "modifiedOn": "2022-08-15T14:31:37.278Z"
+  }
+]

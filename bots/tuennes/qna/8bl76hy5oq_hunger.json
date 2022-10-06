@@ -1,0 +1,28 @@
+{
+  "id": "8bl76hy5oq_hunger",
+  "data": {
+    "answers": {
+      "de": [
+        "Dann solltest Du dir etwas machen 😉"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Hunger",
+        "Ich habe Hunger",
+        "Jetzt habe ich Hunger",
+        "Ich bin hungrig",
+        "Ich möchte etwas essen",
+        "Jetzt möchte ich etwas essen"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

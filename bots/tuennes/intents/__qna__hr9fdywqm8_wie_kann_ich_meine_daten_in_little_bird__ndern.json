@@ -1,0 +1,28 @@
+{
+  "name": "__qna__hr9fdywqm8_wie_kann_ich_meine_daten_in_little_bird__ndern",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wie kann ich meine Daten in LITTLE BIRD ändern",
+      "Ich habe neue Anschrift",
+      "Ich bin umgezogen, was mache ich",
+      "Wie kann ich meine neue Adresse eingeben/mitteilen",
+      "Ich habe eine neue Wohnung wo muss ich das melden",
+      "Ich habe einen neuen Namen",
+      "Mein Kind hat einen neuen Nachnamen",
+      "Mein Kind hat den Nachnamen des Vaters angenommen",
+      "Ich habe den zweiten Vornamen nicht angegeben",
+      "Wie verschiebe ich den Betreuungsbeginn",
+      "Mein Kind ist bei einer Tagesmutter und soll später betreut werden",
+      "Möchte den Kindergarten später, wie änder ich das",
+      "Nachträglicher Wechselwunsch",
+      "Die Anfrage soll wieder aktiv sein",
+      "Ich habe das falsche Datum angegeben",
+      "Ich habe mich/wir haben uns getrennt. Wie gebe ich das an"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "triggers": [],
+  "description": "",
+  "nodes": [
+    {
+      "id": "b84a70717e",
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_text-SGCIx0"
+      ],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "true",
+          "conditionType": "always",
+          "node": "END"
+        }
+      ],
+      "type": "standard"
+    }
+  ]
+}

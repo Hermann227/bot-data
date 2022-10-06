@@ -1,0 +1,39 @@
+{
+  "id": "kbd6spg83m_kann_ich_meinen_vor__oder_familienname__ndern",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Vor- und / oder Familiennamen können in Ausnahmefällen auf Antrag geändert werden, wenn ein wichtiger Grund die Änderung rechtfertigt. Dies wird als öffentlich-rechtliche Namensänderung bezeichnet. Weitere Information erhältst du <a style=\"color:#b00000\" href= \"https://www.stadt-koeln.de/service/produkt/aenderung-des-vor-oder-familiennamens-1\" target=\"_blank\" rel=\"noopener\">hier</a>.\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Kann ich meinen Vor- oder Familienname ändern",
+        "Ich will meinen Nachnamen ändern",
+        "Ich will meinen Vornamen ändern",
+        "Neuer Vorname",
+        "Neuer Nachname",
+        "Neuer Familienname",
+        "Öffentlich-rechtliche Namensänderung",
+        "Kann ich meinen Nachnamen ändern",
+        "Kann ich meinen Familiennamen ändern",
+        "Kann ich meinen Namen ändern",
+        "Kann ich meinen Vornamen ändern",
+        "Namen Änderung",
+        "Vorname Änderung",
+        "Nachname Änderung",
+        "Wo Änderung des Namens",
+        "Wo Änderung des Nachnamens",
+        "Wo Änderung des Familiennamens"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

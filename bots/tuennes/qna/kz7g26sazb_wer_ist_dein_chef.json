@@ -1,0 +1,36 @@
+{
+  "id": "kz7g26sazb_wer_ist_dein_chef",
+  "data": {
+    "answers": {
+      "de": [
+        "Das dürften dann wohl meine Entwickler sein 🤔",
+        "Ich habe keinen direkten Chef, aber ich höre auf meine Entwickler 😉"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wer ist dein Chef",
+        "Wer ist dein Boss",
+        "Auf wen hörst du",
+        "Wer sagt wir was du machen sollst",
+        "Hast du einen Boss",
+        "Hast du einen Chef",
+        "Wer ist dein Vorgesetzter",
+        "Hast du einen Vorgesetzten",
+        "Sag mir wer dein Chef ist",
+        "Sag mir wer dein Boss ist",
+        "Sag mir wer dein Vorgesetzter ist",
+        "wer ist dein Chef?",
+        "wer ist dein Chef"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

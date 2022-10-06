@@ -1,0 +1,24 @@
+{
+  "name": "__qna__c35qf431ep_wer_erh_lt_eine_erm__igung_an_der_vhs_k_ln",
+  "contexts": [
+    "global",
+    "VHS"
+  ],
+  "utterances": {
+    "de": [
+      "Wer erhält eine Ermäßigung an der VHS Köln",
+      "Bekomme ich eine Ermäßigung an der VHS",
+      "Bekommen/erhalten Schüler eine Ermäßigung",
+      "Wo kann man eine Förderung bekommen",
+      "Wie viel spare ich als Auszubildende an der VHS",
+      "Kriege ich eine Förderung",
+      "Wo kann ich eine Förderung für meine Fortbildung erhalten",
+      "Kriege ich eine Förderung für meine Fortbildung",
+      "Können Auszubildende eine Ermäßigung bekommen",
+      "In welcher Höhe wird die Teilnahmegebühr als Schüler ermäßigt",
+      "Ich mache eine Fortbildung, die ich fördern lassen möchte, wie funktioniert das",
+      "Wie geht das, wenn ich meine Fortbildung fördern lassen möchte"
+    ]
+  },
+  "slots": []
+}

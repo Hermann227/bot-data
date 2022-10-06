@@ -1,0 +1,32 @@
+{
+  "id": "buab1og1hh_gibt_es_einen_geschwisterkinderbonus",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Solange eines deiner Kinder in einer städtischen KiTa betreut ist, besteht für jedes weitere Geschwisterkind der sogenannte Geschwisterkinderbonus in derselben Einrichtung. Kinder mit dem Bonus werden vorrangig in die KiTa aufgenommen. Hierdurch soll für Familien mit mehreren kleinen Kindern das Holen und Bringen erleichtert werden. Bitte melde deine Kinder trotzdem im <a style=\"color:#b00000\" href= \"https://portal-koeln.little-bird.de/\" target=\"_blank\" rel=\"noopener\">Elternportal</a> an, damit das Jugendamt über deinen Bedarf informiert ist.\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Gibt es einen Geschwisterkinderbonus",
+        "Wann gibt es Geschwisterkindbonus",
+        "Wo bekomme ich Geschwisterkindbonus",
+        "Voraussetzungen für Geschwisterkindbonus",
+        "Was ist Geschwisterkindbonus",
+        "Geschwisterkindbonus",
+        "Wann profitiere ich vom Geschwisterkindbonus",
+        "Wo muss ich mich für den Geschwisterkindbonus melden",
+        "Gibt es Voraussetzungen für Geschwisterkindbonus",
+        "Geschwisterkinderbonus"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

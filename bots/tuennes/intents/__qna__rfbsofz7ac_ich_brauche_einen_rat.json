@@ -1,0 +1,21 @@
+{
+  "name": "__qna__rfbsofz7ac_ich_brauche_einen_rat",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Ich brauche einen Rat",
+      "Kannst du mir einen Rat geben",
+      "Gib mir einen Rat",
+      "Schlag was vor",
+      "Schlag mir was vor",
+      "Was soll ich tun?",
+      "Was soll ich machen",
+      "Ich brauche einen Vorschlag",
+      "Rate mir was"
+    ]
+  },
+  "slots": []
+}

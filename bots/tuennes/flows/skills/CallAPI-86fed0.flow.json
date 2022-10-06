@@ -1,0 +1,29 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "method": "get",
+    "memory": "temp",
+    "url": "http://www.pegelonline.wsv.de/webservices/rest-api/v2/stations/{{temp.station}}/W/measurements.json?start=P1DT1H",
+    "variable": "pegelstandApiResponseHistory",
+    "invalidJson": false
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "basic-skills/call_api {\"url\":\"http://www.pegelonline.wsv.de/webservices/rest-api/v2/stations/{{temp.station}}/W/measurements.json?start=P1DT1H\",\"method\":\"get\",\"memory\":\"temp\",\"variable\":\"pegelstandApiResponseHistory\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "#"
+        }
+      ],
+      "id": "962704"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "__qna__rmuhlny499_wer_kann_meine_eingaben_lesen",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "de": [
+      "Wer kann meine Eingaben lesen",
+      "Wie werden meine Eingaben übermittelt",
+      "Wer kann meine Eingaben sehen",
+      "Wie lauten die AGB",
+      "Werden meine Eingaben gespeichert",
+      "Sind meine Daten sicher",
+      "Hältst du den Datenschutz ein",
+      "Wer kann sehen was ich hier schreibe",
+      "Wer kann sehen was ich dir schreibe",
+      "Kann jemand sehen was ich dir schreibe"
+    ]
+  },
+  "slots": []
+}

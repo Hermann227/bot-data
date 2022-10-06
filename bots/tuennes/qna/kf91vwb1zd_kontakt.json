@@ -1,0 +1,23 @@
+{
+  "id": "kf91vwb1zd_kontakt",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Sollte der KölnBot ihre Frage nicht beantworten können oder weiterführende Informationen zu Leistungen der Stadtverwaltung Köln benötigt werden, können Sie sich an das Bürgertelefon der Stadt Köln wenden:<br>Montags bis freitags, 07:00 - 18:00, unter den Rufnummern 115 oder 0221 / 221-0 oder unter <a href=\"https://www.stadt-koeln.de/service/onlinedienste/kontakt/index.html\" target=\"_blank\" rel=\"noopener\"><span style=\"color: #ffffff;\"><span style=\"text-decoration: underline;\"><strong>Kontakt </strong></span></span></a><br>Für Fragen, Anregungen oder Feedback zum KölnBot können Sie sich per Mail an die Stabsstelle Digitalisierung wenden:  <a href=\"I/D2-Poststelle@stadt-koeln.de\" target=\"_blank\" rel=\"noopener\"><span style=\"color: #ffffff;\"><span style=\"text-decoration: underline;\"><strong>I/D2-Poststelle@stadt-koeln.de.</strong></span></span></a>   ",
+        "hier sind Kontakdaten"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Kontakt"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

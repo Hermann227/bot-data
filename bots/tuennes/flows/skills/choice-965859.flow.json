@@ -1,0 +1,111 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "randomId": "h3p71is98j",
+    "contentId": "builtin_single-choice-p1Hkkz",
+    "invalidContentId": "",
+    "keywords": {
+      "wedding": [
+        "wedding",
+        "Anmeldung Eheschließung",
+        "Ehe",
+        "heiraten",
+        "heiraten köln"
+      ],
+      "water_level": [
+        "water_level",
+        "Pegelstand",
+        "Rhein",
+        "Rhein Pegelstand"
+      ],
+      "weather": [
+        "weather",
+        "Wie ist das Wetter in Köln?"
+      ],
+      "vsm": [
+        "vsm",
+        "Behördendienstleistungen",
+        "Abfrage zu Behördendienstleistungen",
+        "Dienstleistungen"
+      ]
+    },
+    "config": {
+      "nbMaxRetries": 0,
+      "repeatChoicesOnInvalid": false
+    }
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-p1Hkkz {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "746419"
+    },
+    {
+      "name": "parse",
+      "onReceive": [
+        "basic-skills/choice_parse_answer {\"randomId\":\"h3p71is98j\",\"contentId\":\"builtin_single-choice-p1Hkkz\",\"invalidContentId\":\"\",\"keywords\":{\"wedding\":[\"wedding\",\"Anmeldung Eheschließung\",\"Ehe\",\"heiraten\",\"heiraten köln\"],\"water_level\":[\"water_level\",\"Pegelstand\",\"Rhein\",\"Rhein Pegelstand\"],\"weather\":[\"weather\",\"Wie ist das Wetter in Köln?\"],\"vsm\":[\"vsm\",\"Behördendienstleistungen\",\"Abfrage zu Behördendienstleistungen\",\"Dienstleistungen\"]},\"config\":{\"nbMaxRetries\":0,\"repeatChoicesOnInvalid\":false}}"
+      ],
+      "next": [
+        {
+          "condition": "temp['skill-choice-valid-h3p71is98j'] === true",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "invalid"
+        }
+      ],
+      "triggers": [
+        {
+          "conditions": [
+            {
+              "id": "always"
+            }
+          ]
+        }
+      ],
+      "onEnter": [],
+      "id": "717351"
+    },
+    {
+      "name": "invalid",
+      "onEnter": [
+        "basic-skills/choice_invalid_answer {\"randomId\":\"h3p71is98j\"}"
+      ],
+      "next": [
+        {
+          "condition": "Number(temp['skill-choice-invalid-count-h3p71is98j']) > Number(0)",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "sorry"
+        }
+      ],
+      "id": "443796"
+    },
+    {
+      "name": "sorry",
+      "onEnter": [],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "243775"
+    }
+  ]
+}

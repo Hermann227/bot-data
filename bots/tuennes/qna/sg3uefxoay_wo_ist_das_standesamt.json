@@ -1,0 +1,30 @@
+{
+  "id": "sg3uefxoay_wo_ist_das_standesamt",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Dies ist die Adresse des Standesamtes:\nStandesamt, Haus Neuerburg\nGülichplatz 1-3\n50667 Köln"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wo ist das Standesamt",
+        "Wo finde ich das Standesamt",
+        "Standesamt Haus Neuerburg",
+        "Wo Haus Neuerburg",
+        "Adresse Standesamt",
+        "Standort Standesamt",
+        "Wo Eheschließung Köln",
+        "Wo Hochzeit Köln"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "__qna__k9k2p4wyy6_du_bist_lustig",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Du bist lustig",
+      "Du bist witzig",
+      "Du machst Spaß",
+      "Du bist spaßig",
+      "Du bist komisch",
+      "Du bist so lustig",
+      "Du bist sehr lustig",
+      "Du bist drollig"
+    ]
+  },
+  "slots": []
+}

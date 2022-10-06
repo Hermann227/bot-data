@@ -1,0 +1,18 @@
+{
+  "name": "__qna__8bl76hy5oq_hunger",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Hunger",
+      "Ich habe Hunger",
+      "Jetzt habe ich Hunger",
+      "Ich bin hungrig",
+      "Ich möchte etwas essen",
+      "Jetzt möchte ich etwas essen"
+    ]
+  },
+  "slots": []
+}

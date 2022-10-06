@@ -1,0 +1,34 @@
+{
+  "id": "vr693xa7sv_ich_habe_heute_geburtstag",
+  "data": {
+    "answers": {
+      "de": [
+        "Happy Birthday 🎈",
+        "Na dann, alles Gute!",
+        "Alles Gute 🙂",
+        "Dann feier mal schön! 🎉"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Ich habe heute Geburtstag",
+        "Wusstest du dass ich heute Geburtstag habe",
+        "Heute ist mein Geburtstag",
+        "Ich habe Geburtstag",
+        "Es ist mein Geburtstag",
+        "Ich feiere heute Geburtstag",
+        "Ich feiere heute meinen Geburtstag",
+        "Das ist mein Geburtstag",
+        "Rate mal wer heute Geburtstag hat"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

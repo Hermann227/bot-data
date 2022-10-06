@@ -1,0 +1,21 @@
+{
+  "name": "__qna__cvzqdknyua_ich_werde_zurueckkommen",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Ich werde zurueckkommen",
+      "ich werde wiederkommen",
+      "Ich werde nochmal schreiben",
+      "Ich werde dir bald wieder schreiben",
+      "Ich werde dir wieder schreiben",
+      "Ich schreibe dir wieder",
+      "Dir schreibe ich öfter",
+      "Wir sehen uns bald wieder",
+      "Ich komme wieder"
+    ]
+  },
+  "slots": []
+}

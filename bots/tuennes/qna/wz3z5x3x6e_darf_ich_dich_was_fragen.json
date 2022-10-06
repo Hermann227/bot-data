@@ -1,0 +1,42 @@
+{
+  "id": "wz3z5x3x6e_darf_ich_dich_was_fragen",
+  "data": {
+    "answers": {
+      "de": [
+        "Na klar, schieß los!",
+        "Her mit Deiner Frage 😉",
+        "Ich hoffe, ich kann dir weiterhelfen.",
+        "Ich bin ganz Ohr 😄",
+        "Dafür bin ich ja hier 😉"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Darf ich dich was fragen",
+        "Darf ich eine Frage stellen",
+        "Ich habe eine Frage",
+        "Ich hätte eine Frage",
+        "Ich möchte eine Frage stellen",
+        "Ich stelle eine Frage",
+        "Ich würde gerne eine Frage stellen",
+        "Ich habe eine Frage an dich",
+        "Ich will dich etwas fragen",
+        "Frage",
+        "Ich habe noch eine Frage",
+        "Ich will noch etwas fragen",
+        "Beantworte mir eine Frage",
+        "Kannst du mir eine Frage beantworten",
+        "Kannst du mir ein paar Fragen beantworten",
+        "Ich stelle dir eine Frage"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

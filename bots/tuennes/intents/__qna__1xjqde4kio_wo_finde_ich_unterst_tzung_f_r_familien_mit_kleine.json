@@ -1,0 +1,24 @@
+{
+  "name": "__qna__1xjqde4kio_wo_finde_ich_unterst_tzung_f_r_familien_mit_kleine",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wo finde ich Unterstützung für Familien mit kleinen Kindern",
+      "Ich habe Schwierigkeiten mit meinem Kind",
+      "Ich habe Probleme mit meinem Kind",
+      "Wo bekomme ich Hilfe bei der Erziehung meines Kindes",
+      "Ich schlage mein Kind und möchte mich melden",
+      "Mein Kind wurde geschlagen, wo kann ich mich melden",
+      "Wo kann ich mich für mein Kind beraten lassen",
+      "Meine Tochter macht Probleme, was kann ich tun",
+      "Mein Sohn macht Probleme, was kann ich tun",
+      "Ich bekomme ein Kind, was muss ich alles beachten",
+      "Ich bin schwanger, auf was muss ich achten",
+      "Mein Kind schreit immer"
+    ]
+  },
+  "slots": []
+}

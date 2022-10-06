@@ -1,0 +1,26 @@
+{
+  "name": "__qna__g6l58asgvf_wie_teuer_ist_ein_platz_in_der_kindertagespflege",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Wie teuer ist ein Platz in der Kindertagespflege",
+      "Was kostet ein Kindertagespflegeplatz",
+      "Was muss ich bezahlen für einen Platz bei der Tagesmutter / dem Tagesvater? Was muss ich bezahlen für einen Kindertagespflegeplatz",
+      "Wie hoch ist der Elternbeitrag in der Kindertagespflege / bei der Tagesmutter / dem Tagesvater",
+      "Wie viel Geld muss ich bezahlen für den Platz in der Kindertagespflege / für den Kindertagespflegeplatz / für den Platz bei der Tagesmutter / für den Platz bei dem (beim) Tagesvater",
+      "Wie viel Geld (für) Kindertagespflege / Tagesmutter / Tagesvater?",
+      "Wie hoch sind die Kosten für die Kindertagespflege / für die Tagesmutter / für den Tagesvater / für den (Betreuungs-)Platz in der Kindertagespflege",
+      "Wie hoch sind die Kosten damit mein Kind in die Kindertagespflege gehen kann / zur Kindertagespflege gehen kann? Wie hoch sind die Kosten damit mein Kind zur Tagesmutter / zum Tagesvater gehen kann",
+      "Wie hoch sind die Kosten für die Betreuung in der Kindertagespflege / bei der Tagesmutter / bei dem (beim) Tagesvater",
+      "Kosten Kindertagespflege",
+      "Kosten Tagesmutter",
+      "Kosten Tagesvater",
+      "Wie teuer ist der Platz in der Kita",
+      "Wie teuer ist ein Kita Platz"
+    ]
+  },
+  "slots": []
+}

@@ -1,0 +1,102 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "randomId": "12muzd59vz",
+    "contentId": "builtin_single-choice-jWQEhi",
+    "invalidContentId": "builtin_text-s0FXc8",
+    "keywords": {
+      "nein": [
+        "nein"
+      ],
+      "jaDeutschland": [
+        "jaDeutschland",
+        "ja in Deutschland"
+      ],
+      "jaAusland": [
+        "jaAusland",
+        "ja nicht in Deutschland"
+      ]
+    },
+    "config": {
+      "nbMaxRetries": 2,
+      "repeatChoicesOnInvalid": true
+    }
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-jWQEhi {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "761094"
+    },
+    {
+      "name": "parse",
+      "onReceive": [
+        "basic-skills/choice_parse_answer {\"randomId\":\"12muzd59vz\",\"contentId\":\"builtin_single-choice-jWQEhi\",\"invalidContentId\":\"builtin_text-s0FXc8\",\"keywords\":{\"nein\":[\"nein\"],\"jaDeutschland\":[\"jaDeutschland\",\"ja in Deutschland\"],\"jaAusland\":[\"jaAusland\",\"ja nicht in Deutschland\"]},\"config\":{\"nbMaxRetries\":2,\"repeatChoicesOnInvalid\":true}}"
+      ],
+      "next": [
+        {
+          "condition": "temp['skill-choice-valid-12muzd59vz'] === true",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "invalid"
+        }
+      ],
+      "triggers": [
+        {
+          "conditions": [
+            {
+              "id": "always"
+            }
+          ]
+        }
+      ],
+      "onEnter": [],
+      "id": "513938"
+    },
+    {
+      "name": "invalid",
+      "onEnter": [
+        "basic-skills/choice_invalid_answer {\"randomId\":\"12muzd59vz\"}"
+      ],
+      "next": [
+        {
+          "condition": "Number(temp['skill-choice-invalid-count-12muzd59vz']) > Number(2)",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "sorry"
+        }
+      ],
+      "id": "005553"
+    },
+    {
+      "name": "sorry",
+      "onEnter": [
+        "say #!builtin_text-s0FXc8 {}",
+        "say #!builtin_single-choice-jWQEhi {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "157427"
+    }
+  ]
+}

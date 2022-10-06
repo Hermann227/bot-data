@@ -1,0 +1,26 @@
+{
+  "name": "__qna__68cpeum5rz_wie_kann_ich_einen_termin_an_der_vhs_k_ln_vereinba",
+  "contexts": [
+    "global",
+    "VHS"
+  ],
+  "utterances": {
+    "de": [
+      "Wie kann ich einen Termin an der VHS Köln vereinbaren",
+      "Wie bekomme ich einen Termin zur Berufsberatung",
+      "Wie erhalte ich einen Termin zur Berufsberatung",
+      "Wo bekomme ich einen Termin zur Berufsberatung",
+      "Woher bekomme ich einen Termin zur Berufsberatung",
+      "Wie macht man einen Termin für eine Berufsberatung",
+      "Kann man einen Termin zur Berufsberatung bekommen",
+      "Ich möchte einen Termin zur Berufsberatung",
+      "Wie kriege ich einen Termin zur Beruflichen Beratung",
+      "Woher erhalte ich einen Termin zur Beruflichen Beratung",
+      "Wo erhält man einen Termin zur Beruflichen Beratung",
+      "Ich möchte einen Termin für eine Beruflichen Beratung machen",
+      "Wo bekomme ich einen Termin für eine Beruflichen Bildung",
+      "Wie erhält man einen Termin"
+    ]
+  },
+  "slots": []
+}

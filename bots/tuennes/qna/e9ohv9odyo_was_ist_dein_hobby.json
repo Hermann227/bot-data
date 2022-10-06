@@ -1,0 +1,31 @@
+{
+  "id": "e9ohv9odyo_was_ist_dein_hobby",
+  "data": {
+    "answers": {
+      "de": [
+        "Ich beantworte gerne ganz, ganz viele Fragen 😃",
+        "Meine Arbeit ist mein Hobby.",
+        "Ich beschäftige mich gerne mit Fragen 😉"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Was ist dein Hobby",
+        "Hast du ein Hobby",
+        "Hast du Hobbies",
+        "Was machst du gerne",
+        "Was magst du",
+        "Was sind deine Hobbies",
+        "Was machst du am liebsten"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

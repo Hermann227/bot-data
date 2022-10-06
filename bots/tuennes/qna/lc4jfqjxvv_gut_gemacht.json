@@ -1,0 +1,34 @@
+{
+  "id": "lc4jfqjxvv_gut_gemacht",
+  "data": {
+    "answers": {
+      "de": [
+        "Schön, dass ich helfen konnte 😄",
+        "Danke, gern geschehen."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Gut gemacht",
+        "Das machst du gut",
+        "Das hast du gut gemacht",
+        "Super",
+        "Bravo",
+        "Super gemacht",
+        "Spitze",
+        "Sehr gut",
+        "Ich bin beeindruckt",
+        "Wow",
+        "cool"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

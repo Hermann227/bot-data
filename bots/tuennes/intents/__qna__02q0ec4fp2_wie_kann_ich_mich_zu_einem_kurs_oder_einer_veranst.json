@@ -1,0 +1,24 @@
+{
+  "name": "__qna__02q0ec4fp2_wie_kann_ich_mich_zu_einem_kurs_oder_einer_veranst",
+  "entities": [],
+  "contexts": [
+    "global",
+    "VHS"
+  ],
+  "utterances": {
+    "de": [
+      "Wie kann ich mich zu einem Kurs oder einer Veranstaltung an der VHS Köln anmelden",
+      "Wie kann ich mich zu einem Kurs/Veranstaltung anmelden",
+      "Kann ich mich auch online anmelden",
+      "Kann ich mich online anmelden",
+      "Besteht die Möglichkeit, sich online für Kurse anzumelden",
+      "Kann ich mich postalisch anmelden",
+      "Wie funktioniert das Anmelden online",
+      "Geht die Anmeldung zu einem Kurs online",
+      "Was muss ich beachten, wenn ich mich online zu einer Veranstaltung anmelde",
+      "Welche Möglichkeiten gibt es, sich online zu Kursen anzumelden",
+      "Wo kann ich mich online für eine Veranstaltung anmelden"
+    ]
+  },
+  "slots": []
+}

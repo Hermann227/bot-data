@@ -1,0 +1,32 @@
+{
+  "id": "bwvlwmbzcj_wovon_traeumst_du",
+  "data": {
+    "answers": {
+      "de": [
+        "Ich träume von elektrischen Schafen. ",
+        "Ich träume von der Weltherrschaft der Chatbots. 🤴🤴🤴",
+        "Wer nicht schläft, kann auch nicht träumen... 😎"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wovon traeumst du",
+        "Hast du Träume",
+        "Träumst Du",
+        "Traum",
+        "Träume",
+        "Wovon träumst Du nachts",
+        "Kannst du träumen",
+        "Wovon träumst du"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

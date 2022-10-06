@@ -1,0 +1,32 @@
+{
+  "id": "nu2vgvvycq_wann_wurdest_du_entwickelt",
+  "data": {
+    "answers": {
+      "de": [
+        "Meine ersten Entwicklungsschritte habe ich im Jahr 2016 bei einem Hackathon in Düsseldorf gemacht. 😄"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wann wurdest du entwickelt",
+        "Wie alt bist du?",
+        "Seit wann gibt es dich",
+        "Wie lange gibt es dich schon",
+        "Wie lange gibt es dich",
+        "Gibt es dich schon lange",
+        "Was ist dein Alter",
+        "Alter von dir",
+        "Wann wurdest du gemacht",
+        "Wie viele Jahre gibt es dich schon"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

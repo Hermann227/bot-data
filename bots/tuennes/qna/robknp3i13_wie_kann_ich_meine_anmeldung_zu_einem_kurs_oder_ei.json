@@ -1,0 +1,34 @@
+{
+  "id": "robknp3i13_wie_kann_ich_meine_anmeldung_zu_einem_kurs_oder_ei",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "VHS"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Information dazu, wie du deinen Kurs oder deine Veranstaltung an der VHS Köln stornieren kannst findest du <a style=\"color:#b00000\" href= \"https://vhs-koeln.de/Artikel/titel-Ich+m%C3%B6chte+mich+vom+Kurs+abmelden+%28Stornierung%29%2C+was+ist+zu+tun%3F/cmx548579f2df951.html\" target=\"_blank\" rel=\"noopener\">hier</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie kann ich meine Anmeldung zu einem Kurs oder einer Veranstaltung an der VHS Köln stornieren",
+        "Kann ich mich online abmelden",
+        "Gibt es die Möglichkeit, sich online von einem Kurs abzumelden",
+        "Kann man sich im Internet abmelden",
+        "Gibt es die Möglichkeit, sich im Internet von Veranstaltungen abzumelden",
+        "Wie kann man sich im Internet von Veranstaltungen abmelden",
+        "Kann ich mich von einem Kurs abmelden",
+        "Gibt es die Möglichkeit, sich von einer Veranstaltung abzumelden",
+        "Wie kann ich mich von einer Veranstaltung abmelden",
+        "Ist es möglich, sich von Kursen abzumelden",
+        "Kann man Veranstaltungen stornieren",
+        "Besteht die Möglichkeit, eine Veranstaltung zu stornieren"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

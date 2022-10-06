@@ -1,0 +1,32 @@
+{
+  "id": "dv4hxsg5r1_habe_ich_anspruch_auf_einen_bildungsscheck_nrw_ode",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "VHS"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Informationen zum Bildungsscheck NRW und zur Bildungsprämie findest du <a style=\"color:#b00000\" href= \"https://vhs-koeln.de/Artikel/autowert-cmx54819b41b4356\" target=\"_blank\" rel=\"noopener\">hier</a>."
+      ]
+    },
+    "questions": {
+      "de": [
+        "Habe ich Anspruch auf einen Bildungsscheck NRW oder eine Bildungsprämie",
+        "Wo erhalte ich einen Bildungsscheck/Bildungsprämie",
+        "Ist meine Weiterbildung förderfähig",
+        "Wo bekommt man einen Bildungsscheck",
+        "Habe ich Anspruch auf einen Bildungsscheck",
+        "Bildungsprämie, wie funktioniert das",
+        "Ich möchte mich über einem Bildungsscheck erkundigen",
+        "Wie erhalte ich einen Termin für eine Bildungsprämie",
+        "Wie macht man einen Termin für den Bildungsscheck",
+        "Kann ich einen Termin für eine Bildungsprämie kriegen"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

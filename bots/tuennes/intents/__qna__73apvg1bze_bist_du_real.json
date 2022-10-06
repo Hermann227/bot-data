@@ -1,0 +1,19 @@
+{
+  "name": "__qna__73apvg1bze_bist_du_real",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Bist du real",
+      "Gibt es dich wirklich",
+      "Existierst du",
+      "Bist du echt",
+      "Lebst du",
+      "Bist du am leben",
+      "Gibt es dich"
+    ]
+  },
+  "slots": []
+}

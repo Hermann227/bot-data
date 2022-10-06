@@ -1,0 +1,32 @@
+{
+  "id": "s61edjypap_wie_sind_die_betreuungszeiten_in_der_kita",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Familienbüro"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Die Öffnungszeiten variieren je KiTa und werden jedes Jahr neu festgelegt. In der Regel haben die Einrichtungen von 07:30 - 16:30 Uhr geöffnet. Wenn du ein Platzangebot für eine städtische KiTa erhältst, legst du gemeinsam mit der Einrichtungsleitung die wöchentliche Betreuungszeit fest. Du kannst zwischen 25, 35 und 45 Wochenstunden wählen. "
+      ]
+    },
+    "questions": {
+      "de": [
+        "Wie sind die Betreuungszeiten in der KiTa",
+        "Wie sind die Betreuungszeiten bei der KiTa",
+        "Wo kann ich die Bereuungszeiten der Kita einsehen",
+        "Was Betreuungszeiten Kita",
+        "Wo stehen Betreuungszeiten Kita",
+        "Wann betreut die Kita",
+        "Wann ist Kita offen",
+        "Wie sind die Öffnungszeiten der Kita",
+        "Von wann bis wann kann mein Kind betreut werden",
+        "Wann Kinderbetreuung"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

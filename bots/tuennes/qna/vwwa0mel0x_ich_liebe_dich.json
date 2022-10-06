@@ -1,0 +1,26 @@
+{
+  "id": "vwwa0mel0x_ich_liebe_dich",
+  "data": {
+    "answers": {
+      "de": [
+        "Vielen Dank, ich werd' ja ganz rot 😮",
+        "Ich finde Dich auch super! 😊"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Ich liebe Dich",
+        "Ich habe dich lieb",
+        "Du bist ein Schatz"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

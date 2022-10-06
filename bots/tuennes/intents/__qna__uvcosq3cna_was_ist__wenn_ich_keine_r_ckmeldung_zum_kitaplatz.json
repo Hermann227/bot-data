@@ -1,0 +1,24 @@
+{
+  "name": "__qna__uvcosq3cna_was_ist__wenn_ich_keine_r_ckmeldung_zum_kitaplatz",
+  "contexts": [
+    "global",
+    "Familienbüro"
+  ],
+  "utterances": {
+    "de": [
+      "Was ist, wenn ich keine Rückmeldung zum Kitaplatz erhalten habe",
+      "Alle anderen haben schon einen Kitaplatz, wieso ich noch nicht",
+      "Wann bekomme ich endlich ein Schreiben für einen Kitaplatz?",
+      "Was soll / kann / muss ich machen, wenn ich keine Rückmeldung zum Kitaplatz bekomme",
+      "Was ist wenn ich von der Kita noch keinen Bescheid bekommen habe",
+      "Die Kita hat sich noch nicht gemeldet",
+      "Ich habe noch keine Reservierung für die Kita erhalten",
+      "Rückmeldung Kita für mein Kind / mein Sohn / meine Tochter",
+      "Ich habe noch keine Post von der Kita bekommen für einen Kitaplatz",
+      "Ich habe noch keinen Kitaplatz für mein Kind / meine Tochter / meinen Sohn",
+      "Mir fehlt noch eine Rückmeldung/Antwort bezüglich des Kitaplatzes für mein Kind/meine Tochter/meinen Sohn",
+      "Keine Antwort Kita"
+    ]
+  },
+  "slots": []
+}

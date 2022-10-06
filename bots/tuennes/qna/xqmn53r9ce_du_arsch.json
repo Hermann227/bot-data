@@ -1,0 +1,32 @@
+{
+  "id": "xqmn53r9ce_du_arsch",
+  "data": {
+    "answers": {
+      "de": [
+        "Immer schön freundlich bleiben 😉"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Du Arsch",
+        "Du bist scheiße",
+        "Arschloch",
+        "Penner",
+        "Blödmann",
+        "Vollpfosten",
+        "Horst",
+        "Honk",
+        "Spacko",
+        "Spacken"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

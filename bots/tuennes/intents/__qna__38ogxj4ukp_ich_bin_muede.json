@@ -1,0 +1,22 @@
+{
+  "name": "__qna__38ogxj4ukp_ich_bin_muede",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Ich bin muede",
+      "müde",
+      "ich bin sehr müde",
+      "ich bin hundemüde",
+      "ich bin totmüde",
+      "ich bin so müde",
+      "so müde",
+      "ich bin total kaputt",
+      "ich bin kaputt",
+      "Ich bin müde"
+    ]
+  },
+  "slots": []
+}

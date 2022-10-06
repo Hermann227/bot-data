@@ -1,0 +1,31 @@
+{
+  "id": "dxgwgjdq5c_da_hast_du_recht",
+  "data": {
+    "answers": {
+      "de": [
+        "Freut mich 🙂Kann ich Dir noch weiter helfen?"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Da hast du Recht",
+        "Da liegst du richtig",
+        "Das stimmt",
+        "Du hast Recht",
+        "Du hast absolut Recht",
+        "Du hast auf jeden Fall Recht",
+        "Ich bin ganz deiner Meinung",
+        "Du hast allenfalls Recht",
+        "Stimmt"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global",
+      "smalltalk"
+    ]
+  }
+}

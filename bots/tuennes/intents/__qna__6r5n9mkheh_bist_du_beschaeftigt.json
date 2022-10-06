@@ -1,0 +1,19 @@
+{
+  "name": "__qna__6r5n9mkheh_bist_du_beschaeftigt",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Bist du beschaeftigt",
+      "Hast du viel zu tun",
+      "Wie viel hast du zu tun",
+      "Hast du wirklich viel zu tun",
+      "Wie beschäftigt bist du",
+      "Bist du sehr beschäftigt",
+      "Bist du beschäftigt"
+    ]
+  },
+  "slots": []
+}

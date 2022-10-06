@@ -1,0 +1,23 @@
+{
+  "name": "__qna__lc4jfqjxvv_gut_gemacht",
+  "contexts": [
+    "global",
+    "smalltalk"
+  ],
+  "utterances": {
+    "de": [
+      "Gut gemacht",
+      "Das machst du gut",
+      "Das hast du gut gemacht",
+      "Super",
+      "Bravo",
+      "Super gemacht",
+      "Spitze",
+      "Sehr gut",
+      "Ich bin beeindruckt",
+      "Wow",
+      "cool"
+    ]
+  },
+  "slots": []
+}

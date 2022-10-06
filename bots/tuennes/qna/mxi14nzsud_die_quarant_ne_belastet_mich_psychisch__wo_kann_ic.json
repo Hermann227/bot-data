@@ -1,0 +1,45 @@
+{
+  "id": "mxi14nzsud_die_quarant_ne_belastet_mich_psychisch__wo_kann_ic",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global",
+      "Corona und Standesamt"
+    ],
+    "enabled": true,
+    "answers": {
+      "de": [
+        "Das Gesundheitssystem hat ein psychologisch betreutes Sorgentelefon für Kontaktpersonen in Quarantäne eingerichtet. Hier werden keine medizinischen Fragen oder spezielle Fragen zur Quarantäne beantwortet: 0152 / 0163 - 1386.\n"
+      ]
+    },
+    "questions": {
+      "de": [
+        "Die Quarantäne belastet mich psychisch. Wo kann ich mich melden",
+        "Gibt es ein Sorgentelefon für Kontaktpersonen in Qurantäne",
+        "Ich halte die Quarantäne nicht mehr aus",
+        "Ich halte Corona nicht mehr aus",
+        "Ich leide unter psychischen Beschwerden wegen Corona",
+        "Ich fühle mich durch die Quarantäne niedergeschlagen",
+        "Ich fühle mich durch die Quarantäne depressiv",
+        "Ich mache mir Sorgen wegen Corona",
+        "Die Quarantäne macht mich wahnsinnig",
+        "Corona macht mir psychisch zu schaffen",
+        "Gibt es eine Telefonnummer bei psychischen Problemen aufgrund von Corona",
+        "Corona macht mich depressiv",
+        "Psychische Beschwerden Corona",
+        "Psychische Beschwerden wegen Corona",
+        "Corona macht mich psychisch krank",
+        "Corona Depressionen",
+        "Corona Auswirkung auf die Psyche",
+        "Corona macht mich verrückt",
+        "Verrückt durch Corona",
+        "Einsam in Quarantäne",
+        "Angstzustände wegen Corona",
+        "Einsam durch Corona",
+        "Ich fühle mich in der Quarantäne alleine"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}
